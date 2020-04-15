@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Sibab &mdash; Login</title>
+		<link rel="stylesheet" type="text/css" href="../static/login.css" media="screen" />
+	<!------ Include the above in your HEAD tag ---------->
+	</head>
+	<body>
+		<div class="wrapper fadeInDown">
+			<div id="formContent">
+				<!-- Tabs Titles -->
+
+				<!-- Icon -->
+				<div class="fadeIn first">
+				  <img src="../static/icon.png" id="icon" alt="User Icon" />
+				</div>
+
+				<!-- Login Form -->
+				<form class="formstyle" action="/logins" method="POST">
+					<input type="text" id="username" class="fadeIn second" name="username" placeholder="username">
+					<input type="text" id="password" class="fadeIn third" name="password" placeholder="password">
+					<input type="submit" class="loginButton">
+				</form>
+
+				<!-- Create a new account -->
+				<div id="formFooter">
+					<a class="underlineHover" href="/cadastros">Create Account</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>

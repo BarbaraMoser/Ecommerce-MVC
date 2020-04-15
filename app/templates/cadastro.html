@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> Sibab &mdash; Cadastro </title>
+		<link rel="stylesheet" type="text/css" href="../static/cadastro.css" media="screen" />
+		<link rel="stylesheet" type="text/css" href="cadastro.js" media="screen" />
+	</head>
+	<body>
+		<div class="container">
+			<div id="signupbox" style=" margin-top:50px" class="mainbox col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2">
+				<div class="panel panel-info">
+					<div class="panel-body" >
+						<form  class="form-horizontal" action="/salvar_cadastro" method="POST">
+							<input type='hidden' name='csrfmiddlewaretoken' value='XFe2rTYl9WOpV8U6X5CfbIuOZOELJ97S' />
+							<div class="cadastro">
+								<h4> CADASTRO </h4>
+							</div>
+							<div id="div_id_username" class="form-group required">
+								<label for="id_username" class="control-label col-md-4  requiredField"> Username<span class="asteriskField">*</span> </label>
+								<div class="controls col-md-8 ">
+									<input class="input-md" id="id_username" maxlength="30" name="username" placeholder="Choose your username" style="margin-bottom: 10px" type="text" />
+								</div>
+							</div>
+							<div id="div_id_email" class="form-group required">
+								<label for="id_email" class="control-label col-md-4  requiredField"> E-mail<span class="asteriskField">*</span> </label>
+								<div class="controls col-md-8 ">
+									<input class="input-md" id="id_email" name="email" placeholder="Your current email address" style="margin-bottom: 10px" type="email" />
+								</div>
+							</div>
+							<div id="div_id_password1" class="form-group required">
+								<label for="id_password1" class="control-label col-md-4  requiredField">Password<span class="asteriskField">*</span> </label>
+								<div class="controls col-md-8 ">
+									<input class="input-md" id="id_password1" name="password" placeholder="Create a password" style="margin-bottom: 10px" type="password" />
+								</div>
+							</div>
+							<div id="div_id_name" class="form-group required">
+								<label for="id_name" class="control-label col-md-4  requiredField"> Full name<span class="asteriskField">*</span> </label>
+								<div class="controls col-md-8 ">
+									<input class="input-md" id="id_name" name="name" placeholder="Your first and last name" style="margin-bottom: 10px" type="text" />
+								</div>
+							</div>
+							<div id="div_id_gender" class="form-group required">
+								<label for="id_gender"  class="control-label col-md-4  requiredField"> Gender<span class="asteriskField">*</span> </label>
+								<div class="controls col-md-8 "  style="margin-bottom: 10px">
+									 <input class="input-md" id="id_gender" name="gender" placeholder="Your gender (Male, Female, another one)" style="margin-bottom: 10px" type="text" />
+								</div>
+							</div>
+							<div id="div_id_number" class="form-group required">
+								 <label for="id_number" class="control-label col-md-4  requiredField"> Contact number<span class="asteriskField">*</span> </label>
+								 <div class="controls col-md-8 ">
+									 <input class="input-md" id="id_number" name="number" placeholder="Provide your number" style="margin-bottom: 10px" type="text" />
+								</div>
+							</div>
+							<div id="div_id_location" class="form-group required">
+								<label for="id_location" class="control-label col-md-4  requiredField"> Address<span class="asteriskField">*</span> </label>
+								<div class="controls col-md-8 ">
+									<input class="input-md" id="id_location" name="location" placeholder="Your pincode and city" style="margin-bottom: 10px" type="text" />
+								</div>
+							</div>
+							<div>
+								<input type="submit" class="saveButton" style="margin-left: 50px;">
+							</div>
+						</form>
+					</div>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>
