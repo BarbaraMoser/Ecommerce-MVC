@@ -4,7 +4,7 @@ import MySQLdb
 class Repository:
 
     def __init__(self):
-        self._conexao = MySQLdb.connect(host='localhost', user='root', passwd='root', database='ecommerce')
+        self._conexao = MySQLdb.connect(host='localhost', user='root', password='root', database='ecommerce', port=3306)
         self._cursor = self._conexao.cursor()
 
     def save(self):

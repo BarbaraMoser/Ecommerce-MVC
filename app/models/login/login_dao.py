@@ -1,5 +1,5 @@
 from app.core.repository import Repository
-from app.models.login import Login
+from app.models.login.login import Login
 
 
 class LoginDao(Repository):
@@ -18,14 +18,14 @@ class LoginDao(Repository):
 
     def create(self, login: Login):
         self._cursor.execute(
-            f"INSERT INTO LOGIN (ID, USERNAME, PASSWORD, LOGGED_IN) VALUES ("
+            f"INSERT INTO LOGIN (ID, USERNAME, PASSWORD, PERSON_ID) VALUES ("
             f"'{login.id}',"
             f"'{login.username}',"
             f"'{login.password}',"
-            f"'{login.logged_in}')"
+            f"'{login.person_id}')"
         )
-        self.save()
-        return login.__dict__
+        self._conexao.commit()
+        self._conexao.close()
 
     def update(self, login: Login):
         self._cursor.execute(

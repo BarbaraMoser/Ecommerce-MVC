@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> Sibab &mdash; Validar Compra </title>
+		<link rel="stylesheet" type="text/css" href="../static/cadastro.css" media="screen" />
+		<link rel="stylesheet" type="text/css" href="cadastro.js" media="screen" />
+	</head>
+	<body>
+		<div class="container">
+			<div id="signupbox" style=" margin-top:50px" class="mainbox col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2">
+				<div class="panel panel-info">
+					<div class="panel-body" >
+						<form  class="form-horizontal" action="/salvar_compra" method="POST">
+							<input type='hidden' name='csrfmiddlewaretoken' value='XFe2rTYl9WOpV8U6X5CfbIuOZOELJ97S' />
+							<div class="cadastro">
+								<h4> PURCHASE </h4>
+							</div>
+							<div id="div_id_client" class="form-group required">
+								<label for="id_client" class="control-label col-md-4  requiredField"> Client ID<span class="asteriskField">*</span> </label>
+								<div class="controls col-md-8 ">
+									<input class="input-md" id="id_client" name="client_id" placeholder="The client id" style="margin-bottom: 10px" type="text" />
+								</div>
+							</div>
+							<div id="div_id_total" class="form-group required">
+								<label for="id_total" class="control-label col-md-4  requiredField"> Purchase total<span class="asteriskField">*</span> </label>
+								<div class="controls col-md-8 ">
+									<input class="input-md" id="id_total" name="total_purchase_amount" placeholder="The purchase total" style="margin-bottom: 10px" type="text" />
+								</div>
+							</div>
+							<div id="div_id_status" class="select_type">
+								<label class="control-label col-md-4  requiredField"> Purchase status<span class="asteriskField">*</span> </label>
+								<select id="status" name="status_purchase">
+									<option value="1" selected>Select</option>
+									<option value="2">Open</option>
+									<option value="3">In available</option>
+									<option value="3">Close</option>
+								</select>
+							</div>
+							<div>
+								<input type="submit" class="saveButton" style="margin-left: 50px;">
+							</div>
+						</form>
+					</div>s
+				</div>
+			</div>
+		</div>
+	</body>
+</html>
