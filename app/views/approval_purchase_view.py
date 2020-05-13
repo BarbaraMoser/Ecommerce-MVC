@@ -18,7 +18,6 @@ def salvar_compra():
     try:
         if not purchase_controller.verify_approval(request.form):
             raise Exception('Purchase denied')
-
         return redirect('/home')
     except:
         return redirect('/approval')

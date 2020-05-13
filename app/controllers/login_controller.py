@@ -26,3 +26,16 @@ class LoginController(Resource):
     def delete(self, id):
         self._login_dao.delete(id)
         return '', 204
+
+    # def validate_login(self, username: str, password: str) -> Login:
+    #     saved_user = self._validate_username(username)
+    #     if not password == saved_user.get_password():
+    #         raise Exception('Senha incorreta')
+    #     return self.create(username, password)
+
+    # def _validate_username(self, username: str) -> User:
+    #     #     user_controller = UserController()
+    #     #     saved_user = user_controller.find_user(username)
+    #     #     if not len(saved_user):
+    #     #         raise Exception('Usuário não encontrado')
+    #     #     return saved_user[0]

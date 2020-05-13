@@ -18,8 +18,8 @@ class FacadeApproval:
 
         if not cls._credit_limit_available(credit_limit,
                                            limit_used) > puchase.total_purchase_amount or serasa_situation <= cls._SERASA_HIGH_RISK or process_level == 3:
-            return False
-        return True
+            return 'Disapproved'
+        return 'Approved'
 
     def _credit_limit_available(self, credit_limit, limit_used):
         return credit_limit - limit_used
