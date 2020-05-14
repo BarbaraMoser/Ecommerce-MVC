@@ -1,0 +1,5502 @@
+Código;Nome;UF;Região;País
+2900108;Abaíra;BA;Nordeste;BRA
+2900207;Abaré;BA;Nordeste;BRA
+2900306;Acajutiba;BA;Nordeste;BRA
+2900355;Adustina;BA;Nordeste;BRA
+2900405;Água Fria;BA;Nordeste;BRA
+2900603;Aiquara;BA;Nordeste;BRA
+2900702;Alagoinhas;BA;Nordeste;BRA
+2900801;Alcobaça;BA;Nordeste;BRA
+2900900;Almadina;BA;Nordeste;BRA
+2901007;Amargosa;BA;Nordeste;BRA
+2901106;Amélia Rodrigues;BA;Nordeste;BRA
+2901155;América Dourada;BA;Nordeste;BRA
+2901205;Anagé;BA;Nordeste;BRA
+2901304;Andaraí;BA;Nordeste;BRA
+2901353;Andorinha;BA;Nordeste;BRA
+2901403;Angical;BA;Nordeste;BRA
+2901502;Anguera;BA;Nordeste;BRA
+2901601;Antas;BA;Nordeste;BRA
+2901700;Antônio Cardoso;BA;Nordeste;BRA
+2901809;Antônio Gonçalves;BA;Nordeste;BRA
+2901908;Aporá;BA;Nordeste;BRA
+2901957;Apuarema;BA;Nordeste;BRA
+2902054;Araças;BA;Nordeste;BRA
+2902005;Aracatu;BA;Nordeste;BRA
+2902104;Araci;BA;Nordeste;BRA
+2902203;Aramari;BA;Nordeste;BRA
+2902252;Arataca;BA;Nordeste;BRA
+2902302;Aratuípe;BA;Nordeste;BRA
+2902401;Aurelino Leal;BA;Nordeste;BRA
+2902500;Baianópolis;BA;Nordeste;BRA
+2902609;Baixa Grande;BA;Nordeste;BRA
+2902658;Banzaê;BA;Nordeste;BRA
+2902708;Barra;BA;Nordeste;BRA
+2902807;Barra da Estiva;BA;Nordeste;BRA
+2902906;Barra do Choça;BA;Nordeste;BRA
+2903003;Barra do Mendes;BA;Nordeste;BRA
+2903102;Barra do Rocha;BA;Nordeste;BRA
+2903201;Barreiras;BA;Nordeste;BRA
+2903235;Barro Alto;BA;Nordeste;BRA
+2903300;Barro Preto;BA;Nordeste;BRA
+2903276;Barrocas;BA;Nordeste;BRA
+2903409;Belmonte;BA;Nordeste;BRA
+2903508;Belo Campo;BA;Nordeste;BRA
+2903607;Biritinga;BA;Nordeste;BRA
+2903706;Boa Nova;BA;Nordeste;BRA
+2903805;Boa Vista do Tupim;BA;Nordeste;BRA
+2903904;Bom Jesus da Lapa;BA;Nordeste;BRA
+2903953;Bom Jesus da Serra;BA;Nordeste;BRA
+2904001;Boninal;BA;Nordeste;BRA
+2904050;Bonito;BA;Nordeste;BRA
+2904100;Boquira;BA;Nordeste;BRA
+2904209;Botuporã;BA;Nordeste;BRA
+2904308;Brejões;BA;Nordeste;BRA
+2904407;Brejolândia;BA;Nordeste;BRA
+2904506;Brotas de Macaúbas;BA;Nordeste;BRA
+2904605;Brumado;BA;Nordeste;BRA
+2904704;Buerarema;BA;Nordeste;BRA
+2904753;Buritirama;BA;Nordeste;BRA
+2904803;Caatiba;BA;Nordeste;BRA
+2904852;Cabaceiras do Paraguaçu;BA;Nordeste;BRA
+2904902;Cachoeira;BA;Nordeste;BRA
+2905008;Caculé;BA;Nordeste;BRA
+2905107;Caém;BA;Nordeste;BRA
+2905156;Caetanos;BA;Nordeste;BRA
+2905206;Caetité;BA;Nordeste;BRA
+2905305;Cafarnaum;BA;Nordeste;BRA
+2905404;Cairu;BA;Nordeste;BRA
+2905503;Caldeirão Grande;BA;Nordeste;BRA
+2905602;Camacan;BA;Nordeste;BRA
+2905701;Camaçari;BA;Nordeste;BRA
+2905800;Camamu;BA;Nordeste;BRA
+2905909;Campo Alegre de Lourdes;BA;Nordeste;BRA
+2906006;Campo Formoso;BA;Nordeste;BRA
+2906105;Canápolis;BA;Nordeste;BRA
+2906204;Canarana;BA;Nordeste;BRA
+2906303;Canavieiras;BA;Nordeste;BRA
+2906402;Candeal;BA;Nordeste;BRA
+2906501;Candeias;BA;Nordeste;BRA
+2906600;Candiba;BA;Nordeste;BRA
+2906709;Cândido Sales;BA;Nordeste;BRA
+2906808;Cansanção;BA;Nordeste;BRA
+2906824;Canudos;BA;Nordeste;BRA
+2906857;Capela do Alto Alegre;BA;Nordeste;BRA
+2906873;Capim Grosso;BA;Nordeste;BRA
+2907103;Carinhanha;BA;Nordeste;BRA
+2907400;Catolândia;BA;Nordeste;BRA
+2907558;Caturama;BA;Nordeste;BRA
+2908002;Coaraci;BA;Nordeste;BRA
+2908101;Cocos;BA;Nordeste;BRA
+2908309;Conceição do Almeida;BA;Nordeste;BRA
+2908408;Conceição do Coité;BA;Nordeste;BRA
+2908804;Contendas do Sincorá;BA;Nordeste;BRA
+2909505;Cravolândia;BA;Nordeste;BRA
+2909703;Cristópolis;BA;Nordeste;BRA
+2910008;Dário Meira;BA;Nordeste;BRA
+2910107;Dom Basílio;BA;Nordeste;BRA
+2910602;Esplanada;BA;Nordeste;BRA
+2910776;Feira da Mata;BA;Nordeste;BRA
+2910800;Feira de Santana;BA;Nordeste;BRA
+2910859;Filadélfia;BA;Nordeste;BRA
+2911303;Gentio do Ouro;BA;Nordeste;BRA
+2911659;Guajeru;BA;Nordeste;BRA
+2911907;Iaçu;BA;Nordeste;BRA
+2912004;Ibiassucê;BA;Nordeste;BRA
+2912103;Ibicaraí;BA;Nordeste;BRA
+2912202;Ibicoara;BA;Nordeste;BRA
+2912301;Ibicuí;BA;Nordeste;BRA
+2912707;Ibirapitanga;BA;Nordeste;BRA
+2913101;Ibititá;BA;Nordeste;BRA
+2913457;Igrapiúna;BA;Nordeste;BRA
+2913606;Ilhéus;BA;Nordeste;BRA
+2913903;Ipiaú;BA;Nordeste;BRA
+2914307;Iramaia;BA;Nordeste;BRA
+2914406;Iraquara;BA;Nordeste;BRA
+2914604;Irecê;BA;Nordeste;BRA
+2914901;Itacaré;BA;Nordeste;BRA
+2915007;Itaeté;BA;Nordeste;BRA
+2915502;Itajuípe;BA;Nordeste;BRA
+2915809;Itambé;BA;Nordeste;BRA
+2916104;Itaparica;BA;Nordeste;BRA
+2916401;Itapetinga;BA;Nordeste;BRA
+2916708;Itaquara;BA;Nordeste;BRA
+2916906;Itiruçu;BA;Nordeste;BRA
+2917003;Itiúba;BA;Nordeste;BRA
+2917607;Jaguaquara;BA;Nordeste;BRA
+2917706;Jaguarari;BA;Nordeste;BRA
+2917805;Jaguaripe;BA;Nordeste;BRA
+2918001;Jequié;BA;Nordeste;BRA
+2918308;Jitaúna;BA;Nordeste;BRA
+2918407;Juazeiro;BA;Nordeste;BRA
+2918704;Lafaiete Coutinho;BA;Nordeste;BRA
+2918902;Lajedão;BA;Nordeste;BRA
+2919108;Lamarão;BA;Nordeste;BRA
+2919207;Lauro de Freitas;BA;Nordeste;BRA
+2919603;Macajuba;BA;Nordeste;BRA
+2919900;Macururé;BA;Nordeste;BRA
+2920106;Mairi;BA;Nordeste;BRA
+2920205;Malhada;BA;Nordeste;BRA
+2920304;Malhada de Pedras;BA;Nordeste;BRA
+2920452;Mansidão;BA;Nordeste;BRA
+2920502;Maracás;BA;Nordeste;BRA
+2920809;Marcionílio Souza;BA;Nordeste;BRA
+2920908;Mascote;BA;Nordeste;BRA
+2921054;Matina;BA;Nordeste;BRA
+2921203;Miguel Calmon;BA;Nordeste;BRA
+2921500;Monte Santo;BA;Nordeste;BRA
+2921609;Morpará;BA;Nordeste;BRA
+2921708;Morro do Chapéu;BA;Nordeste;BRA
+2921906;Mucugê;BA;Nordeste;BRA
+2922003;Mucuri;BA;Nordeste;BRA
+2922508;Nazaré;BA;Nordeste;BRA
+2922607;Nilo Peçanha;BA;Nordeste;BRA
+2922656;Nordestina;BA;Nordeste;BRA
+2922854;Nova Redenção;BA;Nordeste;BRA
+2923035;Novo Horizonte;BA;Nordeste;BRA
+2923357;Ourolândia;BA;Nordeste;BRA
+2923407;Palmas de Monte Alto;BA;Nordeste;BRA
+2923803;Paripiranga;BA;Nordeste;BRA
+2924009;Paulo Afonso;BA;Nordeste;BRA
+2924058;Pé de Serra;BA;Nordeste;BRA
+2924405;Pilão Arcado;BA;Nordeste;BRA
+2924678;Piraí do Norte;BA;Nordeste;BRA
+2924900;Planaltino;BA;Nordeste;BRA
+2925006;Planalto;BA;Nordeste;BRA
+2925253;Ponto Novo;BA;Nordeste;BRA
+2925501;Prado;BA;Nordeste;BRA
+2925758;Presidente Tancredo Neves;BA;Nordeste;BRA
+2925907;Quijingue;BA;Nordeste;BRA
+2926103;Retirolândia;BA;Nordeste;BRA
+2926202;Riachão das Neves;BA;Nordeste;BRA
+2926301;Riachão do Jacuípe;BA;Nordeste;BRA
+2927408;Salvador;BA;Nordeste;BRA
+2927507;Santa Bárbara;BA;Nordeste;BRA
+2927606;Santa Brígida;BA;Nordeste;BRA
+2927705;Santa Cruz Cabrália;BA;Nordeste;BRA
+2927903;Santa Inês;BA;Nordeste;BRA
+2928059;Santa Luzia;BA;Nordeste;BRA
+2928307;Santanópolis;BA;Nordeste;BRA
+2928802;Santo Estêvão;BA;Nordeste;BRA
+2928950;São Domingos;BA;Nordeste;BRA
+2929008;São Félix;BA;Nordeste;BRA
+2929255;São Gabriel;BA;Nordeste;BRA
+2929354;São José da Vitória;BA;Nordeste;BRA
+2929370;São José do Jacuípe;BA;Nordeste;BRA
+2929701;Sátiro Dias;BA;Nordeste;BRA
+2930154;Serra do Ramalho;BA;Nordeste;BRA
+2930402;Serra Preta;BA;Nordeste;BRA
+2930709;Simões Filho;BA;Nordeste;BRA
+2930758;Sítio do Mato;BA;Nordeste;BRA
+2931103;Tanquinho;BA;Nordeste;BRA
+2931202;Taperoá;BA;Nordeste;BRA
+2931509;Teofilândia;BA;Nordeste;BRA
+2932101;Ubaíra;BA;Nordeste;BRA
+2932309;Ubatã;BA;Nordeste;BRA
+2932408;Uibaí;BA;Nordeste;BRA
+2932457;Umburanas;BA;Nordeste;BRA
+2932606;Urandi;BA;Nordeste;BRA
+2933000;Valente;BA;Nordeste;BRA
+2933059;Várzea da Roça;BA;Nordeste;BRA
+2933208;Vera Cruz;BA;Nordeste;BRA
+2933257;Vereda;BA;Nordeste;BRA
+2933307;Vitória da Conquista;BA;Nordeste;BRA
+2933455;Wanderley;BA;Nordeste;BRA
+2933505;Wenceslau Guimarães;BA;Nordeste;BRA
+2907004;Cardeal da Silva;BA;Nordeste;BRA
+2907301;Castro Alves;BA;Nordeste;BRA
+2907608;Central;BA;Nordeste;BRA
+2908200;Conceição da Feira;BA;Nordeste;BRA
+2908507;Conceição do Jacuípe;BA;Nordeste;BRA
+2908705;Condeúba;BA;Nordeste;BRA
+2908903;Coração de Maria;BA;Nordeste;BRA
+2909000;Cordeiros;BA;Nordeste;BRA
+2909109;Coribe;BA;Nordeste;BRA
+2909604;Crisópolis;BA;Nordeste;BRA
+2909802;Cruz das Almas;BA;Nordeste;BRA
+2910305;Elísio Medrado;BA;Nordeste;BRA
+2910701;Euclides da Cunha;BA;Nordeste;BRA
+2910727;Eunápolis;BA;Nordeste;BRA
+2911006;Floresta Azul;BA;Nordeste;BRA
+2911204;Gandu;BA;Nordeste;BRA
+2911600;Governador Mangabeira;BA;Nordeste;BRA
+2911709;Guanambi;BA;Nordeste;BRA
+2911808;Guaratinga;BA;Nordeste;BRA
+2912400;Ibipeba;BA;Nordeste;BRA
+2912509;Ibipitanga;BA;Nordeste;BRA
+2912608;Ibiquera;BA;Nordeste;BRA
+2912806;Ibirapuã;BA;Nordeste;BRA
+2912905;Ibirataia;BA;Nordeste;BRA
+2913002;Ibitiara;BA;Nordeste;BRA
+2913309;Ichu;BA;Nordeste;BRA
+2913408;Igaporã;BA;Nordeste;BRA
+2913507;Iguaí;BA;Nordeste;BRA
+2913705;Inhambupe;BA;Nordeste;BRA
+2913804;Ipecaetá;BA;Nordeste;BRA
+2914208;Irajuba;BA;Nordeste;BRA
+2914653;Itabela;BA;Nordeste;BRA
+2914703;Itaberaba;BA;Nordeste;BRA
+2915106;Itagi;BA;Nordeste;BRA
+2915304;Itagimirim;BA;Nordeste;BRA
+2915403;Itaju do Colônia;BA;Nordeste;BRA
+2915908;Itanagra;BA;Nordeste;BRA
+2916856;Itatim;BA;Nordeste;BRA
+2917102;Itororó;BA;Nordeste;BRA
+2917201;Ituaçu;BA;Nordeste;BRA
+2917300;Ituberá;BA;Nordeste;BRA
+2917359;Jaborandi;BA;Nordeste;BRA
+2917904;Jandaíra;BA;Nordeste;BRA
+2918100;Jeremoabo;BA;Nordeste;BRA
+2918209;Jiquiriçá;BA;Nordeste;BRA
+2918357;João Dourado;BA;Nordeste;BRA
+2919009;Lajedinho;BA;Nordeste;BRA
+2919058;Lajedo do Tabocal;BA;Nordeste;BRA
+2919157;Lapão;BA;Nordeste;BRA
+2919405;Licínio de Almeida;BA;Nordeste;BRA
+2919702;Macarani;BA;Nordeste;BRA
+2919959;Maetinga;BA;Nordeste;BRA
+2920403;Manoel Vitorino;BA;Nordeste;BRA
+2921104;Medeiros Neto;BA;Nordeste;BRA
+2921401;Mirangaba;BA;Nordeste;BRA
+2921450;Mirante;BA;Nordeste;BRA
+2922052;Mulungu do Morro;BA;Nordeste;BRA
+2922102;Mundo Novo;BA;Nordeste;BRA
+2922300;Muritiba;BA;Nordeste;BRA
+2923100;Olindina;BA;Nordeste;BRA
+2923308;Ouriçangas;BA;Nordeste;BRA
+2923902;Pau Brasil;BA;Nordeste;BRA
+2924108;Pedrão;BA;Nordeste;BRA
+2924306;Piatã;BA;Nordeste;BRA
+2924603;Pindobaçu;BA;Nordeste;BRA
+2924652;Pintadas;BA;Nordeste;BRA
+2924702;Piripá;BA;Nordeste;BRA
+2925105;Poções;BA;Nordeste;BRA
+2925303;Porto Seguro;BA;Nordeste;BRA
+2925709;Presidente Jânio Quadros;BA;Nordeste;BRA
+2925931;Quixabeira;BA;Nordeste;BRA
+2926004;Remanso;BA;Nordeste;BRA
+2926400;Riacho de Santana;BA;Nordeste;BRA
+2926608;Ribeira do Pombal;BA;Nordeste;BRA
+2926657;Ribeirão do Largo;BA;Nordeste;BRA
+2926806;Rio do Antônio;BA;Nordeste;BRA
+2926905;Rio do Pires;BA;Nordeste;BRA
+2927002;Rio Real;BA;Nordeste;BRA
+2927200;Ruy Barbosa;BA;Nordeste;BRA
+2928109;Santa Maria da Vitória;BA;Nordeste;BRA
+2928208;Santana;BA;Nordeste;BRA
+2928703;Santo Antônio de Jesus;BA;Nordeste;BRA
+2928901;São Desidério;BA;Nordeste;BRA
+2929107;São Felipe;BA;Nordeste;BRA
+2929206;São Francisco do Conde;BA;Nordeste;BRA
+2929305;São Gonçalo dos Campos;BA;Nordeste;BRA
+2929602;Sapeaçu;BA;Nordeste;BRA
+2929800;Saúde;BA;Nordeste;BRA
+2929909;Seabra;BA;Nordeste;BRA
+2930006;Sebastião Laranjeiras;BA;Nordeste;BRA
+2930204;Sento Sé;BA;Nordeste;BRA
+2930808;Souto Soares;BA;Nordeste;BRA
+2931004;Tanhaçu;BA;Nordeste;BRA
+2931053;Tanque Novo;BA;Nordeste;BRA
+2931350;Teixeira de Freitas;BA;Nordeste;BRA
+2931707;Terra Nova;BA;Nordeste;BRA
+2931905;Tucano;BA;Nordeste;BRA
+2932804;Utinga;BA;Nordeste;BRA
+2932903;Valença;BA;Nordeste;BRA
+2933158;Várzea Nova;BA;Nordeste;BRA
+2906899;Caraíbas;BA;Nordeste;BRA
+2906907;Caravelas;BA;Nordeste;BRA
+2907202;Casa Nova;BA;Nordeste;BRA
+2907509;Catu;BA;Nordeste;BRA
+2907905;Cipó;BA;Nordeste;BRA
+2908606;Conde;BA;Nordeste;BRA
+2909208;Coronel João Sá;BA;Nordeste;BRA
+2909901;Curaçá;BA;Nordeste;BRA
+2910206;Dom Macedo Costa;BA;Nordeste;BRA
+2910404;Encruzilhada;BA;Nordeste;BRA
+2910503;Entre Rios;BA;Nordeste;BRA
+2900504;Érico Cardoso;BA;Nordeste;BRA
+2910750;Fátima;BA;Nordeste;BRA
+2910909;Firmino Alves;BA;Nordeste;BRA
+2911253;Gavião;BA;Nordeste;BRA
+2911402;Glória;BA;Nordeste;BRA
+2911857;Heliópolis;BA;Nordeste;BRA
+2913200;Ibotirama;BA;Nordeste;BRA
+2914109;Ipupiara;BA;Nordeste;BRA
+2914505;Irará;BA;Nordeste;BRA
+2915205;Itagibá;BA;Nordeste;BRA
+2915601;Itamaraju;BA;Nordeste;BRA
+2915700;Itamari;BA;Nordeste;BRA
+2916203;Itapé;BA;Nordeste;BRA
+2916302;Itapebi;BA;Nordeste;BRA
+2916807;Itarantim;BA;Nordeste;BRA
+2917334;Iuiú;BA;Nordeste;BRA
+2917409;Jacaraci;BA;Nordeste;BRA
+2918456;Jucuruçu;BA;Nordeste;BRA
+2918555;Jussari;BA;Nordeste;BRA
+2918753;Lagoa Real;BA;Nordeste;BRA
+2918803;Laje;BA;Nordeste;BRA
+2919306;Lençóis;BA;Nordeste;BRA
+2919504;Livramento de Nossa Senhora;BA;Nordeste;BRA
+2919553;Luís Eduardo Magalhães;BA;Nordeste;BRA
+2919926;Madre de Deus;BA;Nordeste;BRA
+2920007;Maiquinique;BA;Nordeste;BRA
+2922409;Mutuípe;BA;Nordeste;BRA
+2922730;Nova Fátima;BA;Nordeste;BRA
+2922904;Nova Soure;BA;Nordeste;BRA
+2923506;Palmeiras;BA;Nordeste;BRA
+2924207;Pedro Alexandre;BA;Nordeste;BRA
+2924504;Pindaí;BA;Nordeste;BRA
+2925402;Potiraguá;BA;Nordeste;BRA
+2925600;Presidente Dutra;BA;Nordeste;BRA
+2925808;Queimadas;BA;Nordeste;BRA
+2925956;Rafael Jambeiro;BA;Nordeste;BRA
+2926509;Ribeira do Amparo;BA;Nordeste;BRA
+2926707;Rio de Contas;BA;Nordeste;BRA
+2927101;Rodelas;BA;Nordeste;BRA
+2927309;Salinas da Margarida;BA;Nordeste;BRA
+2927804;Santa Cruz da Vitória;BA;Nordeste;BRA
+2928604;Santo Amaro;BA;Nordeste;BRA
+2929503;São Sebastião do Passé;BA;Nordeste;BRA
+2929750;Saubara;BA;Nordeste;BRA
+2930105;Senhor do Bonfim;BA;Nordeste;BRA
+2930303;Serra Dourada;BA;Nordeste;BRA
+2930501;Serrinha;BA;Nordeste;BRA
+2930600;Serrolândia;BA;Nordeste;BRA
+2930766;Sítio do Quinto;BA;Nordeste;BRA
+2930774;Sobradinho;BA;Nordeste;BRA
+2930907;Tabocas do Brejo Velho;BA;Nordeste;BRA
+2931301;Tapiramutá;BA;Nordeste;BRA
+2931400;Teodoro Sampaio;BA;Nordeste;BRA
+2931806;Tremedal;BA;Nordeste;BRA
+2932002;Uauá;BA;Nordeste;BRA
+2932507;Una;BA;Nordeste;BRA
+2933174;Varzedo;BA;Nordeste;BRA
+2933604;Xique-Xique;BA;Nordeste;BRA
+2907806;Cícero Dantas;BA;Nordeste;BRA
+2909307;Correntina;BA;Nordeste;BRA
+2909406;Cotegipe;BA;Nordeste;BRA
+2911105;Formosa do Rio Preto;BA;Nordeste;BRA
+2911501;Gongogi;BA;Nordeste;BRA
+2915353;Itaguaçu da Bahia;BA;Nordeste;BRA
+2916005;Itanhém;BA;Nordeste;BRA
+2916500;Itapicuru;BA;Nordeste;BRA
+2920700;Maraú;BA;Nordeste;BRA
+2921302;Milagres;BA;Nordeste;BRA
+2922706;Nova Canaã;BA;Nordeste;BRA
+2922755;Nova Ibiá;BA;Nordeste;BRA
+2922805;Nova Itarana;BA;Nordeste;BRA
+2923001;Nova Viçosa;BA;Nordeste;BRA
+2923605;Paramirim;BA;Nordeste;BRA
+2925204;Pojuca;BA;Nordeste;BRA
+2928406;Santa Rita de Cássia;BA;Nordeste;BRA
+2929057;São Félix do Coribe;BA;Nordeste;BRA
+2931608;Teolândia;BA;Nordeste;BRA
+2932705;Uruçuca;BA;Nordeste;BRA
+2933109;Várzea do Poço;BA;Nordeste;BRA
+2907707;Chorrochó;BA;Nordeste;BRA
+2914000;Ipirá;BA;Nordeste;BRA
+2914802;Itabuna;BA;Nordeste;BRA
+2916609;Itapitanga;BA;Nordeste;BRA
+2917508;Jacobina;BA;Nordeste;BRA
+2918506;Jussara;BA;Nordeste;BRA
+2918605;Jussiape;BA;Nordeste;BRA
+2919801;Macaúbas;BA;Nordeste;BRA
+2920601;Maragogipe;BA;Nordeste;BRA
+2921005;Mata de São João;BA;Nordeste;BRA
+2921807;Mortugaba;BA;Nordeste;BRA
+2922201;Muniz Ferreira;BA;Nordeste;BRA
+2923050;Novo Triunfo;BA;Nordeste;BRA
+2923209;Oliveira dos Brejinhos;BA;Nordeste;BRA
+2923704;Paratinga;BA;Nordeste;BRA
+2924801;Piritiba;BA;Nordeste;BRA
+2928000;Santaluz;BA;Nordeste;BRA
+2929404;São Miguel das Matas;BA;Nordeste;BRA
+2932200;Ubaitaba;BA;Nordeste;BRA
+2933406;Wagner;BA;Nordeste;BRA
+2500106;Água Branca;PB;Nordeste;BRA
+2500205;Aguiar;PB;Nordeste;BRA
+2500304;Alagoa Grande;PB;Nordeste;BRA
+2500403;Alagoa Nova;PB;Nordeste;BRA
+2500502;Alagoinha;PB;Nordeste;BRA
+2500536;Alcantil;PB;Nordeste;BRA
+2500577;Algodão de Jandaíra;PB;Nordeste;BRA
+2500601;Alhandra;PB;Nordeste;BRA
+2500734;Amparo;PB;Nordeste;BRA
+2500775;Aparecida;PB;Nordeste;BRA
+2500809;Araçagi;PB;Nordeste;BRA
+2500908;Arara;PB;Nordeste;BRA
+2501005;Araruna;PB;Nordeste;BRA
+2501104;Areia;PB;Nordeste;BRA
+2501153;Areia de Baraúnas;PB;Nordeste;BRA
+2501203;Areial;PB;Nordeste;BRA
+2501302;Aroeiras;PB;Nordeste;BRA
+2501351;Assunção;PB;Nordeste;BRA
+2501401;Baía da Traição;PB;Nordeste;BRA
+2501500;Bananeiras;PB;Nordeste;BRA
+2501534;Baraúna;PB;Nordeste;BRA
+2501609;Barra de Santa Rosa;PB;Nordeste;BRA
+2501575;Barra de Santana;PB;Nordeste;BRA
+2501708;Barra de São Miguel;PB;Nordeste;BRA
+2501807;Bayeux;PB;Nordeste;BRA
+2501906;Belém;PB;Nordeste;BRA
+2502003;Belém do Brejo do Cruz;PB;Nordeste;BRA
+2502052;Bernardino Batista;PB;Nordeste;BRA
+2502102;Boa Ventura;PB;Nordeste;BRA
+2502151;Boa Vista;PB;Nordeste;BRA
+2502201;Bom Jesus;PB;Nordeste;BRA
+2502300;Bom Sucesso;PB;Nordeste;BRA
+2502409;Bonito de Santa Fé;PB;Nordeste;BRA
+2502508;Boqueirão;PB;Nordeste;BRA
+2502706;Borborema;PB;Nordeste;BRA
+2502805;Brejo do Cruz;PB;Nordeste;BRA
+2502904;Brejo dos Santos;PB;Nordeste;BRA
+2503001;Caaporã;PB;Nordeste;BRA
+2503100;Cabaceiras;PB;Nordeste;BRA
+2503209;Cabedelo;PB;Nordeste;BRA
+2503308;Cachoeira dos Índios;PB;Nordeste;BRA
+2503407;Cacimba de Areia;PB;Nordeste;BRA
+2503506;Cacimba de Dentro;PB;Nordeste;BRA
+2503555;Cacimbas;PB;Nordeste;BRA
+2503605;Caiçara;PB;Nordeste;BRA
+2503704;Cajazeiras;PB;Nordeste;BRA
+2503753;Cajazeirinhas;PB;Nordeste;BRA
+2503803;Caldas Brandão;PB;Nordeste;BRA
+2503902;Camalaú;PB;Nordeste;BRA
+2504009;Campina Grande;PB;Nordeste;BRA
+2504033;Capim;PB;Nordeste;BRA
+2504074;Caraúbas;PB;Nordeste;BRA
+2504207;Catingueira;PB;Nordeste;BRA
+2504306;Catolé do Rocha;PB;Nordeste;BRA
+2504504;Condado;PB;Nordeste;BRA
+2504603;Conde;PB;Nordeste;BRA
+2504850;Coxixola;PB;Nordeste;BRA
+2505006;Cubati;PB;Nordeste;BRA
+2505204;Cuitegi;PB;Nordeste;BRA
+2505279;Curral de Cima;PB;Nordeste;BRA
+2505352;Damião;PB;Nordeste;BRA
+2505808;Duas Estradas;PB;Nordeste;BRA
+2506251;Gado Bravo;PB;Nordeste;BRA
+2506608;Ibiara;PB;Nordeste;BRA
+2502607;Igaracy;PB;Nordeste;BRA
+2506806;Ingá;PB;Nordeste;BRA
+2506905;Itabaiana;PB;Nordeste;BRA
+2507200;Itatuba;PB;Nordeste;BRA
+2507507;João Pessoa;PB;Nordeste;BRA
+2507606;Juarez Távora;PB;Nordeste;BRA
+2507705;Juazeirinho;PB;Nordeste;BRA
+2507804;Junco do Seridó;PB;Nordeste;BRA
+2508208;Lagoa de Dentro;PB;Nordeste;BRA
+2508505;Livramento;PB;Nordeste;BRA
+2508554;Logradouro;PB;Nordeste;BRA
+2508604;Lucena;PB;Nordeste;BRA
+2508703;Mãe d'Água;PB;Nordeste;BRA
+2509057;Marcação;PB;Nordeste;BRA
+2509370;Mato Grosso;PB;Nordeste;BRA
+2509503;Montadas;PB;Nordeste;BRA
+2509800;Mulungu;PB;Nordeste;BRA
+2510907;Paulista;PB;Nordeste;BRA
+2511608;Pilões;PB;Nordeste;BRA
+2512077;Poço de José de Moura;PB;Nordeste;BRA
+2512200;Prata;PB;Nordeste;BRA
+2512747;Riachão;PB;Nordeste;BRA
+2512754;Riachão do Bacamarte;PB;Nordeste;BRA
+2512762;Riachão do Poço;PB;Nordeste;BRA
+2512788;Riacho de Santo Antônio;PB;Nordeste;BRA
+2512804;Riacho dos Cavalos;PB;Nordeste;BRA
+2513000;Salgadinho;PB;Nordeste;BRA
+2513604;Santana dos Garrotes;PB;Nordeste;BRA
+2513851;Santo André;PB;Nordeste;BRA
+2513927;São Bentinho;PB;Nordeste;BRA
+2513943;São Domingos do Cariri;PB;Nordeste;BRA
+2513984;São Francisco;PB;Nordeste;BRA
+2514206;São José da Lagoa Tapada;PB;Nordeste;BRA
+2514404;São José de Espinharas;PB;Nordeste;BRA
+2514552;São José de Princesa;PB;Nordeste;BRA
+2514651;São José do Brejo do Cruz;PB;Nordeste;BRA
+2514701;São José do Sabugi;PB;Nordeste;BRA
+2514800;São José dos Cordeiros;PB;Nordeste;BRA
+2514453;São José dos Ramos;PB;Nordeste;BRA
+2515005;São Miguel de Taipu;PB;Nordeste;BRA
+2515203;São Sebastião do Umbuzeiro;PB;Nordeste;BRA
+2515609;Serra da Raiz;PB;Nordeste;BRA
+2515807;Serra Redonda;PB;Nordeste;BRA
+2516003;Solânea;PB;Nordeste;BRA
+2516102;Soledade;PB;Nordeste;BRA
+2516151;Sossêgo;PB;Nordeste;BRA
+2516300;Sumé;PB;Nordeste;BRA
+2516607;Tavares;PB;Nordeste;BRA
+2516706;Teixeira;PB;Nordeste;BRA
+2504157;Casserengue;PB;Nordeste;BRA
+2504355;Caturité;PB;Nordeste;BRA
+2504405;Conceição;PB;Nordeste;BRA
+2504702;Congo;PB;Nordeste;BRA
+2504801;Coremas;PB;Nordeste;BRA
+2505709;Dona Inês;PB;Nordeste;BRA
+2505907;Emas;PB;Nordeste;BRA
+2506103;Fagundes;PB;Nordeste;BRA
+2506509;Gurjão;PB;Nordeste;BRA
+2506707;Imaculada;PB;Nordeste;BRA
+2507309;Jacaraú;PB;Nordeste;BRA
+2508109;Lagoa;PB;Nordeste;BRA
+2508406;Lastro;PB;Nordeste;BRA
+2509156;Marizópolis;PB;Nordeste;BRA
+2509206;Massaranduba;PB;Nordeste;BRA
+2509305;Mataraca;PB;Nordeste;BRA
+2509602;Monte Horebe;PB;Nordeste;BRA
+2509909;Natuba;PB;Nordeste;BRA
+2510006;Nazarezinho;PB;Nordeste;BRA
+2510105;Nova Floresta;PB;Nordeste;BRA
+2510204;Nova Olinda;PB;Nordeste;BRA
+2510303;Nova Palmeira;PB;Nordeste;BRA
+2510402;Olho d'Água;PB;Nordeste;BRA
+2510501;Olivedos;PB;Nordeste;BRA
+2510709;Passagem;PB;Nordeste;BRA
+2511103;Pedra Lavrada;PB;Nordeste;BRA
+2512721;Pedro Régis;PB;Nordeste;BRA
+2511301;Piancó;PB;Nordeste;BRA
+2511707;Pilõezinhos;PB;Nordeste;BRA
+2511905;Pitimbu;PB;Nordeste;BRA
+2512036;Poço Dantas;PB;Nordeste;BRA
+2512606;Quixaba;PB;Nordeste;BRA
+2512903;Rio Tinto;PB;Nordeste;BRA
+2513109;Salgado de São Félix;PB;Nordeste;BRA
+2513158;Santa Cecília;PB;Nordeste;BRA
+2513208;Santa Cruz;PB;Nordeste;BRA
+2513703;Santa Rita;PB;Nordeste;BRA
+2513505;Santana de Mangueira;PB;Nordeste;BRA
+2514008;São João do Cariri;PB;Nordeste;BRA
+2500700;São João do Rio do Peixe;PB;Nordeste;BRA
+2514305;São José de Caiana;PB;Nordeste;BRA
+2515401;São Vicente do Seridó;PB;Nordeste;BRA
+2515302;Sapé;PB;Nordeste;BRA
+2515708;Serra Grande;PB;Nordeste;BRA
+2515906;Serraria;PB;Nordeste;BRA
+2515930;Sertãozinho;PB;Nordeste;BRA
+2515971;Sobrado;PB;Nordeste;BRA
+2516201;Sousa;PB;Nordeste;BRA
+2516805;Triunfo;PB;Nordeste;BRA
+2517100;Várzea;PB;Nordeste;BRA
+2517209;Vieirópolis;PB;Nordeste;BRA
+2505501;Vista Serrana;PB;Nordeste;BRA
+2504900;Cruz do Espírito Santo;PB;Nordeste;BRA
+2505402;Desterro;PB;Nordeste;BRA
+2505600;Diamante;PB;Nordeste;BRA
+2506202;Frei Martinho;PB;Nordeste;BRA
+2506301;Guarabira;PB;Nordeste;BRA
+2507002;Itaporanga;PB;Nordeste;BRA
+2507408;Jericó;PB;Nordeste;BRA
+2508307;Lagoa Seca;PB;Nordeste;BRA
+2508802;Malta;PB;Nordeste;BRA
+2509008;Manaíra;PB;Nordeste;BRA
+2509107;Mari;PB;Nordeste;BRA
+2509339;Matinhas;PB;Nordeste;BRA
+2510659;Parari;PB;Nordeste;BRA
+2512309;Princesa Isabel;PB;Nordeste;BRA
+2512408;Puxinanã;PB;Nordeste;BRA
+2512507;Queimadas;PB;Nordeste;BRA
+2512705;Remígio;PB;Nordeste;BRA
+2513307;Santa Helena;PB;Nordeste;BRA
+2513356;Santa Inês;PB;Nordeste;BRA
+2513406;Santa Luzia;PB;Nordeste;BRA
+2513901;São Bento;PB;Nordeste;BRA
+2514107;São João do Tigre;PB;Nordeste;BRA
+2514503;São José de Piranhas;PB;Nordeste;BRA
+2514602;São José do Bonfim;PB;Nordeste;BRA
+2514909;São Mamede;PB;Nordeste;BRA
+2515104;São Sebastião de Lagoa de Roça;PB;Nordeste;BRA
+2516409;Tacima;PB;Nordeste;BRA
+2516904;Uiraúna;PB;Nordeste;BRA
+2517001;Umbuzeiro;PB;Nordeste;BRA
+2517407;Zabelê;PB;Nordeste;BRA
+2505238;Cuité de Mamanguape;PB;Nordeste;BRA
+2507101;Itapororoca;PB;Nordeste;BRA
+2508000;Juru;PB;Nordeste;BRA
+2509701;Monteiro;PB;Nordeste;BRA
+2510600;Ouro Velho;PB;Nordeste;BRA
+2511004;Pedra Branca;PB;Nordeste;BRA
+2511400;Picuí;PB;Nordeste;BRA
+2512002;Pocinhos;PB;Nordeste;BRA
+2512101;Pombal;PB;Nordeste;BRA
+2515500;Serra Branca;PB;Nordeste;BRA
+2516508;Taperoá;PB;Nordeste;BRA
+2504108;Carrapateira;PB;Nordeste;BRA
+2505105;Cuité;PB;Nordeste;BRA
+2505303;Curral Velho;PB;Nordeste;BRA
+2506004;Esperança;PB;Nordeste;BRA
+2506400;Gurinhém;PB;Nordeste;BRA
+2513653;Joca Claudino;PB;Nordeste;BRA
+2507903;Juripiranga;PB;Nordeste;BRA
+2508901;Mamanguape;PB;Nordeste;BRA
+2509396;Maturéia;PB;Nordeste;BRA
+2509404;Mogeiro;PB;Nordeste;BRA
+2510808;Patos;PB;Nordeste;BRA
+2511202;Pedras de Fogo;PB;Nordeste;BRA
+2511509;Pilar;PB;Nordeste;BRA
+2511806;Pirpirituba;PB;Nordeste;BRA
+2513802;Santa Teresinha;PB;Nordeste;BRA
+2516755;Tenório;PB;Nordeste;BRA
+2200053;Acauã;PI;Nordeste;BRA
+2200103;Agricolândia;PI;Nordeste;BRA
+2200202;Água Branca;PI;Nordeste;BRA
+2200251;Alagoinha do Piauí;PI;Nordeste;BRA
+2200277;Alegrete do Piauí;PI;Nordeste;BRA
+2200301;Alto Longá;PI;Nordeste;BRA
+2200400;Altos;PI;Nordeste;BRA
+2200459;Alvorada do Gurguéia;PI;Nordeste;BRA
+2200509;Amarante;PI;Nordeste;BRA
+2200608;Angical do Piauí;PI;Nordeste;BRA
+2200707;Anísio de Abreu;PI;Nordeste;BRA
+2200806;Antônio Almeida;PI;Nordeste;BRA
+2200905;Aroazes;PI;Nordeste;BRA
+2201002;Arraial;PI;Nordeste;BRA
+2201051;Assunção do Piauí;PI;Nordeste;BRA
+2201101;Avelino Lopes;PI;Nordeste;BRA
+2201150;Baixa Grande do Ribeiro;PI;Nordeste;BRA
+2201176;Barra D'Alcântara;PI;Nordeste;BRA
+2201200;Barras;PI;Nordeste;BRA
+2201309;Barreiras do Piauí;PI;Nordeste;BRA
+2201408;Barro Duro;PI;Nordeste;BRA
+2201507;Batalha;PI;Nordeste;BRA
+2201556;Bela Vista do Piauí;PI;Nordeste;BRA
+2201572;Belém do Piauí;PI;Nordeste;BRA
+2201606;Beneditinos;PI;Nordeste;BRA
+2201705;Bertolínia;PI;Nordeste;BRA
+2201739;Betânia do Piauí;PI;Nordeste;BRA
+2201770;Boa Hora;PI;Nordeste;BRA
+2201804;Bocaina;PI;Nordeste;BRA
+2201903;Bom Jesus;PI;Nordeste;BRA
+2201919;Bom Princípio do Piauí;PI;Nordeste;BRA
+2201929;Bonfim do Piauí;PI;Nordeste;BRA
+2201945;Boqueirão do Piauí;PI;Nordeste;BRA
+2201960;Brasileira;PI;Nordeste;BRA
+2201988;Brejo do Piauí;PI;Nordeste;BRA
+2202000;Buriti dos Lopes;PI;Nordeste;BRA
+2202026;Buriti dos Montes;PI;Nordeste;BRA
+2202059;Cabeceiras do Piauí;PI;Nordeste;BRA
+2202075;Cajazeiras do Piauí;PI;Nordeste;BRA
+2202083;Cajueiro da Praia;PI;Nordeste;BRA
+2202091;Caldeirão Grande do Piauí;PI;Nordeste;BRA
+2202109;Campinas do Piauí;PI;Nordeste;BRA
+2202117;Campo Alegre do Fidalgo;PI;Nordeste;BRA
+2202133;Campo Grande do Piauí;PI;Nordeste;BRA
+2202174;Campo Largo do Piauí;PI;Nordeste;BRA
+2202208;Campo Maior;PI;Nordeste;BRA
+2202251;Canavieira;PI;Nordeste;BRA
+2202307;Canto do Buriti;PI;Nordeste;BRA
+2202406;Capitão de Campos;PI;Nordeste;BRA
+2202455;Capitão Gervásio Oliveira;PI;Nordeste;BRA
+2202539;Caraúbas do Piauí;PI;Nordeste;BRA
+2202554;Caridade do Piauí;PI;Nordeste;BRA
+2202653;Caxingó;PI;Nordeste;BRA
+2202711;Cocal de Telha;PI;Nordeste;BRA
+2202752;Colônia do Gurguéia;PI;Nordeste;BRA
+2202802;Conceição do Canindé;PI;Nordeste;BRA
+2202901;Corrente;PI;Nordeste;BRA
+2203271;Curral Novo do Piauí;PI;Nordeste;BRA
+2203255;Curralinhos;PI;Nordeste;BRA
+2203305;Demerval Lobão;PI;Nordeste;BRA
+2203800;Flores do Piauí;PI;Nordeste;BRA
+2203859;Floresta do Piauí;PI;Nordeste;BRA
+2204105;Francisco Ayres;PI;Nordeste;BRA
+2204154;Francisco Macedo;PI;Nordeste;BRA
+2204204;Francisco Santos;PI;Nordeste;BRA
+2204303;Fronteiras;PI;Nordeste;BRA
+2204907;Isaías Coelho;PI;Nordeste;BRA
+2205003;Itainópolis;PI;Nordeste;BRA
+2205102;Itaueira;PI;Nordeste;BRA
+2205524;Júlio Borges;PI;Nordeste;BRA
+2205557;Lagoa Alegre;PI;Nordeste;BRA
+2205573;Lagoa de São Francisco;PI;Nordeste;BRA
+2205565;Lagoa do Barro do Piauí;PI;Nordeste;BRA
+2205854;Madeiro;PI;Nordeste;BRA
+2205904;Manoel Emídio;PI;Nordeste;BRA
+2206050;Massapê do Piauí;PI;Nordeste;BRA
+2206209;Miguel Alves;PI;Nordeste;BRA
+2206308;Miguel Leão;PI;Nordeste;BRA
+2206506;Monsenhor Hipólito;PI;Nordeste;BRA
+2206902;Novo Oriente do Piauí;PI;Nordeste;BRA
+2207009;Oeiras;PI;Nordeste;BRA
+2207108;Olho D'Água do Piauí;PI;Nordeste;BRA
+2207751;Passagem Franca do Piauí;PI;Nordeste;BRA
+2207777;Patos do Piauí;PI;Nordeste;BRA
+2207793;Pau D'Arco do Piauí;PI;Nordeste;BRA
+2207801;Paulistana;PI;Nordeste;BRA
+2207850;Pavussu;PI;Nordeste;BRA
+2208007;Picos;PI;Nordeste;BRA
+2208502;Porto;PI;Nordeste;BRA
+2208650;Queimada Nova;PI;Nordeste;BRA
+2208700;Redenção do Gurguéia;PI;Nordeste;BRA
+2208858;Riacho Frio;PI;Nordeste;BRA
+2209203;Santa Filomena;PI;Nordeste;BRA
+2209377;Santa Rosa do Piauí;PI;Nordeste;BRA
+2209500;Santo Inácio do Piauí;PI;Nordeste;BRA
+2209559;São Braz do Piauí;PI;Nordeste;BRA
+2209906;São João da Serra;PI;Nordeste;BRA
+2209955;São João da Varjota;PI;Nordeste;BRA
+2210052;São José do Divino;PI;Nordeste;BRA
+2210102;São José do Peixe;PI;Nordeste;BRA
+2210300;São Julião;PI;Nordeste;BRA
+2210359;São Lourenço do Piauí;PI;Nordeste;BRA
+2210623;Sebastião Barros;PI;Nordeste;BRA
+2210631;Sebastião Leal;PI;Nordeste;BRA
+2210706;Simões;PI;Nordeste;BRA
+2210938;Sussuapara;PI;Nordeste;BRA
+2211407;Várzea Grande;PI;Nordeste;BRA
+2202604;Castelo do Piauí;PI;Nordeste;BRA
+2202737;Coivaras;PI;Nordeste;BRA
+2202851;Coronel José Dias;PI;Nordeste;BRA
+2203008;Cristalândia do Piauí;PI;Nordeste;BRA
+2203230;Currais;PI;Nordeste;BRA
+2203354;Dirceu Arcoverde;PI;Nordeste;BRA
+2203404;Dom Expedito Lopes;PI;Nordeste;BRA
+2203503;Elesbão Veloso;PI;Nordeste;BRA
+2203602;Eliseu Martins;PI;Nordeste;BRA
+2204006;Francinópolis;PI;Nordeste;BRA
+2204402;Gilbués;PI;Nordeste;BRA
+2204501;Guadalupe;PI;Nordeste;BRA
+2204709;Inhuma;PI;Nordeste;BRA
+2205151;Jacobina do Piauí;PI;Nordeste;BRA
+2205276;Jatobá do Piauí;PI;Nordeste;BRA
+2205359;João Costa;PI;Nordeste;BRA
+2205532;Jurema;PI;Nordeste;BRA
+2205599;Lagoa do Sítio;PI;Nordeste;BRA
+2205706;Luís Correia;PI;Nordeste;BRA
+2206357;Milton Brandão;PI;Nordeste;BRA
+2206407;Monsenhor Gil;PI;Nordeste;BRA
+2206605;Monte Alegre do Piauí;PI;Nordeste;BRA
+2206670;Morro do Chapéu do Piauí;PI;Nordeste;BRA
+2206696;Murici dos Portelas;PI;Nordeste;BRA
+2207306;Paes Landim;PI;Nordeste;BRA
+2207702;Parnaíba;PI;Nordeste;BRA
+2208205;Pio IX;PI;Nordeste;BRA
+2208304;Piracuruca;PI;Nordeste;BRA
+2208403;Piripiri;PI;Nordeste;BRA
+2208601;Prata do Piauí;PI;Nordeste;BRA
+2208874;Ribeira do Piauí;PI;Nordeste;BRA
+2209005;Rio Grande do Piauí;PI;Nordeste;BRA
+2209104;Santa Cruz do Piauí;PI;Nordeste;BRA
+2209153;Santa Cruz dos Milagres;PI;Nordeste;BRA
+2209401;Santo Antônio de Lisboa;PI;Nordeste;BRA
+2209450;Santo Antônio dos Milagres;PI;Nordeste;BRA
+2209609;São Félix do Piauí;PI;Nordeste;BRA
+2209708;São Francisco do Piauí;PI;Nordeste;BRA
+2209856;São João da Canabrava;PI;Nordeste;BRA
+2209872;São João da Fronteira;PI;Nordeste;BRA
+2209971;São João do Arraial;PI;Nordeste;BRA
+2210201;São José do Piauí;PI;Nordeste;BRA
+2210409;São Miguel do Tapuio;PI;Nordeste;BRA
+2210508;São Pedro do Piauí;PI;Nordeste;BRA
+2210607;São Raimundo Nonato;PI;Nordeste;BRA
+2210979;Tanque do Piauí;PI;Nordeste;BRA
+2211100;União;PI;Nordeste;BRA
+2211357;Várzea Branca;PI;Nordeste;BRA
+2211605;Vila Nova do Piauí;PI;Nordeste;BRA
+2202703;Cocal;PI;Nordeste;BRA
+2202778;Colônia do Piauí;PI;Nordeste;BRA
+2203206;Curimatá;PI;Nordeste;BRA
+2203453;Dom Inocêncio;PI;Nordeste;BRA
+2203420;Domingos Mourão;PI;Nordeste;BRA
+2203909;Floriano;PI;Nordeste;BRA
+2204550;Guaribas;PI;Nordeste;BRA
+2204600;Hugo Napoleão;PI;Nordeste;BRA
+2204659;Ilha Grande;PI;Nordeste;BRA
+2205250;Jardim do Mulato;PI;Nordeste;BRA
+2205409;Joaquim Pires;PI;Nordeste;BRA
+2205458;Joca Marques;PI;Nordeste;BRA
+2205581;Lagoa do Piauí;PI;Nordeste;BRA
+2205607;Landri Sales;PI;Nordeste;BRA
+2205805;Luzilândia;PI;Nordeste;BRA
+2206001;Marcos Parente;PI;Nordeste;BRA
+2206100;Matias Olímpio;PI;Nordeste;BRA
+2206654;Morro Cabeça no Tempo;PI;Nordeste;BRA
+2207207;Padre Marcos;PI;Nordeste;BRA
+2207355;Pajeú do Piauí;PI;Nordeste;BRA
+2207553;Paquetá;PI;Nordeste;BRA
+2207603;Parnaguá;PI;Nordeste;BRA
+2207900;Pedro II;PI;Nordeste;BRA
+2207934;Pedro Laurentino;PI;Nordeste;BRA
+2208106;Pimenteiras;PI;Nordeste;BRA
+2208809;Regeneração;PI;Nordeste;BRA
+2209302;Santa Luz;PI;Nordeste;BRA
+2209757;São Gonçalo do Gurguéia;PI;Nordeste;BRA
+2209807;São Gonçalo do Piauí;PI;Nordeste;BRA
+2210003;São João do Piauí;PI;Nordeste;BRA
+2210375;São Luis do Piauí;PI;Nordeste;BRA
+2210391;São Miguel do Fidalgo;PI;Nordeste;BRA
+2210805;Simplício Mendes;PI;Nordeste;BRA
+2210953;Tamboril do Piauí;PI;Nordeste;BRA
+2211001;Teresina;PI;Nordeste;BRA
+2211308;Valença do Piauí;PI;Nordeste;BRA
+2211506;Vera Mendes;PI;Nordeste;BRA
+2211704;Wall Ferraz;PI;Nordeste;BRA
+2202505;Caracol;PI;Nordeste;BRA
+2202729;Cocal dos Alves;PI;Nordeste;BRA
+2203750;Fartura do Piauí;PI;Nordeste;BRA
+2204352;Geminiano;PI;Nordeste;BRA
+2204808;Ipiranga do Piauí;PI;Nordeste;BRA
+2205201;Jaicós;PI;Nordeste;BRA
+2205508;José de Freitas;PI;Nordeste;BRA
+2205516;Juazeiro do Piauí;PI;Nordeste;BRA
+2206704;Nazaré do Piauí;PI;Nordeste;BRA
+2206753;Nossa Senhora de Nazaré;PI;Nordeste;BRA
+2206803;Nossa Senhora dos Remédios;PI;Nordeste;BRA
+2207959;Nova Santa Rita;PI;Nordeste;BRA
+2207504;Palmeirais;PI;Nordeste;BRA
+2208551;Porto Alegre do Piauí;PI;Nordeste;BRA
+2209351;Santana do Piauí;PI;Nordeste;BRA
+2210383;São Miguel da Baixa Grande;PI;Nordeste;BRA
+2210656;Sigefredo Pacheco;PI;Nordeste;BRA
+2203107;Cristino Castro;PI;Nordeste;BRA
+2203701;Esperantina;PI;Nordeste;BRA
+2205300;Jerumenha;PI;Nordeste;BRA
+2205540;Lagoinha do Piauí;PI;Nordeste;BRA
+2205953;Marcolândia;PI;Nordeste;BRA
+2206951;Novo Santo Antônio;PI;Nordeste;BRA
+2207405;Palmeira do Piauí;PI;Nordeste;BRA
+2208908;Ribeiro Gonçalves;PI;Nordeste;BRA
+2210904;Socorro do Piauí;PI;Nordeste;BRA
+2211209;Uruçuí;PI;Nordeste;BRA
+2100055;Açailândia;MA;Nordeste;BRA
+2100105;Afonso Cunha;MA;Nordeste;BRA
+2100154;Água Doce do Maranhão;MA;Nordeste;BRA
+2100204;Alcântara;MA;Nordeste;BRA
+2100303;Aldeias Altas;MA;Nordeste;BRA
+2100402;Altamira do Maranhão;MA;Nordeste;BRA
+2100436;Alto Alegre do Maranhão;MA;Nordeste;BRA
+2100477;Alto Alegre do Pindaré;MA;Nordeste;BRA
+2100501;Alto Parnaíba;MA;Nordeste;BRA
+2100550;Amapá do Maranhão;MA;Nordeste;BRA
+2100600;Amarante do Maranhão;MA;Nordeste;BRA
+2100709;Anajatuba;MA;Nordeste;BRA
+2100808;Anapurus;MA;Nordeste;BRA
+2100832;Apicum-Açu;MA;Nordeste;BRA
+2100873;Araguanã;MA;Nordeste;BRA
+2100907;Araioses;MA;Nordeste;BRA
+2100956;Arame;MA;Nordeste;BRA
+2101004;Arari;MA;Nordeste;BRA
+2101103;Axixá;MA;Nordeste;BRA
+2101202;Bacabal;MA;Nordeste;BRA
+2101251;Bacabeira;MA;Nordeste;BRA
+2101301;Bacuri;MA;Nordeste;BRA
+2101350;Bacurituba;MA;Nordeste;BRA
+2101400;Balsas;MA;Nordeste;BRA
+2101509;Barão de Grajaú;MA;Nordeste;BRA
+2101608;Barra do Corda;MA;Nordeste;BRA
+2101707;Barreirinhas;MA;Nordeste;BRA
+2101772;Bela Vista do Maranhão;MA;Nordeste;BRA
+2101731;Belágua;MA;Nordeste;BRA
+2101806;Benedito Leite;MA;Nordeste;BRA
+2101905;Bequimão;MA;Nordeste;BRA
+2101939;Bernardo do Mearim;MA;Nordeste;BRA
+2101970;Boa Vista do Gurupi;MA;Nordeste;BRA
+2102002;Bom Jardim;MA;Nordeste;BRA
+2102036;Bom Jesus das Selvas;MA;Nordeste;BRA
+2102077;Bom Lugar;MA;Nordeste;BRA
+2102101;Brejo;MA;Nordeste;BRA
+2102150;Brejo de Areia;MA;Nordeste;BRA
+2102200;Buriti;MA;Nordeste;BRA
+2102309;Buriti Bravo;MA;Nordeste;BRA
+2102325;Buriticupu;MA;Nordeste;BRA
+2102358;Buritirana;MA;Nordeste;BRA
+2102374;Cachoeira Grande;MA;Nordeste;BRA
+2102408;Cajapió;MA;Nordeste;BRA
+2102507;Cajari;MA;Nordeste;BRA
+2102556;Campestre do Maranhão;MA;Nordeste;BRA
+2102606;Cândido Mendes;MA;Nordeste;BRA
+2102705;Cantanhede;MA;Nordeste;BRA
+2102754;Capinzal do Norte;MA;Nordeste;BRA
+2102804;Carolina;MA;Nordeste;BRA
+2103158;Centro do Guilherme;MA;Nordeste;BRA
+2103257;Cidelândia;MA;Nordeste;BRA
+2103406;Coelho Neto;MA;Nordeste;BRA
+2103703;Cururupu;MA;Nordeste;BRA
+2104057;Estreito;MA;Nordeste;BRA
+2104107;Fortaleza dos Nogueiras;MA;Nordeste;BRA
+2104305;Godofredo Viana;MA;Nordeste;BRA
+2104503;Governador Archer;MA;Nordeste;BRA
+2104552;Governador Edison Lobão;MA;Nordeste;BRA
+2104602;Governador Eugênio Barros;MA;Nordeste;BRA
+2104628;Governador Luiz Rocha;MA;Nordeste;BRA
+2104651;Governador Newton Bello;MA;Nordeste;BRA
+2104677;Governador Nunes Freire;MA;Nordeste;BRA
+2105203;Igarapé Grande;MA;Nordeste;BRA
+2105351;Itaipava do Grajaú;MA;Nordeste;BRA
+2105427;Itinga do Maranhão;MA;Nordeste;BRA
+2105708;Lago da Pedra;MA;Nordeste;BRA
+2105948;Lago dos Rodrigues;MA;Nordeste;BRA
+2105922;Lagoa do Mato;MA;Nordeste;BRA
+2105963;Lagoa Grande do Maranhão;MA;Nordeste;BRA
+2105989;Lajeado Novo;MA;Nordeste;BRA
+2106003;Lima Campos;MA;Nordeste;BRA
+2106102;Loreto;MA;Nordeste;BRA
+2106326;Maracaçumé;MA;Nordeste;BRA
+2106631;Matões do Norte;MA;Nordeste;BRA
+2106672;Milagres do Maranhão;MA;Nordeste;BRA
+2106904;Monção;MA;Nordeste;BRA
+2107001;Montes Altos;MA;Nordeste;BRA
+2107407;Olho d'Água das Cunhãs;MA;Nordeste;BRA
+2107803;Parnarama;MA;Nordeste;BRA
+2108207;Pedreiras;MA;Nordeste;BRA
+2108405;Peri Mirim;MA;Nordeste;BRA
+2108454;Peritoró;MA;Nordeste;BRA
+2108702;Pio XII;MA;Nordeste;BRA
+2108900;Poção de Pedras;MA;Nordeste;BRA
+2109007;Porto Franco;MA;Nordeste;BRA
+2109056;Porto Rico do Maranhão;MA;Nordeste;BRA
+2109452;Raposa;MA;Nordeste;BRA
+2109502;Riachão;MA;Nordeste;BRA
+2109700;Sambaíba;MA;Nordeste;BRA
+2110005;Santa Luzia;MA;Nordeste;BRA
+2110401;São Benedito do Rio Preto;MA;Nordeste;BRA
+2110708;São Domingos do Maranhão;MA;Nordeste;BRA
+2111052;São João do Paraíso;MA;Nordeste;BRA
+2111409;São Luís Gonzaga do Maranhão;MA;Nordeste;BRA
+2111672;São Roberto;MA;Nordeste;BRA
+2111748;Senador Alexandre Costa;MA;Nordeste;BRA
+2111789;Serrano do Maranhão;MA;Nordeste;BRA
+2112209;Timon;MA;Nordeste;BRA
+2112308;Tuntum;MA;Nordeste;BRA
+2112456;Turilândia;MA;Nordeste;BRA
+2102903;Carutapera;MA;Nordeste;BRA
+2103109;Cedral;MA;Nordeste;BRA
+2103125;Central do Maranhão;MA;Nordeste;BRA
+2103208;Chapadinha;MA;Nordeste;BRA
+2103307;Codó;MA;Nordeste;BRA
+2103554;Conceição do Lago-Açu;MA;Nordeste;BRA
+2103752;Davinópolis;MA;Nordeste;BRA
+2103802;Dom Pedro;MA;Nordeste;BRA
+2103901;Duque Bacelar;MA;Nordeste;BRA
+2104008;Esperantinópolis;MA;Nordeste;BRA
+2104073;Feira Nova do Maranhão;MA;Nordeste;BRA
+2104081;Fernando Falcão;MA;Nordeste;BRA
+2104404;Gonçalves Dias;MA;Nordeste;BRA
+2104909;Guimarães;MA;Nordeste;BRA
+2105005;Humberto de Campos;MA;Nordeste;BRA
+2105104;Icatu;MA;Nordeste;BRA
+2105153;Igarapé do Meio;MA;Nordeste;BRA
+2105401;Itapecuru Mirim;MA;Nordeste;BRA
+2105476;Jenipapo dos Vieiras;MA;Nordeste;BRA
+2105500;João Lisboa;MA;Nordeste;BRA
+2106300;Magalhães de Almeida;MA;Nordeste;BRA
+2106409;Mata Roma;MA;Nordeste;BRA
+2106805;Mirinzal;MA;Nordeste;BRA
+2107308;Nova Iorque;MA;Nordeste;BRA
+2107456;Olinda Nova do Maranhão;MA;Nordeste;BRA
+2107506;Paço do Lumiar;MA;Nordeste;BRA
+2107704;Paraibano;MA;Nordeste;BRA
+2108009;Pastos Bons;MA;Nordeste;BRA
+2108108;Paulo Ramos;MA;Nordeste;BRA
+2108306;Penalva;MA;Nordeste;BRA
+2108603;Pinheiro;MA;Nordeste;BRA
+2108801;Pirapemas;MA;Nordeste;BRA
+2109106;Presidente Dutra;MA;Nordeste;BRA
+2109205;Presidente Juscelino;MA;Nordeste;BRA
+2109551;Ribamar Fiquene;MA;Nordeste;BRA
+2109601;Rosário;MA;Nordeste;BRA
+2109908;Santa Inês;MA;Nordeste;BRA
+2110039;Santa Luzia do Paruá;MA;Nordeste;BRA
+2110203;Santa Rita;MA;Nordeste;BRA
+2110302;Santo Antônio dos Lopes;MA;Nordeste;BRA
+2110500;São Bento;MA;Nordeste;BRA
+2110658;São Domingos do Azeitão;MA;Nordeste;BRA
+2110807;São Félix de Balsas;MA;Nordeste;BRA
+2110906;São Francisco do Maranhão;MA;Nordeste;BRA
+2111029;São João do Carú;MA;Nordeste;BRA
+2111102;São João dos Patos;MA;Nordeste;BRA
+2111201;São José de Ribamar;MA;Nordeste;BRA
+2111573;São Pedro dos Crentes;MA;Nordeste;BRA
+2111631;São Raimundo do Doca Bezerra;MA;Nordeste;BRA
+2111805;Sítio Novo;MA;Nordeste;BRA
+2111953;Sucupira do Riachão;MA;Nordeste;BRA
+2112001;Tasso Fragoso;MA;Nordeste;BRA
+2112100;Timbiras;MA;Nordeste;BRA
+2112506;Tutóia;MA;Nordeste;BRA
+2112704;Vargem Grande;MA;Nordeste;BRA
+2103000;Caxias;MA;Nordeste;BRA
+2103604;Coroatá;MA;Nordeste;BRA
+2104099;Formosa da Serra Negra;MA;Nordeste;BRA
+2104206;Fortuna;MA;Nordeste;BRA
+2104701;Graça Aranha;MA;Nordeste;BRA
+2104800;Grajaú;MA;Nordeste;BRA
+2105302;Imperatriz;MA;Nordeste;BRA
+2105658;Junco do Maranhão;MA;Nordeste;BRA
+2105807;Lago do Junco;MA;Nordeste;BRA
+2106201;Luís Domingues;MA;Nordeste;BRA
+2106359;Marajá do Sena;MA;Nordeste;BRA
+2106375;Maranhãozinho;MA;Nordeste;BRA
+2106508;Matinha;MA;Nordeste;BRA
+2107258;Nova Colinas;MA;Nordeste;BRA
+2107357;Nova Olinda do Maranhão;MA;Nordeste;BRA
+2107902;Passagem Franca;MA;Nordeste;BRA
+2108058;Paulino Neves;MA;Nordeste;BRA
+2108504;Pindaré-Mirim;MA;Nordeste;BRA
+2109270;Presidente Sarney;MA;Nordeste;BRA
+2109403;Primeira Cruz;MA;Nordeste;BRA
+2109759;Santa Filomena do Maranhão;MA;Nordeste;BRA
+2110609;São Bernardo;MA;Nordeste;BRA
+2111078;São João do Soter;MA;Nordeste;BRA
+2111250;São José dos Basílios;MA;Nordeste;BRA
+2111300;São Luís;MA;Nordeste;BRA
+2111532;São Pedro da Água Branca;MA;Nordeste;BRA
+2111706;São Vicente Ferrer;MA;Nordeste;BRA
+2111722;Satubinha;MA;Nordeste;BRA
+2111763;Senador La Rocque;MA;Nordeste;BRA
+2112233;Trizidela do Vale;MA;Nordeste;BRA
+2112274;Tufilândia;MA;Nordeste;BRA
+2112803;Viana;MA;Nordeste;BRA
+2112852;Vila Nova dos Martírios;MA;Nordeste;BRA
+2112902;Vitória do Mearim;MA;Nordeste;BRA
+2113009;Vitorino Freire;MA;Nordeste;BRA
+2114007;Zé Doca;MA;Nordeste;BRA
+2103505;Colinas;MA;Nordeste;BRA
+2105450;Jatobá;MA;Nordeste;BRA
+2106607;Matões;MA;Nordeste;BRA
+2106706;Mirador;MA;Nordeste;BRA
+2107100;Morros;MA;Nordeste;BRA
+2107209;Nina Rodrigues;MA;Nordeste;BRA
+2107605;Palmeirândia;MA;Nordeste;BRA
+2109304;Presidente Vargas;MA;Nordeste;BRA
+2109809;Santa Helena;MA;Nordeste;BRA
+2110104;Santa Quitéria do Maranhão;MA;Nordeste;BRA
+2110278;Santo Amaro do Maranhão;MA;Nordeste;BRA
+2111904;Sucupira do Norte;MA;Nordeste;BRA
+2103174;Centro Novo do Maranhão;MA;Nordeste;BRA
+2105609;Joselândia;MA;Nordeste;BRA
+2105906;Lago Verde;MA;Nordeste;BRA
+2106755;Miranda do Norte;MA;Nordeste;BRA
+2108256;Pedro do Rosário;MA;Nordeste;BRA
+2109239;Presidente Médici;MA;Nordeste;BRA
+2110237;Santana do Maranhão;MA;Nordeste;BRA
+2110856;São Francisco do Brejão;MA;Nordeste;BRA
+2111003;São João Batista;MA;Nordeste;BRA
+2111508;São Mateus do Maranhão;MA;Nordeste;BRA
+2111607;São Raimundo das Mangabeiras;MA;Nordeste;BRA
+2112407;Turiaçu;MA;Nordeste;BRA
+2112605;Urbano Santos;MA;Nordeste;BRA
+2600054;Abreu e Lima;PE;Nordeste;BRA
+2600104;Afogados da Ingazeira;PE;Nordeste;BRA
+2600203;Afrânio;PE;Nordeste;BRA
+2600302;Agrestina;PE;Nordeste;BRA
+2600401;Água Preta;PE;Nordeste;BRA
+2600500;Águas Belas;PE;Nordeste;BRA
+2600609;Alagoinha;PE;Nordeste;BRA
+2600708;Aliança;PE;Nordeste;BRA
+2600807;Altinho;PE;Nordeste;BRA
+2600906;Amaraji;PE;Nordeste;BRA
+2601003;Angelim;PE;Nordeste;BRA
+2601052;Araçoiaba;PE;Nordeste;BRA
+2601102;Araripina;PE;Nordeste;BRA
+2601201;Arcoverde;PE;Nordeste;BRA
+2601300;Barra de Guabiraba;PE;Nordeste;BRA
+2601409;Barreiros;PE;Nordeste;BRA
+2601508;Belém de Maria;PE;Nordeste;BRA
+2601607;Belém do São Francisco;PE;Nordeste;BRA
+2601706;Belo Jardim;PE;Nordeste;BRA
+2601805;Betânia;PE;Nordeste;BRA
+2601904;Bezerros;PE;Nordeste;BRA
+2602001;Bodocó;PE;Nordeste;BRA
+2602100;Bom Conselho;PE;Nordeste;BRA
+2602209;Bom Jardim;PE;Nordeste;BRA
+2602308;Bonito;PE;Nordeste;BRA
+2602407;Brejão;PE;Nordeste;BRA
+2602506;Brejinho;PE;Nordeste;BRA
+2602605;Brejo da Madre de Deus;PE;Nordeste;BRA
+2602704;Buenos Aires;PE;Nordeste;BRA
+2602803;Buíque;PE;Nordeste;BRA
+2602902;Cabo de Santo Agostinho;PE;Nordeste;BRA
+2603009;Cabrobó;PE;Nordeste;BRA
+2603108;Cachoeirinha;PE;Nordeste;BRA
+2603207;Caetés;PE;Nordeste;BRA
+2603306;Calçado;PE;Nordeste;BRA
+2603405;Calumbi;PE;Nordeste;BRA
+2603454;Camaragibe;PE;Nordeste;BRA
+2603504;Camocim de São Félix;PE;Nordeste;BRA
+2603603;Camutanga;PE;Nordeste;BRA
+2603702;Canhotinho;PE;Nordeste;BRA
+2603900;Carnaíba;PE;Nordeste;BRA
+2604106;Caruaru;PE;Nordeste;BRA
+2604155;Casinhas;PE;Nordeste;BRA
+2604304;Cedro;PE;Nordeste;BRA
+2604403;Chã de Alegria;PE;Nordeste;BRA
+2604601;Condado;PE;Nordeste;BRA
+2605608;Flores;PE;Nordeste;BRA
+2605905;Gameleira;PE;Nordeste;BRA
+2606408;Gravatá;PE;Nordeste;BRA
+2606507;Iati;PE;Nordeste;BRA
+2606606;Ibimirim;PE;Nordeste;BRA
+2606804;Igarassu;PE;Nordeste;BRA
+2607604;Ilha de Itamaracá;PE;Nordeste;BRA
+2607109;Ingazeira;PE;Nordeste;BRA
+2607208;Ipojuca;PE;Nordeste;BRA
+2607406;Itacuruba;PE;Nordeste;BRA
+2607950;Jaqueira;PE;Nordeste;BRA
+2608008;Jataúba;PE;Nordeste;BRA
+2608107;João Alfredo;PE;Nordeste;BRA
+2608255;Jucati;PE;Nordeste;BRA
+2608503;Lagoa de Itaenga;PE;Nordeste;BRA
+2608701;Lagoa dos Gatos;PE;Nordeste;BRA
+2608750;Lagoa Grande;PE;Nordeste;BRA
+2608800;Lajedo;PE;Nordeste;BRA
+2609006;Macaparana;PE;Nordeste;BRA
+2609105;Machados;PE;Nordeste;BRA
+2609600;Olinda;PE;Nordeste;BRA
+2610400;Parnamirim;PE;Nordeste;BRA
+2610608;Paudalho;PE;Nordeste;BRA
+2611101;Petrolina;PE;Nordeste;BRA
+2611200;Poção;PE;Nordeste;BRA
+2611408;Primavera;PE;Nordeste;BRA
+2611507;Quipapá;PE;Nordeste;BRA
+2611705;Riacho das Almas;PE;Nordeste;BRA
+2612000;Sairé;PE;Nordeste;BRA
+2612554;Santa Filomena;PE;Nordeste;BRA
+2612703;Santa Maria do Cambucá;PE;Nordeste;BRA
+2612802;Santa Terezinha;PE;Nordeste;BRA
+2613404;São José da Coroa Grande;PE;Nordeste;BRA
+2614402;Solidão;PE;Nordeste;BRA
+2614857;Tamandaré;PE;Nordeste;BRA
+2615003;Taquaritinga do Norte;PE;Nordeste;BRA
+2615201;Terra Nova;PE;Nordeste;BRA
+2615300;Timbaúba;PE;Nordeste;BRA
+2616100;Verdejante;PE;Nordeste;BRA
+2616183;Vertente do Lério;PE;Nordeste;BRA
+2616209;Vertentes;PE;Nordeste;BRA
+2616407;Vitória de Santo Antão;PE;Nordeste;BRA
+2603801;Capoeiras;PE;Nordeste;BRA
+2603926;Carnaubeira da Penha;PE;Nordeste;BRA
+2604007;Carpina;PE;Nordeste;BRA
+2604205;Catende;PE;Nordeste;BRA
+2604502;Chã Grande;PE;Nordeste;BRA
+2604908;Cumaru;PE;Nordeste;BRA
+2605152;Dormentes;PE;Nordeste;BRA
+2605202;Escada;PE;Nordeste;BRA
+2605400;Feira Nova;PE;Nordeste;BRA
+2605459;Fernando de Noronha;PE;Nordeste;BRA
+2605806;Frei Miguelinho;PE;Nordeste;BRA
+2606309;Granito;PE;Nordeste;BRA
+2607505;Itaíba;PE;Nordeste;BRA
+2607653;Itambé;PE;Nordeste;BRA
+2607703;Itapetim;PE;Nordeste;BRA
+2607802;Itaquitinga;PE;Nordeste;BRA
+2608602;Lagoa do Ouro;PE;Nordeste;BRA
+2608909;Limoeiro;PE;Nordeste;BRA
+2609204;Maraial;PE;Nordeste;BRA
+2609303;Mirandiba;PE;Nordeste;BRA
+2609402;Moreno;PE;Nordeste;BRA
+2609501;Nazaré da Mata;PE;Nordeste;BRA
+2609907;Ouricuri;PE;Nordeste;BRA
+2610103;Palmeirina;PE;Nordeste;BRA
+2610202;Panelas;PE;Nordeste;BRA
+2610301;Paranatama;PE;Nordeste;BRA
+2610509;Passira;PE;Nordeste;BRA
+2610806;Pedra;PE;Nordeste;BRA
+2610905;Pesqueira;PE;Nordeste;BRA
+2611606;Recife;PE;Nordeste;BRA
+2611804;Ribeirão;PE;Nordeste;BRA
+2611903;Rio Formoso;PE;Nordeste;BRA
+2612109;Salgadinho;PE;Nordeste;BRA
+2612208;Salgueiro;PE;Nordeste;BRA
+2612406;Sanharó;PE;Nordeste;BRA
+2612471;Santa Cruz da Baixa Verde;PE;Nordeste;BRA
+2612505;Santa Cruz do Capibaribe;PE;Nordeste;BRA
+2612604;Santa Maria da Boa Vista;PE;Nordeste;BRA
+2613008;São Bento do Una;PE;Nordeste;BRA
+2613206;São João;PE;Nordeste;BRA
+2613305;São Joaquim do Monte;PE;Nordeste;BRA
+2613800;São Vicente Ferrer;PE;Nordeste;BRA
+2613909;Serra Talhada;PE;Nordeste;BRA
+2614105;Sertânia;PE;Nordeste;BRA
+2614204;Sirinhaém;PE;Nordeste;BRA
+2614501;Surubim;PE;Nordeste;BRA
+2614600;Tabira;PE;Nordeste;BRA
+2614709;Tacaimbó;PE;Nordeste;BRA
+2615508;Tracunhaém;PE;Nordeste;BRA
+2615706;Triunfo;PE;Nordeste;BRA
+2615805;Tupanatinga;PE;Nordeste;BRA
+2616001;Venturosa;PE;Nordeste;BRA
+2605509;Ferreiros;PE;Nordeste;BRA
+2606002;Garanhuns;PE;Nordeste;BRA
+2606101;Glória do Goitá;PE;Nordeste;BRA
+2606705;Ibirajuba;PE;Nordeste;BRA
+2606903;Iguaracy;PE;Nordeste;BRA
+2607000;Inajá;PE;Nordeste;BRA
+2607307;Ipubi;PE;Nordeste;BRA
+2607901;Jaboatão dos Guararapes;PE;Nordeste;BRA
+2608206;Joaquim Nabuco;PE;Nordeste;BRA
+2608305;Jupi;PE;Nordeste;BRA
+2609154;Manari;PE;Nordeste;BRA
+2609709;Orobó;PE;Nordeste;BRA
+2610004;Palmares;PE;Nordeste;BRA
+2610707;Paulista;PE;Nordeste;BRA
+2611002;Petrolândia;PE;Nordeste;BRA
+2611309;Pombos;PE;Nordeste;BRA
+2611533;Quixaba;PE;Nordeste;BRA
+2612307;Saloá;PE;Nordeste;BRA
+2612901;São Benedito do Sul;PE;Nordeste;BRA
+2613503;São José do Belmonte;PE;Nordeste;BRA
+2615102;Terezinha;PE;Nordeste;BRA
+2615409;Toritama;PE;Nordeste;BRA
+2615607;Trindade;PE;Nordeste;BRA
+2616506;Xexéu;PE;Nordeste;BRA
+2604700;Correntes;PE;Nordeste;BRA
+2604809;Cortês;PE;Nordeste;BRA
+2605103;Custódia;PE;Nordeste;BRA
+2605301;Exu;PE;Nordeste;BRA
+2606200;Goiana;PE;Nordeste;BRA
+2607752;Itapissuma;PE;Nordeste;BRA
+2608057;Jatobá;PE;Nordeste;BRA
+2608404;Jurema;PE;Nordeste;BRA
+2614303;Moreilândia;PE;Nordeste;BRA
+2613602;São José do Egito;PE;Nordeste;BRA
+2613701;São Lourenço da Mata;PE;Nordeste;BRA
+2614006;Serrita;PE;Nordeste;BRA
+2615904;Tuparetama;PE;Nordeste;BRA
+2605004;Cupira;PE;Nordeste;BRA
+2605707;Floresta;PE;Nordeste;BRA
+2608453;Lagoa do Carro;PE;Nordeste;BRA
+2609808;Orocó;PE;Nordeste;BRA
+2612455;Santa Cruz;PE;Nordeste;BRA
+2613107;São Caitano;PE;Nordeste;BRA
+2614808;Tacaratu;PE;Nordeste;BRA
+2616308;Vicência;PE;Nordeste;BRA
+2300101;Abaiara;CE;Nordeste;BRA
+2300150;Acarape;CE;Nordeste;BRA
+2300200;Acaraú;CE;Nordeste;BRA
+2300309;Acopiara;CE;Nordeste;BRA
+2300408;Aiuaba;CE;Nordeste;BRA
+2300507;Alcântaras;CE;Nordeste;BRA
+2300606;Altaneira;CE;Nordeste;BRA
+2300705;Alto Santo;CE;Nordeste;BRA
+2300754;Amontada;CE;Nordeste;BRA
+2300804;Antonina do Norte;CE;Nordeste;BRA
+2300903;Apuiarés;CE;Nordeste;BRA
+2301000;Aquiraz;CE;Nordeste;BRA
+2301109;Aracati;CE;Nordeste;BRA
+2301208;Aracoiaba;CE;Nordeste;BRA
+2301257;Ararendá;CE;Nordeste;BRA
+2301307;Araripe;CE;Nordeste;BRA
+2301406;Aratuba;CE;Nordeste;BRA
+2301505;Arneiroz;CE;Nordeste;BRA
+2301604;Assaré;CE;Nordeste;BRA
+2301703;Aurora;CE;Nordeste;BRA
+2301802;Baixio;CE;Nordeste;BRA
+2301851;Banabuiú;CE;Nordeste;BRA
+2301901;Barbalha;CE;Nordeste;BRA
+2301950;Barreira;CE;Nordeste;BRA
+2302008;Barro;CE;Nordeste;BRA
+2302057;Barroquinha;CE;Nordeste;BRA
+2302107;Baturité;CE;Nordeste;BRA
+2302206;Beberibe;CE;Nordeste;BRA
+2302305;Bela Cruz;CE;Nordeste;BRA
+2302404;Boa Viagem;CE;Nordeste;BRA
+2302503;Brejo Santo;CE;Nordeste;BRA
+2302602;Camocim;CE;Nordeste;BRA
+2302701;Campos Sales;CE;Nordeste;BRA
+2302800;Canindé;CE;Nordeste;BRA
+2302909;Capistrano;CE;Nordeste;BRA
+2303006;Caridade;CE;Nordeste;BRA
+2303204;Caririaçu;CE;Nordeste;BRA
+2303402;Carnaubal;CE;Nordeste;BRA
+2303808;Cedro;CE;Nordeste;BRA
+2303931;Choró;CE;Nordeste;BRA
+2304004;Coreaú;CE;Nordeste;BRA
+2304103;Crateús;CE;Nordeste;BRA
+2304236;Croatá;CE;Nordeste;BRA
+2304251;Cruz;CE;Nordeste;BRA
+2304285;Eusébio;CE;Nordeste;BRA
+2304400;Fortaleza;CE;Nordeste;BRA
+2304657;Graça;CE;Nordeste;BRA
+2304806;Granjeiro;CE;Nordeste;BRA
+2304954;Guaiúba;CE;Nordeste;BRA
+2305233;Horizonte;CE;Nordeste;BRA
+2305357;Icapuí;CE;Nordeste;BRA
+2305407;Icó;CE;Nordeste;BRA
+2305654;Ipaporanga;CE;Nordeste;BRA
+2305803;Ipu;CE;Nordeste;BRA
+2305902;Ipueiras;CE;Nordeste;BRA
+2306504;Itapiúna;CE;Nordeste;BRA
+2306702;Jaguaretama;CE;Nordeste;BRA
+2307106;Jardim;CE;Nordeste;BRA
+2307304;Juazeiro do Norte;CE;Nordeste;BRA
+2307650;Maracanaú;CE;Nordeste;BRA
+2308005;Massapê;CE;Nordeste;BRA
+2308203;Meruoca;CE;Nordeste;BRA
+2308401;Missão Velha;CE;Nordeste;BRA
+2308708;Morada Nova;CE;Nordeste;BRA
+2308807;Moraújo;CE;Nordeste;BRA
+2309003;Mucambo;CE;Nordeste;BRA
+2309458;Ocara;CE;Nordeste;BRA
+2309508;Orós;CE;Nordeste;BRA
+2310209;Paracuru;CE;Nordeste;BRA
+2310258;Paraipaba;CE;Nordeste;BRA
+2310506;Pedra Branca;CE;Nordeste;BRA
+2310704;Pentecoste;CE;Nordeste;BRA
+2311264;Quiterianópolis;CE;Nordeste;BRA
+2311405;Quixeramobim;CE;Nordeste;BRA
+2311603;Redenção;CE;Nordeste;BRA
+2311702;Reriutaba;CE;Nordeste;BRA
+2311801;Russas;CE;Nordeste;BRA
+2311900;Saboeiro;CE;Nordeste;BRA
+2312007;Santana do Acaraú;CE;Nordeste;BRA
+2312106;Santana do Cariri;CE;Nordeste;BRA
+2312304;São Benedito;CE;Nordeste;BRA
+2312502;São João do Jaguaribe;CE;Nordeste;BRA
+2313104;Tabuleiro do Norte;CE;Nordeste;BRA
+2313302;Tauá;CE;Nordeste;BRA
+2313351;Tejuçuoca;CE;Nordeste;BRA
+2313559;Tururu;CE;Nordeste;BRA
+2313955;Varjota;CE;Nordeste;BRA
+2303600;Catarina;CE;Nordeste;BRA
+2304350;Forquilha;CE;Nordeste;BRA
+2304509;Frecheirinha;CE;Nordeste;BRA
+2304608;General Sampaio;CE;Nordeste;BRA
+2305100;Guaramiranga;CE;Nordeste;BRA
+2305209;Hidrolândia;CE;Nordeste;BRA
+2305266;Ibaretama;CE;Nordeste;BRA
+2305506;Iguatu;CE;Nordeste;BRA
+2305704;Ipaumirim;CE;Nordeste;BRA
+2306009;Iracema;CE;Nordeste;BRA
+2306108;Irauçuba;CE;Nordeste;BRA
+2306256;Itaitinga;CE;Nordeste;BRA
+2306306;Itapajé;CE;Nordeste;BRA
+2306405;Itapipoca;CE;Nordeste;BRA
+2306553;Itarema;CE;Nordeste;BRA
+2306900;Jaguaribe;CE;Nordeste;BRA
+2307007;Jaguaruana;CE;Nordeste;BRA
+2307254;Jijoca de Jericoacoara;CE;Nordeste;BRA
+2307403;Jucás;CE;Nordeste;BRA
+2307502;Lavras da Mangabeira;CE;Nordeste;BRA
+2307700;Maranguape;CE;Nordeste;BRA
+2307809;Marco;CE;Nordeste;BRA
+2308302;Milagres;CE;Nordeste;BRA
+2308500;Mombaça;CE;Nordeste;BRA
+2308906;Morrinhos;CE;Nordeste;BRA
+2309201;Nova Olinda;CE;Nordeste;BRA
+2309607;Pacajus;CE;Nordeste;BRA
+2309706;Pacatuba;CE;Nordeste;BRA
+2310407;Paramoti;CE;Nordeste;BRA
+2310803;Pereiro;CE;Nordeste;BRA
+2310902;Piquet Carneiro;CE;Nordeste;BRA
+2311231;Potiretama;CE;Nordeste;BRA
+2311504;Quixeré;CE;Nordeste;BRA
+2312809;Senador Sá;CE;Nordeste;BRA
+2312908;Sobral;CE;Nordeste;BRA
+2313005;Solonópole;CE;Nordeste;BRA
+2313708;Umari;CE;Nordeste;BRA
+2303501;Cascavel;CE;Nordeste;BRA
+2303956;Chorozinho;CE;Nordeste;BRA
+2304202;Crato;CE;Nordeste;BRA
+2304269;Deputado Irapuan Pinheiro;CE;Nordeste;BRA
+2304277;Ererê;CE;Nordeste;BRA
+2304301;Farias Brito;CE;Nordeste;BRA
+2304459;Fortim;CE;Nordeste;BRA
+2304707;Granja;CE;Nordeste;BRA
+2304905;Groaíras;CE;Nordeste;BRA
+2305308;Ibiapina;CE;Nordeste;BRA
+2305332;Ibicuitinga;CE;Nordeste;BRA
+2305605;Independência;CE;Nordeste;BRA
+2306207;Itaiçaba;CE;Nordeste;BRA
+2306801;Jaguaribara;CE;Nordeste;BRA
+2307601;Limoeiro do Norte;CE;Nordeste;BRA
+2308104;Mauriti;CE;Nordeste;BRA
+2308351;Milhã;CE;Nordeste;BRA
+2309102;Mulungu;CE;Nordeste;BRA
+2309300;Nova Russas;CE;Nordeste;BRA
+2309805;Pacoti;CE;Nordeste;BRA
+2309904;Pacujá;CE;Nordeste;BRA
+2310100;Palmácia;CE;Nordeste;BRA
+2310852;Pindoretama;CE;Nordeste;BRA
+2311108;Porteiras;CE;Nordeste;BRA
+2311306;Quixadá;CE;Nordeste;BRA
+2311355;Quixelô;CE;Nordeste;BRA
+2311959;Salitre;CE;Nordeste;BRA
+2312403;São Gonçalo do Amarante;CE;Nordeste;BRA
+2312601;São Luís do Curu;CE;Nordeste;BRA
+2313252;Tarrafas;CE;Nordeste;BRA
+2313401;Tianguá;CE;Nordeste;BRA
+2313500;Trairi;CE;Nordeste;BRA
+2313757;Umirim;CE;Nordeste;BRA
+2313906;Uruoca;CE;Nordeste;BRA
+2314003;Várzea Alegre;CE;Nordeste;BRA
+2314102;Viçosa do Ceará;CE;Nordeste;BRA
+2303303;Cariús;CE;Nordeste;BRA
+2303659;Catunda;CE;Nordeste;BRA
+2303709;Caucaia;CE;Nordeste;BRA
+2305001;Guaraciaba do Norte;CE;Nordeste;BRA
+2306603;Itatira;CE;Nordeste;BRA
+2307908;Martinópole;CE;Nordeste;BRA
+2309409;Novo Oriente;CE;Nordeste;BRA
+2310308;Parambu;CE;Nordeste;BRA
+2312205;Santa Quitéria;CE;Nordeste;BRA
+2313609;Ubajara;CE;Nordeste;BRA
+2313807;Uruburetama;CE;Nordeste;BRA
+2303105;Cariré;CE;Nordeste;BRA
+2303907;Chaval;CE;Nordeste;BRA
+2307205;Jati;CE;Nordeste;BRA
+2307635;Madalena;CE;Nordeste;BRA
+2308377;Miraíma;CE;Nordeste;BRA
+2308609;Monsenhor Tabosa;CE;Nordeste;BRA
+2310001;Palhano;CE;Nordeste;BRA
+2310605;Penaforte;CE;Nordeste;BRA
+2310951;Pires Ferreira;CE;Nordeste;BRA
+2311009;Poranga;CE;Nordeste;BRA
+2311207;Potengi;CE;Nordeste;BRA
+2312700;Senador Pompeu;CE;Nordeste;BRA
+2313203;Tamboril;CE;Nordeste;BRA
+2400109;Acari;RN;Nordeste;BRA
+2400307;Afonso Bezerra;RN;Nordeste;BRA
+2400406;Água Nova;RN;Nordeste;BRA
+2400505;Alexandria;RN;Nordeste;BRA
+2400604;Almino Afonso;RN;Nordeste;BRA
+2400703;Alto do Rodrigues;RN;Nordeste;BRA
+2400802;Angicos;RN;Nordeste;BRA
+2400901;Antônio Martins;RN;Nordeste;BRA
+2401008;Apodi;RN;Nordeste;BRA
+2401107;Areia Branca;RN;Nordeste;BRA
+2401206;Arês;RN;Nordeste;BRA
+2401404;Baía Formosa;RN;Nordeste;BRA
+2401453;Baraúna;RN;Nordeste;BRA
+2401503;Barcelona;RN;Nordeste;BRA
+2401602;Bento Fernandes;RN;Nordeste;BRA
+2401651;Bodó;RN;Nordeste;BRA
+2401701;Bom Jesus;RN;Nordeste;BRA
+2401800;Brejinho;RN;Nordeste;BRA
+2401859;Caiçara do Norte;RN;Nordeste;BRA
+2401909;Caiçara do Rio do Vento;RN;Nordeste;BRA
+2402006;Caicó;RN;Nordeste;BRA
+2402105;Campo Redondo;RN;Nordeste;BRA
+2402204;Canguaretama;RN;Nordeste;BRA
+2402303;Caraúbas;RN;Nordeste;BRA
+2402402;Carnaúba dos Dantas;RN;Nordeste;BRA
+2402501;Carnaubais;RN;Nordeste;BRA
+2402808;Coronel Ezequiel;RN;Nordeste;BRA
+2403103;Currais Novos;RN;Nordeste;BRA
+2403400;Equador;RN;Nordeste;BRA
+2404804;Ipueira;RN;Nordeste;BRA
+2404853;Itajá;RN;Nordeste;BRA
+2405207;Janduís;RN;Nordeste;BRA
+2405900;João Dias;RN;Nordeste;BRA
+2406205;Lagoa d'Anta;RN;Nordeste;BRA
+2406304;Lagoa de Pedras;RN;Nordeste;BRA
+2406403;Lagoa de Velhos;RN;Nordeste;BRA
+2406809;Lajes Pintadas;RN;Nordeste;BRA
+2407104;Macaíba;RN;Nordeste;BRA
+2407252;Major Sales;RN;Nordeste;BRA
+2407401;Martins;RN;Nordeste;BRA
+2407609;Messias Targino;RN;Nordeste;BRA
+2407708;Montanhas;RN;Nordeste;BRA
+2407906;Monte das Gameleiras;RN;Nordeste;BRA
+2408003;Mossoró;RN;Nordeste;BRA
+2408201;Nísia Floresta;RN;Nordeste;BRA
+2408300;Nova Cruz;RN;Nordeste;BRA
+2408706;Paraú;RN;Nordeste;BRA
+2408805;Parazinho;RN;Nordeste;BRA
+2408904;Parelhas;RN;Nordeste;BRA
+2409100;Passa e Fica;RN;Nordeste;BRA
+2409407;Pau dos Ferros;RN;Nordeste;BRA
+2409506;Pedra Grande;RN;Nordeste;BRA
+2409704;Pedro Avelino;RN;Nordeste;BRA
+2409803;Pedro Velho;RN;Nordeste;BRA
+2410009;Pilões;RN;Nordeste;BRA
+2411429;Santana do Seridó;RN;Nordeste;BRA
+2411700;São Bento do Trairí;RN;Nordeste;BRA
+2412005;São Gonçalo do Amarante;RN;Nordeste;BRA
+2412104;São João do Sabugi;RN;Nordeste;BRA
+2412708;São Pedro;RN;Nordeste;BRA
+2412906;São Tomé;RN;Nordeste;BRA
+2413300;Serra de São Bento;RN;Nordeste;BRA
+2413409;Serra Negra do Norte;RN;Nordeste;BRA
+2413607;Severiano Melo;RN;Nordeste;BRA
+2413706;Sítio Novo;RN;Nordeste;BRA
+2414159;Tenente Laurentino Cruz;RN;Nordeste;BRA
+2411056;Tibau;RN;Nordeste;BRA
+2402907;Coronel João Pessoa;RN;Nordeste;BRA
+2403004;Cruzeta;RN;Nordeste;BRA
+2403202;Doutor Severiano;RN;Nordeste;BRA
+2403509;Espírito Santo;RN;Nordeste;BRA
+2403756;Fernando Pedroza;RN;Nordeste;BRA
+2403905;Francisco Dantas;RN;Nordeste;BRA
+2404002;Frutuoso Gomes;RN;Nordeste;BRA
+2404101;Galinhos;RN;Nordeste;BRA
+2404507;Guamaré;RN;Nordeste;BRA
+2404606;Ielmo Marinho;RN;Nordeste;BRA
+2404903;Itaú;RN;Nordeste;BRA
+2405009;Jaçanã;RN;Nordeste;BRA
+2405504;Jardim de Angicos;RN;Nordeste;BRA
+2405702;Jardim do Seridó;RN;Nordeste;BRA
+2405801;João Câmara;RN;Nordeste;BRA
+2406007;José da Penha;RN;Nordeste;BRA
+2406106;Jucurutu;RN;Nordeste;BRA
+2406155;Jundiá;RN;Nordeste;BRA
+2406601;Lagoa Salgada;RN;Nordeste;BRA
+2406700;Lajes;RN;Nordeste;BRA
+2406908;Lucrécia;RN;Nordeste;BRA
+2407005;Luís Gomes;RN;Nordeste;BRA
+2407203;Macau;RN;Nordeste;BRA
+2403251;Parnamirim;RN;Nordeste;BRA
+2409605;Pedra Preta;RN;Nordeste;BRA
+2409902;Pendências;RN;Nordeste;BRA
+2410108;Poço Branco;RN;Nordeste;BRA
+2410405;Pureza;RN;Nordeste;BRA
+2410504;Rafael Fernandes;RN;Nordeste;BRA
+2410900;Riachuelo;RN;Nordeste;BRA
+2411502;Santo Antônio;RN;Nordeste;BRA
+2411601;São Bento do Norte;RN;Nordeste;BRA
+2411809;São Fernando;RN;Nordeste;BRA
+2412302;São José do Campestre;RN;Nordeste;BRA
+2412807;São Rafael;RN;Nordeste;BRA
+2413003;São Vicente;RN;Nordeste;BRA
+2413102;Senador Elói de Souza;RN;Nordeste;BRA
+2413201;Senador Georgino Avelino;RN;Nordeste;BRA
+2413359;Serra do Mel;RN;Nordeste;BRA
+2413508;Serrinha;RN;Nordeste;BRA
+2413557;Serrinha dos Pintos;RN;Nordeste;BRA
+2413805;Taboleiro Grande;RN;Nordeste;BRA
+2413904;Taipu;RN;Nordeste;BRA
+2414100;Tenente Ananias;RN;Nordeste;BRA
+2414209;Tibau do Sul;RN;Nordeste;BRA
+2414704;Várzea;RN;Nordeste;BRA
+2414803;Vera Cruz;RN;Nordeste;BRA
+2415008;Vila Flor;RN;Nordeste;BRA
+2402709;Cerro Corá;RN;Nordeste;BRA
+2403301;Encanto;RN;Nordeste;BRA
+2403608;Extremoz;RN;Nordeste;BRA
+2403707;Felipe Guerra;RN;Nordeste;BRA
+2403806;Florânia;RN;Nordeste;BRA
+2404408;Grossos;RN;Nordeste;BRA
+2404705;Ipanguaçu;RN;Nordeste;BRA
+2405108;Jandaíra;RN;Nordeste;BRA
+2405603;Jardim de Piranhas;RN;Nordeste;BRA
+2406502;Lagoa Nova;RN;Nordeste;BRA
+2407302;Marcelino Vieira;RN;Nordeste;BRA
+2407807;Monte Alegre;RN;Nordeste;BRA
+2408102;Natal;RN;Nordeste;BRA
+2408508;Ouro Branco;RN;Nordeste;BRA
+2408607;Paraná;RN;Nordeste;BRA
+2409209;Passagem;RN;Nordeste;BRA
+2409308;Patu;RN;Nordeste;BRA
+2410256;Porto do Mangue;RN;Nordeste;BRA
+2410603;Rafael Godeiro;RN;Nordeste;BRA
+2408953;Rio do Fogo;RN;Nordeste;BRA
+2411106;Ruy Barbosa;RN;Nordeste;BRA
+2411205;Santa Cruz;RN;Nordeste;BRA
+2412203;São José de Mipibu;RN;Nordeste;BRA
+2412401;São José do Seridó;RN;Nordeste;BRA
+2412500;São Miguel;RN;Nordeste;BRA
+2412609;São Paulo do Potengi;RN;Nordeste;BRA
+2414001;Tangará;RN;Nordeste;BRA
+2414407;Touros;RN;Nordeste;BRA
+2414456;Triunfo Potiguar;RN;Nordeste;BRA
+2414506;Umarizal;RN;Nordeste;BRA
+2414902;Viçosa;RN;Nordeste;BRA
+2404200;Goianinha;RN;Nordeste;BRA
+2410207;Portalegre;RN;Nordeste;BRA
+2410702;Riacho da Cruz;RN;Nordeste;BRA
+2410801;Riacho de Santana;RN;Nordeste;BRA
+2411007;Rodolfo Fernandes;RN;Nordeste;BRA
+2404309;Governador Dix-Sept Rosado;RN;Nordeste;BRA
+2405405;Japi;RN;Nordeste;BRA
+2407500;Maxaranguape;RN;Nordeste;BRA
+2408409;Olho-d'Água do Borges;RN;Nordeste;BRA
+2409332;Santa Maria;RN;Nordeste;BRA
+2411403;Santana do Matos;RN;Nordeste;BRA
+2411908;São Francisco do Oeste;RN;Nordeste;BRA
+2414308;Timbaúba dos Batistas;RN;Nordeste;BRA
+2414605;Upanema;RN;Nordeste;BRA
+2700102;Água Branca;AL;Nordeste;BRA
+2700201;Anadia;AL;Nordeste;BRA
+2700300;Arapiraca;AL;Nordeste;BRA
+2700409;Atalaia;AL;Nordeste;BRA
+2700508;Barra de Santo Antônio;AL;Nordeste;BRA
+2700607;Barra de São Miguel;AL;Nordeste;BRA
+2700706;Batalha;AL;Nordeste;BRA
+2700805;Belém;AL;Nordeste;BRA
+2700904;Belo Monte;AL;Nordeste;BRA
+2701001;Boca da Mata;AL;Nordeste;BRA
+2701100;Branquinha;AL;Nordeste;BRA
+2701209;Cacimbinhas;AL;Nordeste;BRA
+2701308;Cajueiro;AL;Nordeste;BRA
+2701357;Campestre;AL;Nordeste;BRA
+2701407;Campo Alegre;AL;Nordeste;BRA
+2701506;Campo Grande;AL;Nordeste;BRA
+2701605;Canapi;AL;Nordeste;BRA
+2701704;Capela;AL;Nordeste;BRA
+2702207;Coqueiro Seco;AL;Nordeste;BRA
+2702603;Feira Grande;AL;Nordeste;BRA
+2703601;Japaratinga;AL;Nordeste;BRA
+2703700;Jaramataia;AL;Nordeste;BRA
+2703759;Jequiá da Praia;AL;Nordeste;BRA
+2703809;Joaquim Gomes;AL;Nordeste;BRA
+2703908;Jundiá;AL;Nordeste;BRA
+2704104;Lagoa da Canoa;AL;Nordeste;BRA
+2704302;Maceió;AL;Nordeste;BRA
+2704401;Major Isidoro;AL;Nordeste;BRA
+2704906;Mar Vermelho;AL;Nordeste;BRA
+2704500;Maragogi;AL;Nordeste;BRA
+2705705;Olho d'Água das Flores;AL;Nordeste;BRA
+2705804;Olho d'Água do Casado;AL;Nordeste;BRA
+2706208;Palestina;AL;Nordeste;BRA
+2706422;Pariconha;AL;Nordeste;BRA
+2706901;Pilar;AL;Nordeste;BRA
+2708006;Santana do Ipanema;AL;Nordeste;BRA
+2708303;São José da Laje;AL;Nordeste;BRA
+2701902;Chã Preta;AL;Nordeste;BRA
+2702355;Craíbas;AL;Nordeste;BRA
+2702801;Flexeiras;AL;Nordeste;BRA
+2702900;Girau do Ponciano;AL;Nordeste;BRA
+2703007;Ibateguara;AL;Nordeste;BRA
+2703106;Igaci;AL;Nordeste;BRA
+2703205;Igreja Nova;AL;Nordeste;BRA
+2704005;Junqueiro;AL;Nordeste;BRA
+2704708;Marechal Deodoro;AL;Nordeste;BRA
+2705200;Messias;AL;Nordeste;BRA
+2705903;Olho d'Água Grande;AL;Nordeste;BRA
+2706604;Paulo Jacinto;AL;Nordeste;BRA
+2706703;Penedo;AL;Nordeste;BRA
+2706802;Piaçabuçu;AL;Nordeste;BRA
+2707107;Piranhas;AL;Nordeste;BRA
+2707206;Poço das Trincheiras;AL;Nordeste;BRA
+2707305;Porto Calvo;AL;Nordeste;BRA
+2707701;Rio Largo;AL;Nordeste;BRA
+2708402;São José da Tapera;AL;Nordeste;BRA
+2708501;São Luís do Quitunde;AL;Nordeste;BRA
+2708709;São Miguel dos Milagres;AL;Nordeste;BRA
+2708808;São Sebastião;AL;Nordeste;BRA
+2709103;Taquarana;AL;Nordeste;BRA
+2702108;Colônia Leopoldina;AL;Nordeste;BRA
+2702702;Feliz Deserto;AL;Nordeste;BRA
+2703502;Jacuípe;AL;Nordeste;BRA
+2704203;Limoeiro de Anadia;AL;Nordeste;BRA
+2704609;Maravilha;AL;Nordeste;BRA
+2704807;Maribondo;AL;Nordeste;BRA
+2705002;Mata Grande;AL;Nordeste;BRA
+2706448;Paripueira;AL;Nordeste;BRA
+2706505;Passo de Camaragibe;AL;Nordeste;BRA
+2707008;Pindoba;AL;Nordeste;BRA
+2707404;Porto de Pedras;AL;Nordeste;BRA
+2707602;Quebrangulo;AL;Nordeste;BRA
+2707800;Roteiro;AL;Nordeste;BRA
+2708105;Santana do Mundaú;AL;Nordeste;BRA
+2708600;São Miguel dos Campos;AL;Nordeste;BRA
+2708907;Satuba;AL;Nordeste;BRA
+2708956;Senador Rui Palmeira;AL;Nordeste;BRA
+2709004;Tanque d'Arca;AL;Nordeste;BRA
+2709152;Teotônio Vilela;AL;Nordeste;BRA
+2709202;Traipu;AL;Nordeste;BRA
+2709400;Viçosa;AL;Nordeste;BRA
+2702405;Delmiro Gouveia;AL;Nordeste;BRA
+2702504;Dois Riachos;AL;Nordeste;BRA
+2702553;Estrela de Alagoas;AL;Nordeste;BRA
+2703304;Inhapi;AL;Nordeste;BRA
+2703403;Jacaré dos Homens;AL;Nordeste;BRA
+2705408;Monteirópolis;AL;Nordeste;BRA
+2705507;Murici;AL;Nordeste;BRA
+2706000;Olivença;AL;Nordeste;BRA
+2706109;Ouro Branco;AL;Nordeste;BRA
+2707503;Porto Real do Colégio;AL;Nordeste;BRA
+2701803;Carneiros;AL;Nordeste;BRA
+2702009;Coité do Nóia;AL;Nordeste;BRA
+2702306;Coruripe;AL;Nordeste;BRA
+2705101;Matriz de Camaragibe;AL;Nordeste;BRA
+2705309;Minador do Negrão;AL;Nordeste;BRA
+2705606;Novo Lino;AL;Nordeste;BRA
+2706307;Palmeira dos Índios;AL;Nordeste;BRA
+2706406;Pão de Açúcar;AL;Nordeste;BRA
+2707909;Santa Luzia do Norte;AL;Nordeste;BRA
+2709301;União dos Palmares;AL;Nordeste;BRA
+2800100;Amparo de São Francisco;SE;Nordeste;BRA
+2800209;Aquidabã;SE;Nordeste;BRA
+2800308;Aracaju;SE;Nordeste;BRA
+2800407;Arauá;SE;Nordeste;BRA
+2800506;Areia Branca;SE;Nordeste;BRA
+2800605;Barra dos Coqueiros;SE;Nordeste;BRA
+2800670;Boquim;SE;Nordeste;BRA
+2800704;Brejo Grande;SE;Nordeste;BRA
+2801009;Campo do Brito;SE;Nordeste;BRA
+2801108;Canhoba;SE;Nordeste;BRA
+2801207;Canindé de São Francisco;SE;Nordeste;BRA
+2801306;Capela;SE;Nordeste;BRA
+2801405;Carira;SE;Nordeste;BRA
+2802205;Feira Nova;SE;Nordeste;BRA
+2802809;Indiaroba;SE;Nordeste;BRA
+2803005;Itabaianinha;SE;Nordeste;BRA
+2803401;Japoatã;SE;Nordeste;BRA
+2803500;Lagarto;SE;Nordeste;BRA
+2803609;Laranjeiras;SE;Nordeste;BRA
+2803708;Macambira;SE;Nordeste;BRA
+2804003;Maruim;SE;Nordeste;BRA
+2804409;Neópolis;SE;Nordeste;BRA
+2804458;Nossa Senhora Aparecida;SE;Nordeste;BRA
+2804508;Nossa Senhora da Glória;SE;Nordeste;BRA
+2804904;Pacatuba;SE;Nordeste;BRA
+2805208;Pinhão;SE;Nordeste;BRA
+2805604;Porto da Folha;SE;Nordeste;BRA
+2806305;Santa Luzia do Itanhy;SE;Nordeste;BRA
+2806701;São Cristóvão;SE;Nordeste;BRA
+2807105;Simão Dias;SE;Nordeste;BRA
+2807204;Siriri;SE;Nordeste;BRA
+2807501;Tomar do Geru;SE;Nordeste;BRA
+2801504;Carmópolis;SE;Nordeste;BRA
+2801603;Cedro de São João;SE;Nordeste;BRA
+2802007;Divina Pastora;SE;Nordeste;BRA
+2802106;Estância;SE;Nordeste;BRA
+2802304;Frei Paulo;SE;Nordeste;BRA
+2802700;Ilha das Flores;SE;Nordeste;BRA
+2803203;Itaporanga d'Ajuda;SE;Nordeste;BRA
+2803302;Japaratuba;SE;Nordeste;BRA
+2804201;Monte Alegre de Sergipe;SE;Nordeste;BRA
+2804300;Muribeca;SE;Nordeste;BRA
+2804607;Nossa Senhora das Dores;SE;Nordeste;BRA
+2805307;Pirambu;SE;Nordeste;BRA
+2805505;Poço Verde;SE;Nordeste;BRA
+2805703;Propriá;SE;Nordeste;BRA
+2805802;Riachão do Dantas;SE;Nordeste;BRA
+2805901;Riachuelo;SE;Nordeste;BRA
+2806909;São Francisco;SE;Nordeste;BRA
+2801900;Cumbe;SE;Nordeste;BRA
+2802403;Gararu;SE;Nordeste;BRA
+2802502;General Maynard;SE;Nordeste;BRA
+2802601;Gracho Cardoso;SE;Nordeste;BRA
+2803906;Malhador;SE;Nordeste;BRA
+2804102;Moita Bonita;SE;Nordeste;BRA
+2804706;Nossa Senhora de Lourdes;SE;Nordeste;BRA
+2804805;Nossa Senhora do Socorro;SE;Nordeste;BRA
+2805000;Pedra Mole;SE;Nordeste;BRA
+2805406;Poço Redondo;SE;Nordeste;BRA
+2806206;Salgado;SE;Nordeste;BRA
+2806404;Santana do São Francisco;SE;Nordeste;BRA
+2806602;Santo Amaro das Brotas;SE;Nordeste;BRA
+2806800;São Domingos;SE;Nordeste;BRA
+2807006;São Miguel do Aleixo;SE;Nordeste;BRA
+2807402;Tobias Barreto;SE;Nordeste;BRA
+2801702;Cristinápolis;SE;Nordeste;BRA
+2802908;Itabaiana;SE;Nordeste;BRA
+2803807;Malhada dos Bois;SE;Nordeste;BRA
+2805109;Pedrinhas;SE;Nordeste;BRA
+2806008;Ribeirópolis;SE;Nordeste;BRA
+2806503;Santa Rosa de Lima;SE;Nordeste;BRA
+2807303;Telha;SE;Nordeste;BRA
+2807600;Umbaúba;SE;Nordeste;BRA
+2803104;Itabi;SE;Nordeste;BRA
+2806107;Rosário do Catete;SE;Nordeste;BRA
+3201308;Cariacica;ES;Sudeste;BRA
+3201407;Castelo;ES;Sudeste;BRA
+3201605;Conceição da Barra;ES;Sudeste;BRA
+3201704;Conceição do Castelo;ES;Sudeste;BRA
+3202009;Dores do Rio Preto;ES;Sudeste;BRA
+3202207;Fundão;ES;Sudeste;BRA
+3202504;Ibiraçu;ES;Sudeste;BRA
+3202603;Iconha;ES;Sudeste;BRA
+3202652;Irupi;ES;Sudeste;BRA
+3203056;Jaguaré;ES;Sudeste;BRA
+3203106;Jerônimo Monteiro;ES;Sudeste;BRA
+3203130;João Neiva;ES;Sudeste;BRA
+3203163;Laranja da Terra;ES;Sudeste;BRA
+3203700;Muniz Freire;ES;Sudeste;BRA
+3204252;Ponto Belo;ES;Sudeste;BRA
+3204302;Presidente Kennedy;ES;Sudeste;BRA
+3204500;Santa Leopoldina;ES;Sudeste;BRA
+3204906;São Mateus;ES;Sudeste;BRA
+3205002;Serra;ES;Sudeste;BRA
+3205036;Vargem Alta;ES;Sudeste;BRA
+3200102;Afonso Cláudio;ES;Sudeste;BRA
+3200169;Água Doce do Norte;ES;Sudeste;BRA
+3200136;Águia Branca;ES;Sudeste;BRA
+3200201;Alegre;ES;Sudeste;BRA
+3200300;Alfredo Chaves;ES;Sudeste;BRA
+3200359;Alto Rio Novo;ES;Sudeste;BRA
+3200409;Anchieta;ES;Sudeste;BRA
+3200508;Apiacá;ES;Sudeste;BRA
+3200607;Aracruz;ES;Sudeste;BRA
+3200706;Atilio Vivacqua;ES;Sudeste;BRA
+3200805;Baixo Guandu;ES;Sudeste;BRA
+3200904;Barra de São Francisco;ES;Sudeste;BRA
+3201001;Boa Esperança;ES;Sudeste;BRA
+3201100;Bom Jesus do Norte;ES;Sudeste;BRA
+3201159;Brejetuba;ES;Sudeste;BRA
+3201209;Cachoeiro de Itapemirim;ES;Sudeste;BRA
+3201506;Colatina;ES;Sudeste;BRA
+3201803;Divino de São Lourenço;ES;Sudeste;BRA
+3201902;Domingos Martins;ES;Sudeste;BRA
+3202306;Guaçuí;ES;Sudeste;BRA
+3202405;Guarapari;ES;Sudeste;BRA
+3202553;Ibitirama;ES;Sudeste;BRA
+3202801;Itapemirim;ES;Sudeste;BRA
+3203320;Marataízes;ES;Sudeste;BRA
+3203502;Montanha;ES;Sudeste;BRA
+3203809;Muqui;ES;Sudeste;BRA
+3204005;Pancas;ES;Sudeste;BRA
+3204054;Pedro Canário;ES;Sudeste;BRA
+3204104;Pinheiros;ES;Sudeste;BRA
+3204351;Rio Bananal;ES;Sudeste;BRA
+3204708;São Gabriel da Palha;ES;Sudeste;BRA
+3204807;São José do Calçado;ES;Sudeste;BRA
+3204955;São Roque do Canaã;ES;Sudeste;BRA
+3205010;Sooretama;ES;Sudeste;BRA
+3205101;Viana;ES;Sudeste;BRA
+3205150;Vila Pavão;ES;Sudeste;BRA
+3205176;Vila Valério;ES;Sudeste;BRA
+3205309;Vitória;ES;Sudeste;BRA
+3202454;Ibatiba;ES;Sudeste;BRA
+3203205;Linhares;ES;Sudeste;BRA
+3203346;Marechal Floriano;ES;Sudeste;BRA
+3203353;Marilândia;ES;Sudeste;BRA
+3204203;Piúma;ES;Sudeste;BRA
+3204559;Santa Maria de Jetibá;ES;Sudeste;BRA
+3204609;Santa Teresa;ES;Sudeste;BRA
+3205069;Venda Nova do Imigrante;ES;Sudeste;BRA
+3205200;Vila Velha;ES;Sudeste;BRA
+3202702;Itaguaçu;ES;Sudeste;BRA
+3202900;Itarana;ES;Sudeste;BRA
+3203007;Iúna;ES;Sudeste;BRA
+3203403;Mimoso do Sul;ES;Sudeste;BRA
+3203601;Mucurici;ES;Sudeste;BRA
+3202108;Ecoporanga;ES;Sudeste;BRA
+3203304;Mantenópolis;ES;Sudeste;BRA
+3203908;Nova Venécia;ES;Sudeste;BRA
+3204401;Rio Novo do Sul;ES;Sudeste;BRA
+3204658;São Domingos do Norte;ES;Sudeste;BRA
+3301306;Casimiro de Abreu;RJ;Sudeste;BRA
+3301801;Engenheiro Paulo de Frontin;RJ;Sudeste;BRA
+3301876;Iguaba Grande;RJ;Sudeste;BRA
+3301900;Itaboraí;RJ;Sudeste;BRA
+3302106;Itaocara;RJ;Sudeste;BRA
+3302304;Laje do Muriaé;RJ;Sudeste;BRA
+3302601;Mangaratiba;RJ;Sudeste;BRA
+3302809;Mendes;RJ;Sudeste;BRA
+3302908;Miguel Pereira;RJ;Sudeste;BRA
+3303104;Natividade;RJ;Sudeste;BRA
+3303302;Niterói;RJ;Sudeste;BRA
+3303609;Paracambi;RJ;Sudeste;BRA
+3303807;Paraty;RJ;Sudeste;BRA
+3304151;Quissamã;RJ;Sudeste;BRA
+3304201;Resende;RJ;Sudeste;BRA
+3304805;São Fidélis;RJ;Sudeste;BRA
+3304755;São Francisco de Itabapoana;RJ;Sudeste;BRA
+3305000;São João da Barra;RJ;Sudeste;BRA
+3305133;São José de Ubá;RJ;Sudeste;BRA
+3305158;São José do Vale do Rio Preto;RJ;Sudeste;BRA
+3305406;Sapucaia;RJ;Sudeste;BRA
+3305505;Saquarema;RJ;Sudeste;BRA
+3305703;Sumidouro;RJ;Sudeste;BRA
+3300100;Angra dos Reis;RJ;Sudeste;BRA
+3300159;Aperibé;RJ;Sudeste;BRA
+3300209;Araruama;RJ;Sudeste;BRA
+3300225;Areal;RJ;Sudeste;BRA
+3300233;Armação dos Búzios;RJ;Sudeste;BRA
+3300258;Arraial do Cabo;RJ;Sudeste;BRA
+3300308;Barra do Piraí;RJ;Sudeste;BRA
+3300407;Barra Mansa;RJ;Sudeste;BRA
+3300456;Belford Roxo;RJ;Sudeste;BRA
+3300506;Bom Jardim;RJ;Sudeste;BRA
+3300605;Bom Jesus do Itabapoana;RJ;Sudeste;BRA
+3300704;Cabo Frio;RJ;Sudeste;BRA
+3300803;Cachoeiras de Macacu;RJ;Sudeste;BRA
+3300902;Cambuci;RJ;Sudeste;BRA
+3301009;Campos dos Goytacazes;RJ;Sudeste;BRA
+3301108;Cantagalo;RJ;Sudeste;BRA
+3300936;Carapebus;RJ;Sudeste;BRA
+3301157;Cardoso Moreira;RJ;Sudeste;BRA
+3301207;Carmo;RJ;Sudeste;BRA
+3301603;Duas Barras;RJ;Sudeste;BRA
+3301702;Duque de Caxias;RJ;Sudeste;BRA
+3302056;Italva;RJ;Sudeste;BRA
+3302205;Itaperuna;RJ;Sudeste;BRA
+3302254;Itatiaia;RJ;Sudeste;BRA
+3302452;Macuco;RJ;Sudeste;BRA
+3302700;Maricá;RJ;Sudeste;BRA
+3302858;Mesquita;RJ;Sudeste;BRA
+3303005;Miracema;RJ;Sudeste;BRA
+3303203;Nilópolis;RJ;Sudeste;BRA
+3303856;Paty do Alferes;RJ;Sudeste;BRA
+3303906;Petrópolis;RJ;Sudeste;BRA
+3303955;Pinheiral;RJ;Sudeste;BRA
+3304003;Piraí;RJ;Sudeste;BRA
+3304128;Quatis;RJ;Sudeste;BRA
+3304144;Queimados;RJ;Sudeste;BRA
+3304524;Rio das Ostras;RJ;Sudeste;BRA
+3304607;Santa Maria Madalena;RJ;Sudeste;BRA
+3304706;Santo Antônio de Pádua;RJ;Sudeste;BRA
+3304904;São Gonçalo;RJ;Sudeste;BRA
+3305109;São João de Meriti;RJ;Sudeste;BRA
+3305208;São Pedro da Aldeia;RJ;Sudeste;BRA
+3305307;São Sebastião do Alto;RJ;Sudeste;BRA
+3305554;Seropédica;RJ;Sudeste;BRA
+3305604;Silva Jardim;RJ;Sudeste;BRA
+3305901;Trajano de Moraes;RJ;Sudeste;BRA
+3306107;Valença;RJ;Sudeste;BRA
+3306156;Varre-Sai;RJ;Sudeste;BRA
+3301504;Cordeiro;RJ;Sudeste;BRA
+3301850;Guapimirim;RJ;Sudeste;BRA
+3303500;Nova Iguaçu;RJ;Sudeste;BRA
+3304110;Porto Real;RJ;Sudeste;BRA
+3304409;Rio Claro;RJ;Sudeste;BRA
+3304508;Rio das Flores;RJ;Sudeste;BRA
+3304557;Rio de Janeiro;RJ;Sudeste;BRA
+3305752;Tanguá;RJ;Sudeste;BRA
+3306008;Três Rios;RJ;Sudeste;BRA
+3306206;Vassouras;RJ;Sudeste;BRA
+3306305;Volta Redonda;RJ;Sudeste;BRA
+3300951;Comendador Levy Gasparian;RJ;Sudeste;BRA
+3302270;Japeri;RJ;Sudeste;BRA
+3302502;Magé;RJ;Sudeste;BRA
+3303401;Nova Friburgo;RJ;Sudeste;BRA
+3305802;Teresópolis;RJ;Sudeste;BRA
+3301405;Conceição de Macabu;RJ;Sudeste;BRA
+3302007;Itaguaí;RJ;Sudeste;BRA
+3302403;Macaé;RJ;Sudeste;BRA
+3303708;Paraíba do Sul;RJ;Sudeste;BRA
+3304102;Porciúncula;RJ;Sudeste;BRA
+3304300;Rio Bonito;RJ;Sudeste;BRA
+3511201;Catiguá;SP;Sudeste;BRA
+3511300;Cedral;SP;Sudeste;BRA
+3511904;Clementina;SP;Sudeste;BRA
+3512100;Colômbia;SP;Sudeste;BRA
+3512902;Cosmorama;SP;Sudeste;BRA
+3513504;Cubatão;SP;Sudeste;BRA
+3513702;Descalvado;SP;Sudeste;BRA
+3514403;Dracena;SP;Sudeste;BRA
+3514908;Elias Fausto;SP;Sudeste;BRA
+3514924;Elisiário;SP;Sudeste;BRA
+3515103;Embu-Guaçu;SP;Sudeste;BRA
+3515129;Emilianópolis;SP;Sudeste;BRA
+3515350;Euclides da Cunha Paulista;SP;Sudeste;BRA
+3515400;Fartura;SP;Sudeste;BRA
+3515657;Fernão;SP;Sudeste;BRA
+3516200;Franca;SP;Sudeste;BRA
+3516804;Gastão Vidigal;SP;Sudeste;BRA
+3516903;General Salgado;SP;Sudeste;BRA
+3517000;Getulina;SP;Sudeste;BRA
+3517109;Glicério;SP;Sudeste;BRA
+3517406;Guaíra;SP;Sudeste;BRA
+3519105;Iacanga;SP;Sudeste;BRA
+3519501;Ibirarema;SP;Sudeste;BRA
+3519808;Icém;SP;Sudeste;BRA
+3519907;Iepê;SP;Sudeste;BRA
+3520004;Igaraçu do Tietê;SP;Sudeste;BRA
+3520103;Igarapava;SP;Sudeste;BRA
+3520707;Indiaporã;SP;Sudeste;BRA
+3521101;Ipeúna;SP;Sudeste;BRA
+3521408;Iracemápolis;SP;Sudeste;BRA
+3521606;Irapuru;SP;Sudeste;BRA
+3521804;Itaí;SP;Sudeste;BRA
+3522000;Itaju;SP;Sudeste;BRA
+3522158;Itaóca;SP;Sudeste;BRA
+3522307;Itapetininga;SP;Sudeste;BRA
+3522703;Itápolis;SP;Sudeste;BRA
+3523404;Itatiba;SP;Sudeste;BRA
+3523602;Itirapina;SP;Sudeste;BRA
+3524204;Jaborandi;SP;Sudeste;BRA
+3524303;Jaboticabal;SP;Sudeste;BRA
+3524501;Jaci;SP;Sudeste;BRA
+3524907;Jambeiro;SP;Sudeste;BRA
+3525508;Joanópolis;SP;Sudeste;BRA
+3525706;José Bonifácio;SP;Sudeste;BRA
+3525805;Júlio Mesquita;SP;Sudeste;BRA
+3526100;Juquiá;SP;Sudeste;BRA
+3526209;Juquitiba;SP;Sudeste;BRA
+3526605;Lavrinhas;SP;Sudeste;BRA
+3526902;Limeira;SP;Sudeste;BRA
+3527405;Lucélia;SP;Sudeste;BRA
+3527504;Lucianópolis;SP;Sudeste;BRA
+3528007;Macatuba;SP;Sudeste;BRA
+3528403;Mairinque;SP;Sudeste;BRA
+3528809;Maracaí;SP;Sudeste;BRA
+3528858;Marapoama;SP;Sudeste;BRA
+3529104;Marinópolis;SP;Sudeste;BRA
+3529203;Martinópolis;SP;Sudeste;BRA
+3529401;Mauá;SP;Sudeste;BRA
+3529609;Meridiano;SP;Sudeste;BRA
+3529658;Mesópolis;SP;Sudeste;BRA
+3530201;Mirante do Paranapanema;SP;Sudeste;BRA
+3530300;Mirassol;SP;Sudeste;BRA
+3530607;Mogi das Cruzes;SP;Sudeste;BRA
+3530805;Mogi Mirim;SP;Sudeste;BRA
+3530904;Mombuca;SP;Sudeste;BRA
+3531100;Mongaguá;SP;Sudeste;BRA
+3531803;Monte Mor;SP;Sudeste;BRA
+3532058;Motuca;SP;Sudeste;BRA
+3532207;Narandiba;SP;Sudeste;BRA
+3532306;Natividade da Serra;SP;Sudeste;BRA
+3532827;Nova Campina;SP;Sudeste;BRA
+3533007;Nova Granada;SP;Sudeste;BRA
+3533700;Ocauçu;SP;Sudeste;BRA
+3533908;Olímpia;SP;Sudeste;BRA
+3534104;Oriente;SP;Sudeste;BRA
+3534203;Orindiúva;SP;Sudeste;BRA
+3534757;Ouroeste;SP;Sudeste;BRA
+3535002;Palestina;SP;Sudeste;BRA
+3535200;Palmeira d'Oeste;SP;Sudeste;BRA
+3535606;Paraibuna;SP;Sudeste;BRA
+3535705;Paraíso;SP;Sudeste;BRA
+3535903;Paranapuã;SP;Sudeste;BRA
+3536208;Pariquera-Açu;SP;Sudeste;BRA
+3536802;Pedra Bela;SP;Sudeste;BRA
+3536901;Pedranópolis;SP;Sudeste;BRA
+3537156;Pedrinhas Paulista;SP;Sudeste;BRA
+3537206;Pedro de Toledo;SP;Sudeste;BRA
+3537602;Peruíbe;SP;Sudeste;BRA
+3537909;Pilar do Sul;SP;Sudeste;BRA
+3538204;Pinhalzinho;SP;Sudeste;BRA
+3538808;Piraju;SP;Sudeste;BRA
+3539202;Pirapozinho;SP;Sudeste;BRA
+3539301;Pirassununga;SP;Sudeste;BRA
+3539608;Planalto;SP;Sudeste;BRA
+3539806;Poá;SP;Sudeste;BRA
+3540606;Porto Feliz;SP;Sudeste;BRA
+3540754;Potim;SP;Sudeste;BRA
+3540853;Pracinha;SP;Sudeste;BRA
+3541109;Presidente Alves;SP;Sudeste;BRA
+3541703;Quatá;SP;Sudeste;BRA
+3541901;Queluz;SP;Sudeste;BRA
+3542008;Quintana;SP;Sudeste;BRA
+3542107;Rafard;SP;Sudeste;BRA
+3542800;Ribeira;SP;Sudeste;BRA
+3543105;Ribeirão Corrente;SP;Sudeste;BRA
+3543907;Rio Claro;SP;Sudeste;BRA
+3544202;Riolândia;SP;Sudeste;BRA
+3544806;Sales;SP;Sudeste;BRA
+3545001;Salesópolis;SP;Sudeste;BRA
+3545159;Saltinho;SP;Sudeste;BRA
+3545308;Salto de Pirapora;SP;Sudeste;BRA
+3545704;Santa Albertina;SP;Sudeste;BRA
+3545803;Santa Bárbara d'Oeste;SP;Sudeste;BRA
+3546009;Santa Branca;SP;Sudeste;BRA
+3546207;Santa Cruz da Conceição;SP;Sudeste;BRA
+3546405;Santa Cruz do Rio Pardo;SP;Sudeste;BRA
+3546504;Santa Ernestina;SP;Sudeste;BRA
+3546603;Santa Fé do Sul;SP;Sudeste;BRA
+3546801;Santa Isabel;SP;Sudeste;BRA
+3547502;Santa Rita do Passa Quatro;SP;Sudeste;BRA
+3547205;Santana da Ponte Pensa;SP;Sudeste;BRA
+3547304;Santana de Parnaíba;SP;Sudeste;BRA
+3547700;Santo Anastácio;SP;Sudeste;BRA
+3548104;Santo Antônio do Jardim;SP;Sudeste;BRA
+3548302;Santo Expedito;SP;Sudeste;BRA
+3548609;São Bento do Sapucaí;SP;Sudeste;BRA
+3548708;São Bernardo do Campo;SP;Sudeste;BRA
+3548906;São Carlos;SP;Sudeste;BRA
+3549003;São Francisco;SP;Sudeste;BRA
+3549250;São João de Iracema;SP;Sudeste;BRA
+3549409;São Joaquim da Barra;SP;Sudeste;BRA
+3549508;São José da Bela Vista;SP;Sudeste;BRA
+3549805;São José do Rio Preto;SP;Sudeste;BRA
+3550506;São Pedro do Turvo;SP;Sudeste;BRA
+3550704;São Sebastião;SP;Sudeste;BRA
+3551207;Sarutaiá;SP;Sudeste;BRA
+3551603;Serra Negra;SP;Sudeste;BRA
+3551504;Serrana;SP;Sudeste;BRA
+3552007;Silveiras;SP;Sudeste;BRA
+3552106;Socorro;SP;Sudeste;BRA
+3552205;Sorocaba;SP;Sudeste;BRA
+3552551;Suzanápolis;SP;Sudeste;BRA
+3552502;Suzano;SP;Sudeste;BRA
+3552908;Taciba;SP;Sudeste;BRA
+3553104;Taiaçu;SP;Sudeste;BRA
+3553203;Taiúva;SP;Sudeste;BRA
+3553302;Tambaú;SP;Sudeste;BRA
+3553856;Taquarivaí;SP;Sudeste;BRA
+3553906;Tarabai;SP;Sudeste;BRA
+3554102;Taubaté;SP;Sudeste;BRA
+3555000;Tupã;SP;Sudeste;BRA
+3555307;Turmalina;SP;Sudeste;BRA
+3555406;Ubatuba;SP;Sudeste;BRA
+3556008;Urupês;SP;Sudeste;BRA
+3556354;Vargem;SP;Sudeste;BRA
+3556404;Vargem Grande do Sul;SP;Sudeste;BRA
+3556453;Vargem Grande Paulista;SP;Sudeste;BRA
+3556602;Vera Cruz;SP;Sudeste;BRA
+3556701;Vinhedo;SP;Sudeste;BRA
+3556958;Vitória Brasil;SP;Sudeste;BRA
+3500105;Adamantina;SP;Sudeste;BRA
+3500204;Adolfo;SP;Sudeste;BRA
+3500303;Aguaí;SP;Sudeste;BRA
+3500402;Águas da Prata;SP;Sudeste;BRA
+3500501;Águas de Lindóia;SP;Sudeste;BRA
+3500550;Águas de Santa Bárbara;SP;Sudeste;BRA
+3500600;Águas de São Pedro;SP;Sudeste;BRA
+3500709;Agudos;SP;Sudeste;BRA
+3500758;Alambari;SP;Sudeste;BRA
+3500808;Alfredo Marcondes;SP;Sudeste;BRA
+3500907;Altair;SP;Sudeste;BRA
+3501004;Altinópolis;SP;Sudeste;BRA
+3501103;Alto Alegre;SP;Sudeste;BRA
+3501152;Alumínio;SP;Sudeste;BRA
+3501202;Álvares Florence;SP;Sudeste;BRA
+3501301;Álvares Machado;SP;Sudeste;BRA
+3501400;Álvaro de Carvalho;SP;Sudeste;BRA
+3501509;Alvinlândia;SP;Sudeste;BRA
+3501608;Americana;SP;Sudeste;BRA
+3501707;Américo Brasiliense;SP;Sudeste;BRA
+3501806;Américo de Campos;SP;Sudeste;BRA
+3501905;Amparo;SP;Sudeste;BRA
+3502002;Analândia;SP;Sudeste;BRA
+3502101;Andradina;SP;Sudeste;BRA
+3502200;Angatuba;SP;Sudeste;BRA
+3502309;Anhembi;SP;Sudeste;BRA
+3502408;Anhumas;SP;Sudeste;BRA
+3502507;Aparecida;SP;Sudeste;BRA
+3502606;Aparecida d'Oeste;SP;Sudeste;BRA
+3502705;Apiaí;SP;Sudeste;BRA
+3502754;Araçariguama;SP;Sudeste;BRA
+3502804;Araçatuba;SP;Sudeste;BRA
+3502903;Araçoiaba da Serra;SP;Sudeste;BRA
+3503000;Aramina;SP;Sudeste;BRA
+3503109;Arandu;SP;Sudeste;BRA
+3503158;Arapeí;SP;Sudeste;BRA
+3503208;Araraquara;SP;Sudeste;BRA
+3503307;Araras;SP;Sudeste;BRA
+3503356;Arco-Íris;SP;Sudeste;BRA
+3503406;Arealva;SP;Sudeste;BRA
+3503505;Areias;SP;Sudeste;BRA
+3503604;Areiópolis;SP;Sudeste;BRA
+3503703;Ariranha;SP;Sudeste;BRA
+3503802;Artur Nogueira;SP;Sudeste;BRA
+3503901;Arujá;SP;Sudeste;BRA
+3503950;Aspásia;SP;Sudeste;BRA
+3504008;Assis;SP;Sudeste;BRA
+3504107;Atibaia;SP;Sudeste;BRA
+3504206;Auriflama;SP;Sudeste;BRA
+3504305;Avaí;SP;Sudeste;BRA
+3504404;Avanhandava;SP;Sudeste;BRA
+3504503;Avaré;SP;Sudeste;BRA
+3504602;Bady Bassitt;SP;Sudeste;BRA
+3504701;Balbinos;SP;Sudeste;BRA
+3504800;Bálsamo;SP;Sudeste;BRA
+3504909;Bananal;SP;Sudeste;BRA
+3505005;Barão de Antonina;SP;Sudeste;BRA
+3505104;Barbosa;SP;Sudeste;BRA
+3505203;Bariri;SP;Sudeste;BRA
+3505302;Barra Bonita;SP;Sudeste;BRA
+3505351;Barra do Chapéu;SP;Sudeste;BRA
+3505401;Barra do Turvo;SP;Sudeste;BRA
+3505500;Barretos;SP;Sudeste;BRA
+3505609;Barrinha;SP;Sudeste;BRA
+3505708;Barueri;SP;Sudeste;BRA
+3505807;Bastos;SP;Sudeste;BRA
+3505906;Batatais;SP;Sudeste;BRA
+3506003;Bauru;SP;Sudeste;BRA
+3506102;Bebedouro;SP;Sudeste;BRA
+3506201;Bento de Abreu;SP;Sudeste;BRA
+3506300;Bernardino de Campos;SP;Sudeste;BRA
+3506359;Bertioga;SP;Sudeste;BRA
+3506409;Bilac;SP;Sudeste;BRA
+3506508;Birigui;SP;Sudeste;BRA
+3506607;Biritiba-Mirim;SP;Sudeste;BRA
+3506706;Boa Esperança do Sul;SP;Sudeste;BRA
+3506805;Bocaina;SP;Sudeste;BRA
+3506904;Bofete;SP;Sudeste;BRA
+3507001;Boituva;SP;Sudeste;BRA
+3507100;Bom Jesus dos Perdões;SP;Sudeste;BRA
+3507159;Bom Sucesso de Itararé;SP;Sudeste;BRA
+3507209;Borá;SP;Sudeste;BRA
+3507308;Boracéia;SP;Sudeste;BRA
+3507407;Borborema;SP;Sudeste;BRA
+3507456;Borebi;SP;Sudeste;BRA
+3507506;Botucatu;SP;Sudeste;BRA
+3507605;Bragança Paulista;SP;Sudeste;BRA
+3507704;Braúna;SP;Sudeste;BRA
+3507753;Brejo Alegre;SP;Sudeste;BRA
+3507803;Brodowski;SP;Sudeste;BRA
+3507902;Brotas;SP;Sudeste;BRA
+3508009;Buri;SP;Sudeste;BRA
+3508108;Buritama;SP;Sudeste;BRA
+3508207;Buritizal;SP;Sudeste;BRA
+3508306;Cabrália Paulista;SP;Sudeste;BRA
+3508405;Cabreúva;SP;Sudeste;BRA
+3508504;Caçapava;SP;Sudeste;BRA
+3508603;Cachoeira Paulista;SP;Sudeste;BRA
+3508702;Caconde;SP;Sudeste;BRA
+3508801;Cafelândia;SP;Sudeste;BRA
+3508900;Caiabu;SP;Sudeste;BRA
+3509007;Caieiras;SP;Sudeste;BRA
+3509106;Caiuá;SP;Sudeste;BRA
+3509205;Cajamar;SP;Sudeste;BRA
+3509254;Cajati;SP;Sudeste;BRA
+3509304;Cajobi;SP;Sudeste;BRA
+3509403;Cajuru;SP;Sudeste;BRA
+3509452;Campina do Monte Alegre;SP;Sudeste;BRA
+3509502;Campinas;SP;Sudeste;BRA
+3509601;Campo Limpo Paulista;SP;Sudeste;BRA
+3509700;Campos do Jordão;SP;Sudeste;BRA
+3509809;Campos Novos Paulista;SP;Sudeste;BRA
+3509908;Cananéia;SP;Sudeste;BRA
+3509957;Canas;SP;Sudeste;BRA
+3510005;Cândido Mota;SP;Sudeste;BRA
+3510104;Cândido Rodrigues;SP;Sudeste;BRA
+3510153;Canitar;SP;Sudeste;BRA
+3510203;Capão Bonito;SP;Sudeste;BRA
+3510302;Capela do Alto;SP;Sudeste;BRA
+3510500;Caraguatatuba;SP;Sudeste;BRA
+3510609;Carapicuíba;SP;Sudeste;BRA
+3510708;Cardoso;SP;Sudeste;BRA
+3510807;Casa Branca;SP;Sudeste;BRA
+3511409;Cerqueira César;SP;Sudeste;BRA
+3557204;Chavantes;SP;Sudeste;BRA
+3512407;Cordeirópolis;SP;Sudeste;BRA
+3512605;Coronel Macedo;SP;Sudeste;BRA
+3513009;Cotia;SP;Sudeste;BRA
+3513108;Cravinhos;SP;Sudeste;BRA
+3513306;Cruzália;SP;Sudeste;BRA
+3513603;Cunha;SP;Sudeste;BRA
+3513850;Dirce Reis;SP;Sudeste;BRA
+3514205;Dolcinópolis;SP;Sudeste;BRA
+3514601;Dumont;SP;Sudeste;BRA
+3514957;Embaúba;SP;Sudeste;BRA
+3557303;Estiva Gerbi;SP;Sudeste;BRA
+3515301;Estrela do Norte;SP;Sudeste;BRA
+3515202;Estrela d'Oeste;SP;Sudeste;BRA
+3515608;Fernando Prestes;SP;Sudeste;BRA
+3515707;Ferraz de Vasconcelos;SP;Sudeste;BRA
+3515806;Flora Rica;SP;Sudeste;BRA
+3516002;Flórida Paulista;SP;Sudeste;BRA
+3516309;Francisco Morato;SP;Sudeste;BRA
+3516408;Franco da Rocha;SP;Sudeste;BRA
+3516507;Gabriel Monteiro;SP;Sudeste;BRA
+3517703;Guará;SP;Sudeste;BRA
+3517802;Guaraçaí;SP;Sudeste;BRA
+3518206;Guararapes;SP;Sudeste;BRA
+3518404;Guaratinguetá;SP;Sudeste;BRA
+3518602;Guariba;SP;Sudeste;BRA
+3518800;Guarulhos;SP;Sudeste;BRA
+3518859;Guatapará;SP;Sudeste;BRA
+3518909;Guzolândia;SP;Sudeste;BRA
+3519204;Iacri;SP;Sudeste;BRA
+3519303;Ibaté;SP;Sudeste;BRA
+3519600;Ibitinga;SP;Sudeste;BRA
+3519709;Ibiúna;SP;Sudeste;BRA
+3520426;Ilha Comprida;SP;Sudeste;BRA
+3520442;Ilha Solteira;SP;Sudeste;BRA
+3520509;Indaiatuba;SP;Sudeste;BRA
+3520806;Inúbia Paulista;SP;Sudeste;BRA
+3520905;Ipaussu;SP;Sudeste;BRA
+3521309;Ipuã;SP;Sudeste;BRA
+3521705;Itaberá;SP;Sudeste;BRA
+3521903;Itajobi;SP;Sudeste;BRA
+3522109;Itanhaém;SP;Sudeste;BRA
+3522802;Itaporanga;SP;Sudeste;BRA
+3523107;Itaquaquecetuba;SP;Sudeste;BRA
+3523206;Itararé;SP;Sudeste;BRA
+3523305;Itariri;SP;Sudeste;BRA
+3523701;Itirapuã;SP;Sudeste;BRA
+3523800;Itobi;SP;Sudeste;BRA
+3524006;Itupeva;SP;Sudeste;BRA
+3524600;Jacupiranga;SP;Sudeste;BRA
+3524709;Jaguariúna;SP;Sudeste;BRA
+3525003;Jandira;SP;Sudeste;BRA
+3525300;Jaú;SP;Sudeste;BRA
+3525854;Jumirim;SP;Sudeste;BRA
+3526001;Junqueirópolis;SP;Sudeste;BRA
+3526308;Lagoinha;SP;Sudeste;BRA
+3526506;Lavínia;SP;Sudeste;BRA
+3526704;Leme;SP;Sudeste;BRA
+3527009;Lindóia;SP;Sudeste;BRA
+3527207;Lorena;SP;Sudeste;BRA
+3527256;Lourdes;SP;Sudeste;BRA
+3527702;Luiziânia;SP;Sudeste;BRA
+3528205;Macedônia;SP;Sudeste;BRA
+3528304;Magda;SP;Sudeste;BRA
+3528601;Manduri;SP;Sudeste;BRA
+3529302;Matão;SP;Sudeste;BRA
+3529500;Mendonça;SP;Sudeste;BRA
+3530508;Mococa;SP;Sudeste;BRA
+3530706;Mogi Guaçu;SP;Sudeste;BRA
+3531001;Monções;SP;Sudeste;BRA
+3531209;Monte Alegre do Sul;SP;Sudeste;BRA
+3531407;Monte Aprazível;SP;Sudeste;BRA
+3531605;Monte Castelo;SP;Sudeste;BRA
+3531704;Monteiro Lobato;SP;Sudeste;BRA
+3531902;Morro Agudo;SP;Sudeste;BRA
+3532108;Murutinga do Sul;SP;Sudeste;BRA
+3532157;Nantes;SP;Sudeste;BRA
+3532405;Nazaré Paulista;SP;Sudeste;BRA
+3532504;Neves Paulista;SP;Sudeste;BRA
+3532603;Nhandeara;SP;Sudeste;BRA
+3532843;Nova Canaã Paulista;SP;Sudeste;BRA
+3532900;Nova Europa;SP;Sudeste;BRA
+3533304;Nova Luzitânia;SP;Sudeste;BRA
+3533254;Novais;SP;Sudeste;BRA
+3533601;Nuporanga;SP;Sudeste;BRA
+3533809;Óleo;SP;Sudeste;BRA
+3534500;Oscar Bressane;SP;Sudeste;BRA
+3534807;Ouro Verde;SP;Sudeste;BRA
+3535101;Palmares Paulista;SP;Sudeste;BRA
+3535309;Palmital;SP;Sudeste;BRA
+3535408;Panorama;SP;Sudeste;BRA
+3535804;Paranapanema;SP;Sudeste;BRA
+3536000;Parapuã;SP;Sudeste;BRA
+3536109;Pardinho;SP;Sudeste;BRA
+3536257;Parisi;SP;Sudeste;BRA
+3536307;Patrocínio Paulista;SP;Sudeste;BRA
+3536505;Paulínia;SP;Sudeste;BRA
+3536570;Paulistânia;SP;Sudeste;BRA
+3536703;Pederneiras;SP;Sudeste;BRA
+3537008;Pedregulho;SP;Sudeste;BRA
+3537107;Pedreira;SP;Sudeste;BRA
+3537305;Penápolis;SP;Sudeste;BRA
+3537503;Pereiras;SP;Sudeste;BRA
+3537701;Piacatu;SP;Sudeste;BRA
+3537800;Piedade;SP;Sudeste;BRA
+3538501;Piquete;SP;Sudeste;BRA
+3538600;Piracaia;SP;Sudeste;BRA
+3538709;Piracicaba;SP;Sudeste;BRA
+3539004;Pirangi;SP;Sudeste;BRA
+3539707;Platina;SP;Sudeste;BRA
+3539905;Poloni;SP;Sudeste;BRA
+3540002;Pompéia;SP;Sudeste;BRA
+3540408;Populina;SP;Sudeste;BRA
+3540804;Potirendaba;SP;Sudeste;BRA
+3540903;Pradópolis;SP;Sudeste;BRA
+3541000;Praia Grande;SP;Sudeste;BRA
+3542602;Registro;SP;Sudeste;BRA
+3542701;Restinga;SP;Sudeste;BRA
+3542909;Ribeirão Bonito;SP;Sudeste;BRA
+3543006;Ribeirão Branco;SP;Sudeste;BRA
+3543204;Ribeirão do Sul;SP;Sudeste;BRA
+3543238;Ribeirão dos Índios;SP;Sudeste;BRA
+3543303;Ribeirão Pires;SP;Sudeste;BRA
+3544301;Roseira;SP;Sudeste;BRA
+3544400;Rubiácea;SP;Sudeste;BRA
+3545100;Salmourão;SP;Sudeste;BRA
+3545407;Salto Grande;SP;Sudeste;BRA
+3545605;Santa Adélia;SP;Sudeste;BRA
+3546108;Santa Clara d'Oeste;SP;Sudeste;BRA
+3546256;Santa Cruz da Esperança;SP;Sudeste;BRA
+3546702;Santa Gertrudes;SP;Sudeste;BRA
+3547403;Santa Rita d'Oeste;SP;Sudeste;BRA
+3547809;Santo André;SP;Sudeste;BRA
+3547908;Santo Antônio da Alegria;SP;Sudeste;BRA
+3548203;Santo Antônio do Pinhal;SP;Sudeste;BRA
+3548401;Santópolis do Aguapeí;SP;Sudeste;BRA
+3548807;São Caetano do Sul;SP;Sudeste;BRA
+3549300;São João do Pau d'Alho;SP;Sudeste;BRA
+3550001;São Luiz do Paraitinga;SP;Sudeste;BRA
+3550407;São Pedro;SP;Sudeste;BRA
+3550605;São Roque;SP;Sudeste;BRA
+3550902;São Simão;SP;Sudeste;BRA
+3551306;Sebastianópolis do Sul;SP;Sudeste;BRA
+3551405;Serra Azul;SP;Sudeste;BRA
+3551900;Severínia;SP;Sudeste;BRA
+3552403;Sumaré;SP;Sudeste;BRA
+3553500;Tapiraí;SP;Sudeste;BRA
+3553708;Taquaritinga;SP;Sudeste;BRA
+3553807;Taquarituba;SP;Sudeste;BRA
+3554656;Torre de Pedra;SP;Sudeste;BRA
+3555208;Turiúba;SP;Sudeste;BRA
+3555505;Ubirajara;SP;Sudeste;BRA
+3555802;Urânia;SP;Sudeste;BRA
+3556107;Valentim Gentil;SP;Sudeste;BRA
+3556206;Valinhos;SP;Sudeste;BRA
+3556305;Valparaíso;SP;Sudeste;BRA
+3510401;Capivari;SP;Sudeste;BRA
+3511003;Castilho;SP;Sudeste;BRA
+3511102;Catanduva;SP;Sudeste;BRA
+3511508;Cerquilho;SP;Sudeste;BRA
+3511706;Charqueada;SP;Sudeste;BRA
+3512001;Colina;SP;Sudeste;BRA
+3512209;Conchal;SP;Sudeste;BRA
+3512506;Coroados;SP;Sudeste;BRA
+3512704;Corumbataí;SP;Sudeste;BRA
+3513405;Cruzeiro;SP;Sudeste;BRA
+3513801;Diadema;SP;Sudeste;BRA
+3514007;Dobrada;SP;Sudeste;BRA
+3514304;Dourado;SP;Sudeste;BRA
+3514809;Eldorado;SP;Sudeste;BRA
+3515004;Embu das Artes;SP;Sudeste;BRA
+3515152;Engenheiro Coelho;SP;Sudeste;BRA
+3515186;Espírito Santo do Pinhal;SP;Sudeste;BRA
+3515194;Espírito Santo do Turvo;SP;Sudeste;BRA
+3516606;Gália;SP;Sudeste;BRA
+3516853;Gavião Peixoto;SP;Sudeste;BRA
+3517208;Guaiçara;SP;Sudeste;BRA
+3517307;Guaimbê;SP;Sudeste;BRA
+3517505;Guapiaçu;SP;Sudeste;BRA
+3517901;Guaraci;SP;Sudeste;BRA
+3518107;Guarantã;SP;Sudeste;BRA
+3518305;Guararema;SP;Sudeste;BRA
+3518701;Guarujá;SP;Sudeste;BRA
+3519006;Herculândia;SP;Sudeste;BRA
+3519055;Holambra;SP;Sudeste;BRA
+3519253;Iaras;SP;Sudeste;BRA
+3519402;Ibirá;SP;Sudeste;BRA
+3520202;Igaratá;SP;Sudeste;BRA
+3520400;Ilhabela;SP;Sudeste;BRA
+3521002;Iperó;SP;Sudeste;BRA
+3521150;Ipiguá;SP;Sudeste;BRA
+3521507;Irapuã;SP;Sudeste;BRA
+3522208;Itapecerica da Serra;SP;Sudeste;BRA
+3522505;Itapevi;SP;Sudeste;BRA
+3522653;Itapirapuã Paulista;SP;Sudeste;BRA
+3522901;Itapuí;SP;Sudeste;BRA
+3524105;Ituverava;SP;Sudeste;BRA
+3524402;Jacareí;SP;Sudeste;BRA
+3524808;Jales;SP;Sudeste;BRA
+3525607;João Ramalho;SP;Sudeste;BRA
+3525904;Jundiaí;SP;Sudeste;BRA
+3526407;Laranjal Paulista;SP;Sudeste;BRA
+3526803;Lençóis Paulista;SP;Sudeste;BRA
+3527108;Lins;SP;Sudeste;BRA
+3528106;Macaubal;SP;Sudeste;BRA
+3528502;Mairiporã;SP;Sudeste;BRA
+3528908;Mariápolis;SP;Sudeste;BRA
+3529005;Marília;SP;Sudeste;BRA
+3530003;Mira Estrela;SP;Sudeste;BRA
+3529906;Miracatu;SP;Sudeste;BRA
+3530102;Mirandópolis;SP;Sudeste;BRA
+3531308;Monte Alto;SP;Sudeste;BRA
+3531506;Monte Azul Paulista;SP;Sudeste;BRA
+3532801;Nova Aliança;SP;Sudeste;BRA
+3533106;Nova Guataporanga;SP;Sudeste;BRA
+3533205;Nova Independência;SP;Sudeste;BRA
+3533403;Nova Odessa;SP;Sudeste;BRA
+3533502;Novo Horizonte;SP;Sudeste;BRA
+3534005;Onda Verde;SP;Sudeste;BRA
+3534302;Orlândia;SP;Sudeste;BRA
+3534609;Osvaldo Cruz;SP;Sudeste;BRA
+3535507;Paraguaçu Paulista;SP;Sudeste;BRA
+3536406;Paulicéia;SP;Sudeste;BRA
+3536604;Paulo de Faria;SP;Sudeste;BRA
+3538006;Pindamonhangaba;SP;Sudeste;BRA
+3538105;Pindorama;SP;Sudeste;BRA
+3538303;Piquerobi;SP;Sudeste;BRA
+3538907;Pirajuí;SP;Sudeste;BRA
+3539400;Piratininga;SP;Sudeste;BRA
+3539509;Pitangueiras;SP;Sudeste;BRA
+3540101;Pongaí;SP;Sudeste;BRA
+3540309;Pontes Gestal;SP;Sudeste;BRA
+3540705;Porto Ferreira;SP;Sudeste;BRA
+3541406;Presidente Prudente;SP;Sudeste;BRA
+3541505;Presidente Venceslau;SP;Sudeste;BRA
+3541604;Promissão;SP;Sudeste;BRA
+3541653;Quadra;SP;Sudeste;BRA
+3541802;Queiroz;SP;Sudeste;BRA
+3542305;Redenção da Serra;SP;Sudeste;BRA
+3542503;Reginópolis;SP;Sudeste;BRA
+3543253;Ribeirão Grande;SP;Sudeste;BRA
+3543402;Ribeirão Preto;SP;Sudeste;BRA
+3543600;Rifaina;SP;Sudeste;BRA
+3543709;Rincão;SP;Sudeste;BRA
+3544103;Rio Grande da Serra;SP;Sudeste;BRA
+3543501;Riversul;SP;Sudeste;BRA
+3544509;Rubinéia;SP;Sudeste;BRA
+3544608;Sabino;SP;Sudeste;BRA
+3544707;Sagres;SP;Sudeste;BRA
+3545209;Salto;SP;Sudeste;BRA
+3545506;Sandovalina;SP;Sudeste;BRA
+3547650;Santa Salete;SP;Sudeste;BRA
+3548054;Santo Antônio do Aracanguá;SP;Sudeste;BRA
+3548500;Santos;SP;Sudeste;BRA
+3549201;São João das Duas Pontes;SP;Sudeste;BRA
+3549607;São José do Barreiro;SP;Sudeste;BRA
+3549904;São José dos Campos;SP;Sudeste;BRA
+3549953;São Lourenço da Serra;SP;Sudeste;BRA
+3550100;São Manuel;SP;Sudeste;BRA
+3550209;São Miguel Arcanjo;SP;Sudeste;BRA
+3550308;São Paulo;SP;Sudeste;BRA
+3551009;São Vicente;SP;Sudeste;BRA
+3551108;Sarapuí;SP;Sudeste;BRA
+3553005;Taguaí;SP;Sudeste;BRA
+3553401;Tanabi;SP;Sudeste;BRA
+3554003;Tatuí;SP;Sudeste;BRA
+3554300;Teodoro Sampaio;SP;Sudeste;BRA
+3554409;Terra Roxa;SP;Sudeste;BRA
+3554508;Tietê;SP;Sudeste;BRA
+3554607;Timburi;SP;Sudeste;BRA
+3554706;Torrinha;SP;Sudeste;BRA
+3554755;Trabiju;SP;Sudeste;BRA
+3554805;Tremembé;SP;Sudeste;BRA
+3554904;Três Fronteiras;SP;Sudeste;BRA
+3554953;Tuiuti;SP;Sudeste;BRA
+3555109;Tupi Paulista;SP;Sudeste;BRA
+3555604;Uchoa;SP;Sudeste;BRA
+3555703;União Paulista;SP;Sudeste;BRA
+3555901;Uru;SP;Sudeste;BRA
+3556503;Várzea Paulista;SP;Sudeste;BRA
+3556800;Viradouro;SP;Sudeste;BRA
+3556909;Vista Alegre do Alto;SP;Sudeste;BRA
+3557006;Votorantim;SP;Sudeste;BRA
+3557105;Votuporanga;SP;Sudeste;BRA
+3557154;Zacarias;SP;Sudeste;BRA
+3510906;Cássia dos Coqueiros;SP;Sudeste;BRA
+3511607;Cesário Lange;SP;Sudeste;BRA
+3512803;Cosmópolis;SP;Sudeste;BRA
+3513900;Divinolândia;SP;Sudeste;BRA
+3514106;Dois Córregos;SP;Sudeste;BRA
+3514700;Echaporã;SP;Sudeste;BRA
+3515905;Floreal;SP;Sudeste;BRA
+3517604;Guapiara;SP;Sudeste;BRA
+3518008;Guarani d'Oeste;SP;Sudeste;BRA
+3518503;Guareí;SP;Sudeste;BRA
+3520301;Iguape;SP;Sudeste;BRA
+3520608;Indiana;SP;Sudeste;BRA
+3523008;Itapura;SP;Sudeste;BRA
+3523503;Itatinga;SP;Sudeste;BRA
+3523909;Itu;SP;Sudeste;BRA
+3525102;Jardinópolis;SP;Sudeste;BRA
+3525201;Jarinu;SP;Sudeste;BRA
+3525409;Jeriquara;SP;Sudeste;BRA
+3527306;Louveira;SP;Sudeste;BRA
+3527801;Lupércio;SP;Sudeste;BRA
+3529708;Miguelópolis;SP;Sudeste;BRA
+3534906;Pacaembu;SP;Sudeste;BRA
+3537404;Pereira Barreto;SP;Sudeste;BRA
+3539103;Pirapora do Bom Jesus;SP;Sudeste;BRA
+3540200;Pontal;SP;Sudeste;BRA
+3540259;Pontalinda;SP;Sudeste;BRA
+3540507;Porangaba;SP;Sudeste;BRA
+3542404;Regente Feijó;SP;Sudeste;BRA
+3543808;Rinópolis;SP;Sudeste;BRA
+3544251;Rosana;SP;Sudeste;BRA
+3546306;Santa Cruz das Palmeiras;SP;Sudeste;BRA
+3547106;Santa Mercedes;SP;Sudeste;BRA
+3548005;Santo Antônio de Posse;SP;Sudeste;BRA
+3549102;São João da Boa Vista;SP;Sudeste;BRA
+3549706;São José do Rio Pardo;SP;Sudeste;BRA
+3551702;Sertãozinho;SP;Sudeste;BRA
+3552601;Tabapuã;SP;Sudeste;BRA
+3553609;Tapiratiba;SP;Sudeste;BRA
+3554201;Tejupá;SP;Sudeste;BRA
+3512308;Conchas;SP;Sudeste;BRA
+3513207;Cristais Paulista;SP;Sudeste;BRA
+3514502;Duartina;SP;Sudeste;BRA
+3515509;Fernandópolis;SP;Sudeste;BRA
+3516705;Garça;SP;Sudeste;BRA
+3519071;Hortolândia;SP;Sudeste;BRA
+3521200;Iporanga;SP;Sudeste;BRA
+3522406;Itapeva;SP;Sudeste;BRA
+3522604;Itapira;SP;Sudeste;BRA
+3527900;Lutécia;SP;Sudeste;BRA
+3528700;Marabá Paulista;SP;Sudeste;BRA
+3529807;Mineiros do Tietê;SP;Sudeste;BRA
+3530409;Mirassolândia;SP;Sudeste;BRA
+3532009;Morungaba;SP;Sudeste;BRA
+3532702;Nipoã;SP;Sudeste;BRA
+3532868;Nova Castilho;SP;Sudeste;BRA
+3534401;Osasco;SP;Sudeste;BRA
+3534708;Ourinhos;SP;Sudeste;BRA
+3541059;Pratânia;SP;Sudeste;BRA
+3541208;Presidente Bernardes;SP;Sudeste;BRA
+3541307;Presidente Epitácio;SP;Sudeste;BRA
+3542206;Rancharia;SP;Sudeste;BRA
+3544004;Rio das Pedras;SP;Sudeste;BRA
+3544905;Sales Oliveira;SP;Sudeste;BRA
+3546900;Santa Lúcia;SP;Sudeste;BRA
+3547007;Santa Maria da Serra;SP;Sudeste;BRA
+3547601;Santa Rosa de Viterbo;SP;Sudeste;BRA
+3550803;São Sebastião da Grama;SP;Sudeste;BRA
+3551801;Sete Barras;SP;Sudeste;BRA
+3552304;Sud Mennucci;SP;Sudeste;BRA
+3552700;Tabatinga;SP;Sudeste;BRA
+3552809;Taboão da Serra;SP;Sudeste;BRA
+3553658;Taquaral;SP;Sudeste;BRA
+3553955;Tarumã;SP;Sudeste;BRA
+3555356;Ubarana;SP;Sudeste;BRA
+3113008;Caraí;MG;Sudeste;BRA
+3113503;Carbonita;MG;Sudeste;BRA
+3114501;Carmópolis de Minas;MG;Sudeste;BRA
+3114550;Carneirinho;MG;Sudeste;BRA
+3114600;Carrancas;MG;Sudeste;BRA
+3114907;Casa Grande;MG;Sudeste;BRA
+3115003;Cascalho Rico;MG;Sudeste;BRA
+3115409;Catas Altas da Noruega;MG;Sudeste;BRA
+3115458;Catuji;MG;Sudeste;BRA
+3115474;Catuti;MG;Sudeste;BRA
+3115706;Central de Minas;MG;Sudeste;BRA
+3115805;Centralina;MG;Sudeste;BRA
+3116704;Coimbra;MG;Sudeste;BRA
+3117009;Comercinho;MG;Sudeste;BRA
+3117405;Conceição de Ipanema;MG;Sudeste;BRA
+3117876;Confins;MG;Sudeste;BRA
+3118908;Cordisburgo;MG;Sudeste;BRA
+3119401;Coronel Fabriciano;MG;Sudeste;BRA
+3119955;Córrego Fundo;MG;Sudeste;BRA
+3120003;Córrego Novo;MG;Sudeste;BRA
+3120102;Couto de Magalhães de Minas;MG;Sudeste;BRA
+3120409;Cristiano Otoni;MG;Sudeste;BRA
+3120508;Cristina;MG;Sudeste;BRA
+3120607;Crucilândia;MG;Sudeste;BRA
+3120805;Cruzília;MG;Sudeste;BRA
+3120839;Cuparaque;MG;Sudeste;BRA
+3120904;Curvelo;MG;Sudeste;BRA
+3121209;Delfinópolis;MG;Sudeste;BRA
+3121506;Desterro do Melo;MG;Sudeste;BRA
+3122504;Dom Cavati;MG;Sudeste;BRA
+3122603;Dom Joaquim;MG;Sudeste;BRA
+3122702;Dom Silvério;MG;Sudeste;BRA
+3124401;Espírito Santo do Dourado;MG;Sudeste;BRA
+3124807;Estrela do Sul;MG;Sudeste;BRA
+3125002;Ewbank da Câmara;MG;Sudeste;BRA
+3125101;Extrema;MG;Sudeste;BRA
+3125606;Felisburgo;MG;Sudeste;BRA
+3125804;Fernandes Tourinho;MG;Sudeste;BRA
+3126109;Formiga;MG;Sudeste;BRA
+3126802;Frei Gaspar;MG;Sudeste;BRA
+3126901;Frei Inocêncio;MG;Sudeste;BRA
+3126950;Frei Lagonegro;MG;Sudeste;BRA
+3127305;Galiléia;MG;Sudeste;BRA
+3127339;Gameleiras;MG;Sudeste;BRA
+3127503;Gonzaga;MG;Sudeste;BRA
+3127701;Governador Valadares;MG;Sudeste;BRA
+3128253;Guaraciama;MG;Sudeste;BRA
+3128501;Guarará;MG;Sudeste;BRA
+3128600;Guarda-Mor;MG;Sudeste;BRA
+3128709;Guaxupé;MG;Sudeste;BRA
+3129004;Guiricema;MG;Sudeste;BRA
+3129509;Ibiá;MG;Sudeste;BRA
+3129608;Ibiaí;MG;Sudeste;BRA
+3129657;Ibiracatu;MG;Sudeste;BRA
+3129905;Ibitiúra de Minas;MG;Sudeste;BRA
+3130051;Icaraí de Minas;MG;Sudeste;BRA
+3130408;Ijaci;MG;Sudeste;BRA
+3130606;Inconfidentes;MG;Sudeste;BRA
+3130705;Indianópolis;MG;Sudeste;BRA
+3131158;Ipaba;MG;Sudeste;BRA
+3132107;Itacarambi;MG;Sudeste;BRA
+3132206;Itaguara;MG;Sudeste;BRA
+3132503;Itamarandiba;MG;Sudeste;BRA
+3132602;Itamarati de Minas;MG;Sudeste;BRA
+3132909;Itamogi;MG;Sudeste;BRA
+3133303;Itaobim;MG;Sudeste;BRA
+3133709;Itatiaiuçu;MG;Sudeste;BRA
+3134004;Itinga;MG;Sudeste;BRA
+3134707;Jacinto;MG;Sudeste;BRA
+3135076;Jampruca;MG;Sudeste;BRA
+3135209;Januária;MG;Sudeste;BRA
+3135407;Jeceaba;MG;Sudeste;BRA
+3135803;Jequitinhonha;MG;Sudeste;BRA
+3135902;Jesuânia;MG;Sudeste;BRA
+3136009;Joaíma;MG;Sudeste;BRA
+3136108;Joanésia;MG;Sudeste;BRA
+3136306;João Pinheiro;MG;Sudeste;BRA
+3136405;Joaquim Felício;MG;Sudeste;BRA
+3136504;Jordânia;MG;Sudeste;BRA
+3136553;José Raydan;MG;Sudeste;BRA
+3136652;Juatuba;MG;Sudeste;BRA
+3136702;Juiz de Fora;MG;Sudeste;BRA
+3136801;Juramento;MG;Sudeste;BRA
+3137106;Lagamar;MG;Sudeste;BRA
+3137205;Lagoa da Prata;MG;Sudeste;BRA
+3137403;Lagoa Dourada;MG;Sudeste;BRA
+3137502;Lagoa Formosa;MG;Sudeste;BRA
+3137601;Lagoa Santa;MG;Sudeste;BRA
+3138401;Leopoldina;MG;Sudeste;BRA
+3139003;Machado;MG;Sudeste;BRA
+3139250;Mamonas;MG;Sudeste;BRA
+3139706;Maravilhas;MG;Sudeste;BRA
+3140001;Mariana;MG;Sudeste;BRA
+3140308;Marliéria;MG;Sudeste;BRA
+3140407;Marmelópolis;MG;Sudeste;BRA
+3140530;Martins Soares;MG;Sudeste;BRA
+3140605;Materlândia;MG;Sudeste;BRA
+3140704;Mateus Leme;MG;Sudeste;BRA
+3171501;Mathias Lobato;MG;Sudeste;BRA
+3141009;Mato Verde;MG;Sudeste;BRA
+3141207;Matutina;MG;Sudeste;BRA
+3141603;Mercês;MG;Sudeste;BRA
+3141702;Mesquita;MG;Sudeste;BRA
+3142106;Miradouro;MG;Sudeste;BRA
+3142205;Miraí;MG;Sudeste;BRA
+3142403;Moema;MG;Sudeste;BRA
+3143005;Monte Belo;MG;Sudeste;BRA
+3143104;Monte Carmelo;MG;Sudeste;BRA
+3143450;Montezuma;MG;Sudeste;BRA
+3143609;Morro da Garça;MG;Sudeste;BRA
+3143807;Munhoz;MG;Sudeste;BRA
+3143906;Muriaé;MG;Sudeste;BRA
+3144102;Muzambinho;MG;Sudeste;BRA
+3144904;Nova Módica;MG;Sudeste;BRA
+3145406;Olaria;MG;Sudeste;BRA
+3145851;Oratórios;MG;Sudeste;BRA
+3146206;Ouro Verde de Minas;MG;Sudeste;BRA
+3146552;Pai Pedro;MG;Sudeste;BRA
+3146701;Palma;MG;Sudeste;BRA
+3146750;Palmópolis;MG;Sudeste;BRA
+3147402;Paraopeba;MG;Sudeste;BRA
+3147600;Passa Quatro;MG;Sudeste;BRA
+3147956;Patis;MG;Sudeste;BRA
+3148004;Patos de Minas;MG;Sudeste;BRA
+3148103;Patrocínio;MG;Sudeste;BRA
+3148707;Pedra Azul;MG;Sudeste;BRA
+3148756;Pedra Bonita;MG;Sudeste;BRA
+3148905;Pedra do Indaiá;MG;Sudeste;BRA
+3149101;Pedralva;MG;Sudeste;BRA
+3149150;Pedras de Maria da Cruz;MG;Sudeste;BRA
+3149200;Pedrinópolis;MG;Sudeste;BRA
+3149309;Pedro Leopoldo;MG;Sudeste;BRA
+3149408;Pedro Teixeira;MG;Sudeste;BRA
+3149507;Pequeri;MG;Sudeste;BRA
+3149705;Perdigão;MG;Sudeste;BRA
+3149952;Periquito;MG;Sudeste;BRA
+3150000;Pescador;MG;Sudeste;BRA
+3150158;Piedade de Caratinga;MG;Sudeste;BRA
+3150208;Piedade de Ponte Nova;MG;Sudeste;BRA
+3150307;Piedade do Rio Grande;MG;Sudeste;BRA
+3150570;Pintópolis;MG;Sudeste;BRA
+3151404;Pitangui;MG;Sudeste;BRA
+3151602;Planura;MG;Sudeste;BRA
+3151701;Poço Fundo;MG;Sudeste;BRA
+3152105;Ponte Nova;MG;Sudeste;BRA
+3152303;Porto Firme;MG;Sudeste;BRA
+3152808;Prata;MG;Sudeste;BRA
+3153004;Pratinha;MG;Sudeste;BRA
+3153202;Presidente Juscelino;MG;Sudeste;BRA
+3153400;Presidente Olegário;MG;Sudeste;BRA
+3154200;Resende Costa;MG;Sudeste;BRA
+3154309;Resplendor;MG;Sudeste;BRA
+3154507;Riacho dos Machados;MG;Sudeste;BRA
+3154606;Ribeirão das Neves;MG;Sudeste;BRA
+3154903;Rio Casca;MG;Sudeste;BRA
+3155108;Rio do Prado;MG;Sudeste;BRA
+3155504;Rio Paranaíba;MG;Sudeste;BRA
+3156809;Sabinópolis;MG;Sudeste;BRA
+3156908;Sacramento;MG;Sudeste;BRA
+3157302;Santa Bárbara do Tugúrio;MG;Sudeste;BRA
+3157500;Santa Efigênia de Minas;MG;Sudeste;BRA
+3158201;Santa Maria do Suaçuí;MG;Sudeste;BRA
+3159506;Santa Rita do Itueto;MG;Sudeste;BRA
+3159704;Santa Rosa da Serra;MG;Sudeste;BRA
+3158508;Santana de Pirapama;MG;Sudeste;BRA
+3158706;Santana do Garambéu;MG;Sudeste;BRA
+3158904;Santana do Manhuaçu;MG;Sudeste;BRA
+3159001;Santana do Riacho;MG;Sudeste;BRA
+3160603;Santo Hipólito;MG;Sudeste;BRA
+3160900;São Brás do Suaçuí;MG;Sudeste;BRA
+3160959;São Domingos das Dores;MG;Sudeste;BRA
+3161650;São Geraldo do Baixio;MG;Sudeste;BRA
+3161809;São Gonçalo do Pará;MG;Sudeste;BRA
+3162104;São Gotardo;MG;Sudeste;BRA
+3162203;São João Batista do Glória;MG;Sudeste;BRA
+3162559;São João do Manhuaçu;MG;Sudeste;BRA
+3162575;São João do Manteninha;MG;Sudeste;BRA
+3162609;São João do Oriente;MG;Sudeste;BRA
+3162922;São Joaquim de Bicas;MG;Sudeste;BRA
+3162955;São José da Lapa;MG;Sudeste;BRA
+3163300;São José do Divino;MG;Sudeste;BRA
+3163904;São Pedro da União;MG;Sudeste;BRA
+3164431;São Sebastião da Vargem Alegre;MG;Sudeste;BRA
+3164605;São Sebastião do Oeste;MG;Sudeste;BRA
+3165107;São Tomás de Aquino;MG;Sudeste;BRA
+3165537;Sarzedo;MG;Sudeste;BRA
+3165560;Sem-Peixe;MG;Sudeste;BRA
+3165602;Senador Cortes;MG;Sudeste;BRA
+3165800;Senador José Bento;MG;Sudeste;BRA
+3166204;Senhora dos Remédios;MG;Sudeste;BRA
+3166303;Sericita;MG;Sudeste;BRA
+3166501;Serra Azul de Minas;MG;Sudeste;BRA
+3166600;Serra da Saudade;MG;Sudeste;BRA
+3167004;Serranos;MG;Sudeste;BRA
+3167509;Simão Pereira;MG;Sudeste;BRA
+3167608;Simonésia;MG;Sudeste;BRA
+3167806;Soledade de Minas;MG;Sudeste;BRA
+3168309;Taquaraçu de Minas;MG;Sudeste;BRA
+3168408;Tarumirim;MG;Sudeste;BRA
+3168606;Teófilo Otoni;MG;Sudeste;BRA
+3169059;Tocos do Moji;MG;Sudeste;BRA
+3169208;Tombos;MG;Sudeste;BRA
+3169356;Três Marias;MG;Sudeste;BRA
+3169406;Três Pontas;MG;Sudeste;BRA
+3169505;Tumiritinga;MG;Sudeste;BRA
+3170057;Ubaporanga;MG;Sudeste;BRA
+3170107;Uberaba;MG;Sudeste;BRA
+3170206;Uberlândia;MG;Sudeste;BRA
+3170404;Unaí;MG;Sudeste;BRA
+3170503;Urucânia;MG;Sudeste;BRA
+3170578;Vargem Alegre;MG;Sudeste;BRA
+3170602;Vargem Bonita;MG;Sudeste;BRA
+3170651;Vargem Grande do Rio Pardo;MG;Sudeste;BRA
+3170909;Varzelândia;MG;Sudeste;BRA
+3171006;Vazante;MG;Sudeste;BRA
+3171303;Viçosa;MG;Sudeste;BRA
+3171808;Virginópolis;MG;Sudeste;BRA
+3100104;Abadia dos Dourados;MG;Sudeste;BRA
+3100203;Abaeté;MG;Sudeste;BRA
+3100302;Abre Campo;MG;Sudeste;BRA
+3100401;Acaiaca;MG;Sudeste;BRA
+3100500;Açucena;MG;Sudeste;BRA
+3100609;Água Boa;MG;Sudeste;BRA
+3100708;Água Comprida;MG;Sudeste;BRA
+3100807;Aguanil;MG;Sudeste;BRA
+3100906;Águas Formosas;MG;Sudeste;BRA
+3101003;Águas Vermelhas;MG;Sudeste;BRA
+3101102;Aimorés;MG;Sudeste;BRA
+3101201;Aiuruoca;MG;Sudeste;BRA
+3101300;Alagoa;MG;Sudeste;BRA
+3101409;Albertina;MG;Sudeste;BRA
+3101508;Além Paraíba;MG;Sudeste;BRA
+3101607;Alfenas;MG;Sudeste;BRA
+3101631;Alfredo Vasconcelos;MG;Sudeste;BRA
+3101706;Almenara;MG;Sudeste;BRA
+3101805;Alpercata;MG;Sudeste;BRA
+3101904;Alpinópolis;MG;Sudeste;BRA
+3102001;Alterosa;MG;Sudeste;BRA
+3102050;Alto Caparaó;MG;Sudeste;BRA
+3153509;Alto Jequitibá;MG;Sudeste;BRA
+3102100;Alto Rio Doce;MG;Sudeste;BRA
+3102209;Alvarenga;MG;Sudeste;BRA
+3102308;Alvinópolis;MG;Sudeste;BRA
+3102407;Alvorada de Minas;MG;Sudeste;BRA
+3102506;Amparo do Serra;MG;Sudeste;BRA
+3102605;Andradas;MG;Sudeste;BRA
+3102803;Andrelândia;MG;Sudeste;BRA
+3102852;Angelândia;MG;Sudeste;BRA
+3102902;Antônio Carlos;MG;Sudeste;BRA
+3103009;Antônio Dias;MG;Sudeste;BRA
+3103108;Antônio Prado de Minas;MG;Sudeste;BRA
+3103207;Araçaí;MG;Sudeste;BRA
+3103306;Aracitaba;MG;Sudeste;BRA
+3103405;Araçuaí;MG;Sudeste;BRA
+3103504;Araguari;MG;Sudeste;BRA
+3103603;Arantina;MG;Sudeste;BRA
+3103702;Araponga;MG;Sudeste;BRA
+3103751;Araporã;MG;Sudeste;BRA
+3103801;Arapuá;MG;Sudeste;BRA
+3103900;Araújos;MG;Sudeste;BRA
+3104007;Araxá;MG;Sudeste;BRA
+3104106;Arceburgo;MG;Sudeste;BRA
+3104205;Arcos;MG;Sudeste;BRA
+3104304;Areado;MG;Sudeste;BRA
+3104403;Argirita;MG;Sudeste;BRA
+3104452;Aricanduva;MG;Sudeste;BRA
+3104502;Arinos;MG;Sudeste;BRA
+3104601;Astolfo Dutra;MG;Sudeste;BRA
+3104700;Ataléia;MG;Sudeste;BRA
+3104809;Augusto de Lima;MG;Sudeste;BRA
+3104908;Baependi;MG;Sudeste;BRA
+3105004;Baldim;MG;Sudeste;BRA
+3105103;Bambuí;MG;Sudeste;BRA
+3105202;Bandeira;MG;Sudeste;BRA
+3105301;Bandeira do Sul;MG;Sudeste;BRA
+3105400;Barão de Cocais;MG;Sudeste;BRA
+3105509;Barão de Monte Alto;MG;Sudeste;BRA
+3105608;Barbacena;MG;Sudeste;BRA
+3105707;Barra Longa;MG;Sudeste;BRA
+3105905;Barroso;MG;Sudeste;BRA
+3106002;Bela Vista de Minas;MG;Sudeste;BRA
+3106101;Belmiro Braga;MG;Sudeste;BRA
+3106200;Belo Horizonte;MG;Sudeste;BRA
+3106309;Belo Oriente;MG;Sudeste;BRA
+3106408;Belo Vale;MG;Sudeste;BRA
+3106507;Berilo;MG;Sudeste;BRA
+3106655;Berizal;MG;Sudeste;BRA
+3106606;Bertópolis;MG;Sudeste;BRA
+3106705;Betim;MG;Sudeste;BRA
+3106804;Bias Fortes;MG;Sudeste;BRA
+3106903;Bicas;MG;Sudeste;BRA
+3107000;Biquinhas;MG;Sudeste;BRA
+3107109;Boa Esperança;MG;Sudeste;BRA
+3107208;Bocaina de Minas;MG;Sudeste;BRA
+3107307;Bocaiúva;MG;Sudeste;BRA
+3107406;Bom Despacho;MG;Sudeste;BRA
+3107505;Bom Jardim de Minas;MG;Sudeste;BRA
+3107604;Bom Jesus da Penha;MG;Sudeste;BRA
+3107703;Bom Jesus do Amparo;MG;Sudeste;BRA
+3107802;Bom Jesus do Galho;MG;Sudeste;BRA
+3107901;Bom Repouso;MG;Sudeste;BRA
+3108008;Bom Sucesso;MG;Sudeste;BRA
+3108107;Bonfim;MG;Sudeste;BRA
+3108206;Bonfinópolis de Minas;MG;Sudeste;BRA
+3108255;Bonito de Minas;MG;Sudeste;BRA
+3108305;Borda da Mata;MG;Sudeste;BRA
+3108404;Botelhos;MG;Sudeste;BRA
+3108503;Botumirim;MG;Sudeste;BRA
+3108701;Brás Pires;MG;Sudeste;BRA
+3108552;Brasilândia de Minas;MG;Sudeste;BRA
+3108602;Brasília de Minas;MG;Sudeste;BRA
+3108800;Braúnas;MG;Sudeste;BRA
+3108909;Brazópolis;MG;Sudeste;BRA
+3109006;Brumadinho;MG;Sudeste;BRA
+3109105;Bueno Brandão;MG;Sudeste;BRA
+3109204;Buenópolis;MG;Sudeste;BRA
+3109253;Bugre;MG;Sudeste;BRA
+3109303;Buritis;MG;Sudeste;BRA
+3109402;Buritizeiro;MG;Sudeste;BRA
+3109451;Cabeceira Grande;MG;Sudeste;BRA
+3109501;Cabo Verde;MG;Sudeste;BRA
+3109600;Cachoeira da Prata;MG;Sudeste;BRA
+3109709;Cachoeira de Minas;MG;Sudeste;BRA
+3102704;Cachoeira de Pajeú;MG;Sudeste;BRA
+3109808;Cachoeira Dourada;MG;Sudeste;BRA
+3109907;Caetanópolis;MG;Sudeste;BRA
+3110004;Caeté;MG;Sudeste;BRA
+3110103;Caiana;MG;Sudeste;BRA
+3110202;Cajuri;MG;Sudeste;BRA
+3110301;Caldas;MG;Sudeste;BRA
+3110400;Camacho;MG;Sudeste;BRA
+3110509;Camanducaia;MG;Sudeste;BRA
+3110608;Cambuí;MG;Sudeste;BRA
+3110707;Cambuquira;MG;Sudeste;BRA
+3110806;Campanário;MG;Sudeste;BRA
+3110905;Campanha;MG;Sudeste;BRA
+3111002;Campestre;MG;Sudeste;BRA
+3111101;Campina Verde;MG;Sudeste;BRA
+3111150;Campo Azul;MG;Sudeste;BRA
+3111200;Campo Belo;MG;Sudeste;BRA
+3111309;Campo do Meio;MG;Sudeste;BRA
+3111408;Campo Florido;MG;Sudeste;BRA
+3111507;Campos Altos;MG;Sudeste;BRA
+3111606;Campos Gerais;MG;Sudeste;BRA
+3111903;Cana Verde;MG;Sudeste;BRA
+3111705;Canaã;MG;Sudeste;BRA
+3111804;Canápolis;MG;Sudeste;BRA
+3112000;Candeias;MG;Sudeste;BRA
+3112059;Cantagalo;MG;Sudeste;BRA
+3112109;Caparaó;MG;Sudeste;BRA
+3112208;Capela Nova;MG;Sudeste;BRA
+3112307;Capelinha;MG;Sudeste;BRA
+3112406;Capetinga;MG;Sudeste;BRA
+3112505;Capim Branco;MG;Sudeste;BRA
+3112604;Capinópolis;MG;Sudeste;BRA
+3112653;Capitão Andrade;MG;Sudeste;BRA
+3112703;Capitão Enéas;MG;Sudeste;BRA
+3112802;Capitólio;MG;Sudeste;BRA
+3113107;Caranaíba;MG;Sudeste;BRA
+3113206;Carandaí;MG;Sudeste;BRA
+3113305;Carangola;MG;Sudeste;BRA
+3113800;Carmésia;MG;Sudeste;BRA
+3113909;Carmo da Cachoeira;MG;Sudeste;BRA
+3114006;Carmo da Mata;MG;Sudeste;BRA
+3114105;Carmo de Minas;MG;Sudeste;BRA
+3114204;Carmo do Cajuru;MG;Sudeste;BRA
+3114303;Carmo do Paranaíba;MG;Sudeste;BRA
+3114709;Carvalhópolis;MG;Sudeste;BRA
+3114808;Carvalhos;MG;Sudeste;BRA
+3115102;Cássia;MG;Sudeste;BRA
+3115359;Catas Altas;MG;Sudeste;BRA
+3116100;Chapada do Norte;MG;Sudeste;BRA
+3116308;Cipotânea;MG;Sudeste;BRA
+3116506;Claro dos Poções;MG;Sudeste;BRA
+3116803;Coluna;MG;Sudeste;BRA
+3116902;Comendador Gomes;MG;Sudeste;BRA
+3117108;Conceição da Aparecida;MG;Sudeste;BRA
+3115201;Conceição da Barra de Minas;MG;Sudeste;BRA
+3117306;Conceição das Alagoas;MG;Sudeste;BRA
+3117207;Conceição das Pedras;MG;Sudeste;BRA
+3117504;Conceição do Mato Dentro;MG;Sudeste;BRA
+3117702;Conceição do Rio Verde;MG;Sudeste;BRA
+3117801;Conceição dos Ouros;MG;Sudeste;BRA
+3117900;Congonhal;MG;Sudeste;BRA
+3118106;Congonhas do Norte;MG;Sudeste;BRA
+3118205;Conquista;MG;Sudeste;BRA
+3118304;Conselheiro Lafaiete;MG;Sudeste;BRA
+3118403;Conselheiro Pena;MG;Sudeste;BRA
+3118601;Contagem;MG;Sudeste;BRA
+3118809;Coração de Jesus;MG;Sudeste;BRA
+3119104;Corinto;MG;Sudeste;BRA
+3119203;Coroaci;MG;Sudeste;BRA
+3119807;Córrego Danta;MG;Sudeste;BRA
+3119906;Córrego do Bom Jesus;MG;Sudeste;BRA
+3120151;Crisólita;MG;Sudeste;BRA
+3121100;Delfim Moreira;MG;Sudeste;BRA
+3121308;Descoberto;MG;Sudeste;BRA
+3121407;Desterro de Entre Rios;MG;Sudeste;BRA
+3121803;Dionísio;MG;Sudeste;BRA
+3121902;Divinésia;MG;Sudeste;BRA
+3122009;Divino;MG;Sudeste;BRA
+3122108;Divino das Laranjeiras;MG;Sudeste;BRA
+3122306;Divinópolis;MG;Sudeste;BRA
+3122355;Divisa Alegre;MG;Sudeste;BRA
+3122405;Divisa Nova;MG;Sudeste;BRA
+3122900;Dona Eusébia;MG;Sudeste;BRA
+3123007;Dores de Campos;MG;Sudeste;BRA
+3123106;Dores de Guanhães;MG;Sudeste;BRA
+3123205;Dores do Indaiá;MG;Sudeste;BRA
+3123601;Elói Mendes;MG;Sudeste;BRA
+3123700;Engenheiro Caldas;MG;Sudeste;BRA
+3123809;Engenheiro Navarro;MG;Sudeste;BRA
+3123858;Entre Folhas;MG;Sudeste;BRA
+3124005;Ervália;MG;Sudeste;BRA
+3124302;Espinosa;MG;Sudeste;BRA
+3124609;Estrela Dalva;MG;Sudeste;BRA
+3124708;Estrela do Indaiá;MG;Sudeste;BRA
+3124906;Eugenópolis;MG;Sudeste;BRA
+3125408;Felício dos Santos;MG;Sudeste;BRA
+3126505;Francisco Badaró;MG;Sudeste;BRA
+3126604;Francisco Dumont;MG;Sudeste;BRA
+3126703;Francisco Sá;MG;Sudeste;BRA
+3127008;Fronteira;MG;Sudeste;BRA
+3127057;Fronteira dos Vales;MG;Sudeste;BRA
+3127073;Fruta de Leite;MG;Sudeste;BRA
+3127107;Frutal;MG;Sudeste;BRA
+3127206;Funilândia;MG;Sudeste;BRA
+3127404;Gonçalves;MG;Sudeste;BRA
+3127909;Grupiara;MG;Sudeste;BRA
+3128006;Guanhães;MG;Sudeste;BRA
+3128105;Guapé;MG;Sudeste;BRA
+3128204;Guaraciaba;MG;Sudeste;BRA
+3128402;Guarani;MG;Sudeste;BRA
+3128907;Guimarânia;MG;Sudeste;BRA
+3129806;Ibirité;MG;Sudeste;BRA
+3130101;Igarapé;MG;Sudeste;BRA
+3130200;Igaratinga;MG;Sudeste;BRA
+3130309;Iguatama;MG;Sudeste;BRA
+3130903;Inhapim;MG;Sudeste;BRA
+3131109;Inimutaba;MG;Sudeste;BRA
+3131208;Ipanema;MG;Sudeste;BRA
+3131307;Ipatinga;MG;Sudeste;BRA
+3131604;Iraí de Minas;MG;Sudeste;BRA
+3131703;Itabira;MG;Sudeste;BRA
+3131901;Itabirito;MG;Sudeste;BRA
+3132404;Itajubá;MG;Sudeste;BRA
+3132701;Itambacuri;MG;Sudeste;BRA
+3132800;Itambé do Mato Dentro;MG;Sudeste;BRA
+3133006;Itamonte;MG;Sudeste;BRA
+3133105;Itanhandu;MG;Sudeste;BRA
+3133204;Itanhomi;MG;Sudeste;BRA
+3133402;Itapagipe;MG;Sudeste;BRA
+3133501;Itapecerica;MG;Sudeste;BRA
+3133600;Itapeva;MG;Sudeste;BRA
+3133907;Itaverava;MG;Sudeste;BRA
+3134301;Itumirim;MG;Sudeste;BRA
+3134806;Jacuí;MG;Sudeste;BRA
+3135050;Jaíba;MG;Sudeste;BRA
+3135100;Janaúba;MG;Sudeste;BRA
+3135456;Jenipapo de Minas;MG;Sudeste;BRA
+3135506;Jequeri;MG;Sudeste;BRA
+3135605;Jequitaí;MG;Sudeste;BRA
+3135704;Jequitibá;MG;Sudeste;BRA
+3136207;João Monlevade;MG;Sudeste;BRA
+3136579;Josenópolis;MG;Sudeste;BRA
+3137304;Lagoa dos Patos;MG;Sudeste;BRA
+3137536;Lagoa Grande;MG;Sudeste;BRA
+3137809;Lambari;MG;Sudeste;BRA
+3137908;Lamim;MG;Sudeste;BRA
+3138302;Leandro Ferreira;MG;Sudeste;BRA
+3138500;Liberdade;MG;Sudeste;BRA
+3138658;Lontra;MG;Sudeste;BRA
+3138674;Luisburgo;MG;Sudeste;BRA
+3138708;Luminárias;MG;Sudeste;BRA
+3138807;Luz;MG;Sudeste;BRA
+3139805;Mar de Espanha;MG;Sudeste;BRA
+3140159;Mário Campos;MG;Sudeste;BRA
+3140555;Mata Verde;MG;Sudeste;BRA
+3140852;Matias Cardoso;MG;Sudeste;BRA
+3140902;Matipó;MG;Sudeste;BRA
+3141108;Matozinhos;MG;Sudeste;BRA
+3141504;Mendes Pimentel;MG;Sudeste;BRA
+3141801;Minas Novas;MG;Sudeste;BRA
+3141900;Minduri;MG;Sudeste;BRA
+3142007;Mirabela;MG;Sudeste;BRA
+3142254;Miravânia;MG;Sudeste;BRA
+3142502;Monjolos;MG;Sudeste;BRA
+3142809;Monte Alegre de Minas;MG;Sudeste;BRA
+3142908;Monte Azul;MG;Sudeste;BRA
+3143401;Monte Sião;MG;Sudeste;BRA
+3143302;Montes Claros;MG;Sudeste;BRA
+3144003;Mutum;MG;Sudeste;BRA
+3144201;Nacip Raydan;MG;Sudeste;BRA
+3144359;Naque;MG;Sudeste;BRA
+3144607;Nepomuceno;MG;Sudeste;BRA
+3145208;Nova Serrana;MG;Sudeste;BRA
+3145372;Novorizonte;MG;Sudeste;BRA
+3145505;Olímpio Noronha;MG;Sudeste;BRA
+3145604;Oliveira;MG;Sudeste;BRA
+3145703;Oliveira Fortes;MG;Sudeste;BRA
+3145802;Onça de Pitangui;MG;Sudeste;BRA
+3145877;Orizânia;MG;Sudeste;BRA
+3145901;Ouro Branco;MG;Sudeste;BRA
+3146107;Ouro Preto;MG;Sudeste;BRA
+3146255;Padre Carvalho;MG;Sudeste;BRA
+3146305;Padre Paraíso;MG;Sudeste;BRA
+3146602;Paiva;MG;Sudeste;BRA
+3146909;Papagaios;MG;Sudeste;BRA
+3147105;Pará de Minas;MG;Sudeste;BRA
+3147006;Paracatu;MG;Sudeste;BRA
+3147907;Passos;MG;Sudeste;BRA
+3148301;Paula Cândido;MG;Sudeste;BRA
+3148509;Pavão;MG;Sudeste;BRA
+3148608;Peçanha;MG;Sudeste;BRA
+3148806;Pedra do Anta;MG;Sudeste;BRA
+3149606;Pequi;MG;Sudeste;BRA
+3150406;Piedade dos Gerais;MG;Sudeste;BRA
+3150604;Piracema;MG;Sudeste;BRA
+3150703;Pirajuba;MG;Sudeste;BRA
+3150802;Piranga;MG;Sudeste;BRA
+3152402;Poté;MG;Sudeste;BRA
+3152501;Pouso Alegre;MG;Sudeste;BRA
+3152709;Prados;MG;Sudeste;BRA
+3153103;Presidente Bernardes;MG;Sudeste;BRA
+3153301;Presidente Kubitschek;MG;Sudeste;BRA
+3153608;Prudente de Morais;MG;Sudeste;BRA
+3154002;Raul Soares;MG;Sudeste;BRA
+3154101;Recreio;MG;Sudeste;BRA
+3154150;Reduto;MG;Sudeste;BRA
+3154705;Ribeirão Vermelho;MG;Sudeste;BRA
+3154804;Rio Acima;MG;Sudeste;BRA
+3155009;Rio Doce;MG;Sudeste;BRA
+3155306;Rio Manso;MG;Sudeste;BRA
+3155702;Rio Piracicaba;MG;Sudeste;BRA
+3155801;Rio Pomba;MG;Sudeste;BRA
+3156007;Rio Vermelho;MG;Sudeste;BRA
+3156205;Rochedo de Minas;MG;Sudeste;BRA
+3156403;Romaria;MG;Sudeste;BRA
+3156452;Rosário da Limeira;MG;Sudeste;BRA
+3156502;Rubelita;MG;Sudeste;BRA
+3156601;Rubim;MG;Sudeste;BRA
+3156700;Sabará;MG;Sudeste;BRA
+3157336;Santa Cruz de Minas;MG;Sudeste;BRA
+3157658;Santa Helena de Minas;MG;Sudeste;BRA
+3157807;Santa Luzia;MG;Sudeste;BRA
+3158003;Santa Maria de Itabira;MG;Sudeste;BRA
+3158102;Santa Maria do Salto;MG;Sudeste;BRA
+3159407;Santa Rita de Ibitipoca;MG;Sudeste;BRA
+3159357;Santa Rita de Minas;MG;Sudeste;BRA
+3159803;Santa Vitória;MG;Sudeste;BRA
+3158409;Santana de Cataguases;MG;Sudeste;BRA
+3158607;Santana do Deserto;MG;Sudeste;BRA
+3158805;Santana do Jacaré;MG;Sudeste;BRA
+3159100;Santana dos Montes;MG;Sudeste;BRA
+3159902;Santo Antônio do Amparo;MG;Sudeste;BRA
+3160108;Santo Antônio do Grama;MG;Sudeste;BRA
+3160454;Santo Antônio do Retiro;MG;Sudeste;BRA
+3161056;São Félix de Minas;MG;Sudeste;BRA
+3161502;São Geraldo;MG;Sudeste;BRA
+3161601;São Geraldo da Piedade;MG;Sudeste;BRA
+3161908;São Gonçalo do Rio Abaixo;MG;Sudeste;BRA
+3162005;São Gonçalo do Sapucaí;MG;Sudeste;BRA
+3162252;São João da Lagoa;MG;Sudeste;BRA
+3162302;São João da Mata;MG;Sudeste;BRA
+3162708;São João do Paraíso;MG;Sudeste;BRA
+3162807;São João Evangelista;MG;Sudeste;BRA
+3163003;São José da Safira;MG;Sudeste;BRA
+3163102;São José da Varginha;MG;Sudeste;BRA
+3163201;São José do Alegre;MG;Sudeste;BRA
+3163607;São José do Mantimento;MG;Sudeste;BRA
+3164100;São Pedro do Suaçuí;MG;Sudeste;BRA
+3164209;São Romão;MG;Sudeste;BRA
+3164407;São Sebastião da Bela Vista;MG;Sudeste;BRA
+3164506;São Sebastião do Maranhão;MG;Sudeste;BRA
+3165305;São Vicente de Minas;MG;Sudeste;BRA
+3165503;Sardoá;MG;Sudeste;BRA
+3165701;Senador Firmino;MG;Sudeste;BRA
+3165909;Senador Modestino Gonçalves;MG;Sudeste;BRA
+3166006;Senhora de Oliveira;MG;Sudeste;BRA
+3166105;Senhora do Porto;MG;Sudeste;BRA
+3166402;Seritinga;MG;Sudeste;BRA
+3166709;Serra dos Aimorés;MG;Sudeste;BRA
+3167103;Serro;MG;Sudeste;BRA
+3167202;Sete Lagoas;MG;Sudeste;BRA
+3168051;Taparuba;MG;Sudeste;BRA
+3168101;Tapira;MG;Sudeste;BRA
+3168200;Tapiraí;MG;Sudeste;BRA
+3168507;Teixeiras;MG;Sudeste;BRA
+3169000;Tocantins;MG;Sudeste;BRA
+3169109;Toledo;MG;Sudeste;BRA
+3169604;Tupaciguara;MG;Sudeste;BRA
+3169703;Turmalina;MG;Sudeste;BRA
+3169802;Turvolândia;MG;Sudeste;BRA
+3170008;Ubaí;MG;Sudeste;BRA
+3170305;Umburatiba;MG;Sudeste;BRA
+3170750;Varjão de Minas;MG;Sudeste;BRA
+3171030;Verdelândia;MG;Sudeste;BRA
+3171204;Vespasiano;MG;Sudeste;BRA
+3171600;Virgem da Lapa;MG;Sudeste;BRA
+3171709;Virgínia;MG;Sudeste;BRA
+3112901;Caputira;MG;Sudeste;BRA
+3113701;Carlos Chagas;MG;Sudeste;BRA
+3115508;Caxambu;MG;Sudeste;BRA
+3115607;Cedro do Abaeté;MG;Sudeste;BRA
+3115904;Chácara;MG;Sudeste;BRA
+3116159;Chapada Gaúcha;MG;Sudeste;BRA
+3116209;Chiador;MG;Sudeste;BRA
+3116605;Cláudio;MG;Sudeste;BRA
+3118007;Congonhas;MG;Sudeste;BRA
+3118502;Consolação;MG;Sudeste;BRA
+3118700;Coqueiral;MG;Sudeste;BRA
+3119302;Coromandel;MG;Sudeste;BRA
+3119609;Coronel Pacheco;MG;Sudeste;BRA
+3120201;Cristais;MG;Sudeste;BRA
+3121605;Diamantina;MG;Sudeste;BRA
+3122454;Divisópolis;MG;Sudeste;BRA
+3122470;Dom Bosco;MG;Sudeste;BRA
+3122801;Dom Viçoso;MG;Sudeste;BRA
+3123304;Dores do Turvo;MG;Sudeste;BRA
+3123502;Douradoquara;MG;Sudeste;BRA
+3123908;Entre Rios de Minas;MG;Sudeste;BRA
+3124104;Esmeraldas;MG;Sudeste;BRA
+3124203;Espera Feliz;MG;Sudeste;BRA
+3124500;Estiva;MG;Sudeste;BRA
+3125309;Faria Lemos;MG;Sudeste;BRA
+3126000;Florestal;MG;Sudeste;BRA
+3126208;Formoso;MG;Sudeste;BRA
+3126307;Fortaleza de Minas;MG;Sudeste;BRA
+3126406;Fortuna de Minas;MG;Sudeste;BRA
+3126752;Franciscópolis;MG;Sudeste;BRA
+3127602;Gouveia;MG;Sudeste;BRA
+3127800;Grão Mogol;MG;Sudeste;BRA
+3129202;Heliodora;MG;Sudeste;BRA
+3129301;Iapu;MG;Sudeste;BRA
+3129400;Ibertioga;MG;Sudeste;BRA
+3129707;Ibiraci;MG;Sudeste;BRA
+3130002;Ibituruna;MG;Sudeste;BRA
+3130507;Ilicínea;MG;Sudeste;BRA
+3130556;Imbé de Minas;MG;Sudeste;BRA
+3130655;Indaiabira;MG;Sudeste;BRA
+3131406;Ipiaçu;MG;Sudeste;BRA
+3131505;Ipuiúna;MG;Sudeste;BRA
+3132008;Itacambira;MG;Sudeste;BRA
+3133758;Itaú de Minas;MG;Sudeste;BRA
+3134202;Ituiutaba;MG;Sudeste;BRA
+3134400;Iturama;MG;Sudeste;BRA
+3134509;Itutinga;MG;Sudeste;BRA
+3134905;Jacutinga;MG;Sudeste;BRA
+3135001;Jaguaraçu;MG;Sudeste;BRA
+3135308;Japaraíba;MG;Sudeste;BRA
+3135357;Japonvar;MG;Sudeste;BRA
+3136900;Juruaia;MG;Sudeste;BRA
+3137007;Ladainha;MG;Sudeste;BRA
+3137700;Lajinha;MG;Sudeste;BRA
+3138005;Laranjal;MG;Sudeste;BRA
+3138203;Lavras;MG;Sudeste;BRA
+3138625;Limeira do Oeste;MG;Sudeste;BRA
+3138682;Luislândia;MG;Sudeste;BRA
+3138906;Machacalis;MG;Sudeste;BRA
+3139201;Malacacheta;MG;Sudeste;BRA
+3139508;Manhumirim;MG;Sudeste;BRA
+3139904;Maria da Fé;MG;Sudeste;BRA
+3140100;Marilac;MG;Sudeste;BRA
+3140209;Maripá de Minas;MG;Sudeste;BRA
+3140506;Martinho Campos;MG;Sudeste;BRA
+3140803;Matias Barbosa;MG;Sudeste;BRA
+3141405;Medina;MG;Sudeste;BRA
+3142601;Monsenhor Paulo;MG;Sudeste;BRA
+3143203;Monte Santo de Minas;MG;Sudeste;BRA
+3143500;Morada Nova de Minas;MG;Sudeste;BRA
+3144656;Ninheira;MG;Sudeste;BRA
+3144706;Nova Era;MG;Sudeste;BRA
+3145000;Nova Ponte;MG;Sudeste;BRA
+3145109;Nova Resende;MG;Sudeste;BRA
+3145356;Novo Oriente de Minas;MG;Sudeste;BRA
+3146008;Ouro Fino;MG;Sudeste;BRA
+3146503;Pains;MG;Sudeste;BRA
+3147204;Paraguaçu;MG;Sudeste;BRA
+3147709;Passa Tempo;MG;Sudeste;BRA
+3147501;Passabém;MG;Sudeste;BRA
+3148400;Paulistas;MG;Sudeste;BRA
+3149002;Pedra Dourada;MG;Sudeste;BRA
+3149804;Perdizes;MG;Sudeste;BRA
+3149903;Perdões;MG;Sudeste;BRA
+3150109;Piau;MG;Sudeste;BRA
+3150901;Piranguçu;MG;Sudeste;BRA
+3151107;Pirapetinga;MG;Sudeste;BRA
+3151305;Piraúba;MG;Sudeste;BRA
+3151503;Piumhi;MG;Sudeste;BRA
+3151909;Pocrane;MG;Sudeste;BRA
+3152006;Pompéu;MG;Sudeste;BRA
+3152131;Ponto Chique;MG;Sudeste;BRA
+3152204;Porteirinha;MG;Sudeste;BRA
+3152600;Pouso Alto;MG;Sudeste;BRA
+3152907;Pratápolis;MG;Sudeste;BRA
+3153707;Quartel Geral;MG;Sudeste;BRA
+3153905;Raposos;MG;Sudeste;BRA
+3155405;Rio Novo;MG;Sudeste;BRA
+3155900;Rio Preto;MG;Sudeste;BRA
+3156106;Ritápolis;MG;Sudeste;BRA
+3156304;Rodeiro;MG;Sudeste;BRA
+3157203;Santa Bárbara;MG;Sudeste;BRA
+3157252;Santa Bárbara do Leste;MG;Sudeste;BRA
+3157278;Santa Bárbara do Monte Verde;MG;Sudeste;BRA
+3157377;Santa Cruz de Salinas;MG;Sudeste;BRA
+3157906;Santa Margarida;MG;Sudeste;BRA
+3159308;Santa Rita de Jacutinga;MG;Sudeste;BRA
+3158300;Santana da Vargem;MG;Sudeste;BRA
+3158953;Santana do Paraíso;MG;Sudeste;BRA
+3160009;Santo Antônio do Aventureiro;MG;Sudeste;BRA
+3160207;Santo Antônio do Itambé;MG;Sudeste;BRA
+3160405;Santo Antônio do Monte;MG;Sudeste;BRA
+3160504;Santo Antônio do Rio Abaixo;MG;Sudeste;BRA
+3160801;São Bento Abade;MG;Sudeste;BRA
+3161205;São Francisco de Paula;MG;Sudeste;BRA
+3161304;São Francisco de Sales;MG;Sudeste;BRA
+3161700;São Gonçalo do Abaeté;MG;Sudeste;BRA
+3162450;São João das Missões;MG;Sudeste;BRA
+3162500;São João del Rei;MG;Sudeste;BRA
+3162658;São João do Pacuí;MG;Sudeste;BRA
+3162906;São João Nepomuceno;MG;Sudeste;BRA
+3162948;São José da Barra;MG;Sudeste;BRA
+3163508;São José do Jacuri;MG;Sudeste;BRA
+3164001;São Pedro dos Ferros;MG;Sudeste;BRA
+3164308;São Roque de Minas;MG;Sudeste;BRA
+3164704;São Sebastião do Paraíso;MG;Sudeste;BRA
+3164803;São Sebastião do Rio Preto;MG;Sudeste;BRA
+3165008;São Tiago;MG;Sudeste;BRA
+3165404;Sapucaí-Mirim;MG;Sudeste;BRA
+3165578;Senador Amaral;MG;Sudeste;BRA
+3166907;Serrania;MG;Sudeste;BRA
+3166956;Serranópolis de Minas;MG;Sudeste;BRA
+3167301;Silveirânia;MG;Sudeste;BRA
+3168002;Taiobeiras;MG;Sudeste;BRA
+3168705;Timóteo;MG;Sudeste;BRA
+3169307;Três Corações;MG;Sudeste;BRA
+3169901;Ubá;MG;Sudeste;BRA
+3170479;Uruana de Minas;MG;Sudeste;BRA
+3170800;Várzea da Palma;MG;Sudeste;BRA
+3171071;Veredinha;MG;Sudeste;BRA
+3171907;Virgolândia;MG;Sudeste;BRA
+3114402;Carmo do Rio Claro;MG;Sudeste;BRA
+3115300;Cataguases;MG;Sudeste;BRA
+3116407;Claraval;MG;Sudeste;BRA
+3117836;Cônego Marinho;MG;Sudeste;BRA
+3119005;Cordislândia;MG;Sudeste;BRA
+3119500;Coronel Murta;MG;Sudeste;BRA
+3119708;Coronel Xavier Chaves;MG;Sudeste;BRA
+3120300;Cristália;MG;Sudeste;BRA
+3121001;Datas;MG;Sudeste;BRA
+3121258;Delta;MG;Sudeste;BRA
+3121704;Diogo de Vasconcelos;MG;Sudeste;BRA
+3123403;Doresópolis;MG;Sudeste;BRA
+3123528;Durandé;MG;Sudeste;BRA
+3125705;Felixlândia;MG;Sudeste;BRA
+3127354;Glaucilândia;MG;Sudeste;BRA
+3127370;Goiabeira;MG;Sudeste;BRA
+3127388;Goianá;MG;Sudeste;BRA
+3128303;Guaranésia;MG;Sudeste;BRA
+3128808;Guidoval;MG;Sudeste;BRA
+3131000;Inhaúma;MG;Sudeste;BRA
+3132305;Itaipé;MG;Sudeste;BRA
+3133808;Itaúna;MG;Sudeste;BRA
+3136520;José Gonçalves de Minas;MG;Sudeste;BRA
+3136959;Juvenília;MG;Sudeste;BRA
+3138351;Leme do Prado;MG;Sudeste;BRA
+3139607;Mantena;MG;Sudeste;BRA
+3142304;Moeda;MG;Sudeste;BRA
+3142700;Montalvânia;MG;Sudeste;BRA
+3143708;Morro do Pilar;MG;Sudeste;BRA
+3144375;Natalândia;MG;Sudeste;BRA
+3144672;Nova Belém;MG;Sudeste;BRA
+3144805;Nova Lima;MG;Sudeste;BRA
+3145307;Novo Cruzeiro;MG;Sudeste;BRA
+3147303;Paraisópolis;MG;Sudeste;BRA
+3151206;Pirapora;MG;Sudeste;BRA
+3152170;Ponto dos Volantes;MG;Sudeste;BRA
+3153806;Queluzito;MG;Sudeste;BRA
+3154457;Riachinho;MG;Sudeste;BRA
+3155207;Rio Espera;MG;Sudeste;BRA
+3155603;Rio Pardo de Minas;MG;Sudeste;BRA
+3157005;Salinas;MG;Sudeste;BRA
+3157609;Santa Fé de Minas;MG;Sudeste;BRA
+3161403;São Francisco do Glória;MG;Sudeste;BRA
+3163409;São José do Goiabal;MG;Sudeste;BRA
+3163805;São Miguel do Anta;MG;Sudeste;BRA
+3164472;São Sebastião do Anta;MG;Sudeste;BRA
+3166808;Serra do Salitre;MG;Sudeste;BRA
+3167400;Silvianópolis;MG;Sudeste;BRA
+3167707;Sobrália;MG;Sudeste;BRA
+3168903;Tiros;MG;Sudeste;BRA
+3170438;União de Minas;MG;Sudeste;BRA
+3170701;Varginha;MG;Sudeste;BRA
+3171105;Veríssimo;MG;Sudeste;BRA
+3171154;Vermelho Novo;MG;Sudeste;BRA
+3171402;Vieiras;MG;Sudeste;BRA
+3113404;Caratinga;MG;Sudeste;BRA
+3113602;Careaçu;MG;Sudeste;BRA
+3116001;Chalé;MG;Sudeste;BRA
+3117603;Conceição do Pará;MG;Sudeste;BRA
+3120706;Cruzeiro da Fortaleza;MG;Sudeste;BRA
+3120870;Curral de Dentro;MG;Sudeste;BRA
+3122207;Divinolândia de Minas;MG;Sudeste;BRA
+3125200;Fama;MG;Sudeste;BRA
+3125903;Ferros;MG;Sudeste;BRA
+3125952;Fervedouro;MG;Sudeste;BRA
+3129103;Gurinhatã;MG;Sudeste;BRA
+3130804;Ingaí;MG;Sudeste;BRA
+3134103;Itueta;MG;Sudeste;BRA
+3134608;Jaboticatubas;MG;Sudeste;BRA
+3138104;Lassance;MG;Sudeste;BRA
+3138609;Lima Duarte;MG;Sudeste;BRA
+3139102;Madre de Deus de Minas;MG;Sudeste;BRA
+3139300;Manga;MG;Sudeste;BRA
+3139409;Manhuaçu;MG;Sudeste;BRA
+3141306;Medeiros;MG;Sudeste;BRA
+3143153;Monte Formoso;MG;Sudeste;BRA
+3144300;Nanuque;MG;Sudeste;BRA
+3144409;Natércia;MG;Sudeste;BRA
+3144508;Nazareno;MG;Sudeste;BRA
+3145059;Nova Porteirinha;MG;Sudeste;BRA
+3136603;Nova União;MG;Sudeste;BRA
+3146404;Paineiras;MG;Sudeste;BRA
+3148202;Patrocínio do Muriaé;MG;Sudeste;BRA
+3150505;Pimenta;MG;Sudeste;BRA
+3151008;Piranguinho;MG;Sudeste;BRA
+3151800;Poços de Caldas;MG;Sudeste;BRA
+3154408;Ressaquinha;MG;Sudeste;BRA
+3157104;Salto da Divisa;MG;Sudeste;BRA
+3157401;Santa Cruz do Escalvado;MG;Sudeste;BRA
+3157708;Santa Juliana;MG;Sudeste;BRA
+3159209;Santa Rita de Caldas;MG;Sudeste;BRA
+3159605;Santa Rita do Sapucaí;MG;Sudeste;BRA
+3160306;Santo Antônio do Jacinto;MG;Sudeste;BRA
+3160702;Santos Dumont;MG;Sudeste;BRA
+3161007;São Domingos do Prata;MG;Sudeste;BRA
+3161106;São Francisco;MG;Sudeste;BRA
+3125507;São Gonçalo do Rio Preto;MG;Sudeste;BRA
+3162401;São João da Ponte;MG;Sudeste;BRA
+3163706;São Lourenço;MG;Sudeste;BRA
+3164902;São Sebastião do Rio Verde;MG;Sudeste;BRA
+3165552;Setubinha;MG;Sudeste;BRA
+3167905;Tabuleiro;MG;Sudeste;BRA
+3168804;Tiradentes;MG;Sudeste;BRA
+3170529;Urucuia;MG;Sudeste;BRA
+3172004;Visconde do Rio Branco;MG;Sudeste;BRA
+3172103;Volta Grande;MG;Sudeste;BRA
+3172202;Wenceslau Braz;MG;Sudeste;BRA
+4305108;Caxias do Sul;RS;Sul;BRA
+4305355;Charqueadas;RS;Sul;BRA
+4305405;Chiapetta;RS;Sul;BRA
+4305447;Chuvisca;RS;Sul;BRA
+4305801;Constantina;RS;Sul;BRA
+4305871;Coronel Barros;RS;Sul;BRA
+4305975;Coxilha;RS;Sul;BRA
+4306056;Cristal;RS;Sul;BRA
+4306502;Dom Feliciano;RS;Sul;BRA
+4306734;Doutor Maurício Cardoso;RS;Sul;BRA
+4306767;Eldorado do Sul;RS;Sul;BRA
+4306932;Entre-Ijuís;RS;Sul;BRA
+4306973;Erebango;RS;Sul;BRA
+4307302;Erval Seco;RS;Sul;BRA
+4307401;Esmeralda;RS;Sul;BRA
+4307450;Esperança do Sul;RS;Sul;BRA
+4307708;Esteio;RS;Sul;BRA
+4307831;Eugênio de Castro;RS;Sul;BRA
+4308078;Fazenda Vilanova;RS;Sul;BRA
+4308201;Flores da Cunha;RS;Sul;BRA
+4308433;Forquetinha;RS;Sul;BRA
+4308706;Gaurama;RS;Sul;BRA
+4308805;General Câmara;RS;Sul;BRA
+4309001;Giruá;RS;Sul;BRA
+4309126;Gramado dos Loureiros;RS;Sul;BRA
+4309159;Gramado Xavier;RS;Sul;BRA
+4309209;Gravataí;RS;Sul;BRA
+4309258;Guabiju;RS;Sul;BRA
+4309407;Guaporé;RS;Sul;BRA
+4309555;Harmonia;RS;Sul;BRA
+4307104;Herval;RS;Sul;BRA
+4309654;Hulha Negra;RS;Sul;BRA
+4309753;Ibarama;RS;Sul;BRA
+4309803;Ibiaçá;RS;Sul;BRA
+4309902;Ibiraiaras;RS;Sul;BRA
+4310009;Ibirubá;RS;Sul;BRA
+4310207;Ijuí;RS;Sul;BRA
+4310363;Imigrante;RS;Sul;BRA
+4310439;Ipê;RS;Sul;BRA
+4310579;Itapuca;RS;Sul;BRA
+4310652;Itati;RS;Sul;BRA
+4310702;Itatiba do Sul;RS;Sul;BRA
+4310850;Jaboticaba;RS;Sul;BRA
+4310900;Jacutinga;RS;Sul;BRA
+4311122;Jaquirana;RS;Sul;BRA
+4311130;Jari;RS;Sul;BRA
+4311205;Júlio de Castilhos;RS;Sul;BRA
+4311239;Lagoa Bonita do Sul;RS;Sul;BRA
+4311270;Lagoa dos Três Cantos;RS;Sul;BRA
+4311254;Lagoão;RS;Sul;BRA
+4311403;Lajeado;RS;Sul;BRA
+4311429;Lajeado do Bugre;RS;Sul;BRA
+4311627;Lindolfo Collor;RS;Sul;BRA
+4311809;Marau;RS;Sul;BRA
+4311908;Marcelino Ramos;RS;Sul;BRA
+4312104;Mata;RS;Sul;BRA
+4312138;Mato Castelhano;RS;Sul;BRA
+4312351;Montauri;RS;Sul;BRA
+4312443;Morrinhos do Sul;RS;Sul;BRA
+4312609;Muçum;RS;Sul;BRA
+4312906;Nova Bassano;RS;Sul;BRA
+4313060;Nova Hartz;RS;Sul;BRA
+4313102;Nova Palma;RS;Sul;BRA
+4313300;Nova Prata;RS;Sul;BRA
+4313425;Novo Machado;RS;Sul;BRA
+4313441;Novo Tiradentes;RS;Sul;BRA
+4313656;Palmares do Sul;RS;Sul;BRA
+4313904;Panambi;RS;Sul;BRA
+4313953;Pantano Grande;RS;Sul;BRA
+4314050;Parobé;RS;Sul;BRA
+4314068;Passa Sete;RS;Sul;BRA
+4314100;Passo Fundo;RS;Sul;BRA
+4314134;Paulo Bento;RS;Sul;BRA
+4314209;Pedro Osório;RS;Sul;BRA
+4314423;Picada Café;RS;Sul;BRA
+4314464;Pinhal da Serra;RS;Sul;BRA
+4314498;Pinheirinho do Vale;RS;Sul;BRA
+4314605;Piratini;RS;Sul;BRA
+4314704;Planalto;RS;Sul;BRA
+4314753;Poço das Antas;RS;Sul;BRA
+4314803;Portão;RS;Sul;BRA
+4314902;Porto Alegre;RS;Sul;BRA
+4315073;Porto Vera Cruz;RS;Sul;BRA
+4315305;Quaraí;RS;Sul;BRA
+4315321;Quevedos;RS;Sul;BRA
+4315354;Quinze de Novembro;RS;Sul;BRA
+4315503;Restinga Sêca;RS;Sul;BRA
+4315750;Riozinho;RS;Sul;BRA
+4316105;Ronda Alta;RS;Sul;BRA
+4316402;Rosário do Sul;RS;Sul;BRA
+4316428;Sagrada Família;RS;Sul;BRA
+4316808;Santa Cruz do Sul;RS;Sul;BRA
+4316956;Santa Maria do Herval;RS;Sul;BRA
+4317301;Santa Vitória do Palmar;RS;Sul;BRA
+4317400;Santiago;RS;Sul;BRA
+4317806;Santo Augusto;RS;Sul;BRA
+4317905;Santo Cristo;RS;Sul;BRA
+4317954;Santo Expedito do Sul;RS;Sul;BRA
+4318002;São Borja;RS;Sul;BRA
+4318051;São Domingos do Sul;RS;Sul;BRA
+4318101;São Francisco de Assis;RS;Sul;BRA
+4318200;São Francisco de Paula;RS;Sul;BRA
+4318309;São Gabriel;RS;Sul;BRA
+4318408;São Jerônimo;RS;Sul;BRA
+4318457;São José das Missões;RS;Sul;BRA
+4318499;São José do Inhacorá;RS;Sul;BRA
+4318622;São José dos Ausentes;RS;Sul;BRA
+4318705;São Leopoldo;RS;Sul;BRA
+4318903;São Luiz Gonzaga;RS;Sul;BRA
+4319000;São Marcos;RS;Sul;BRA
+4319158;São Miguel das Missões;RS;Sul;BRA
+4319364;São Pedro das Missões;RS;Sul;BRA
+4319372;São Pedro do Butiá;RS;Sul;BRA
+4319703;São Valentim;RS;Sul;BRA
+4319901;Sapiranga;RS;Sul;BRA
+4320107;Sarandi;RS;Sul;BRA
+4320263;Segredo;RS;Sul;BRA
+4320354;Sentinela do Sul;RS;Sul;BRA
+4320404;Serafina Corrêa;RS;Sul;BRA
+4320453;Sério;RS;Sul;BRA
+4320552;Sertão Santana;RS;Sul;BRA
+4320677;Sinimbu;RS;Sul;BRA
+4321303;Taquari;RS;Sul;BRA
+4321436;Terra de Areia;RS;Sul;BRA
+4321451;Teutônia;RS;Sul;BRA
+4321477;Tiradentes do Sul;RS;Sul;BRA
+4321493;Toropi;RS;Sul;BRA
+4321808;Três de Maio;RS;Sul;BRA
+4321907;Três Passos;RS;Sul;BRA
+4321956;Trindade do Sul;RS;Sul;BRA
+4322251;Tupandi;RS;Sul;BRA
+4322327;Turuçu;RS;Sul;BRA
+4322343;Ubiretama;RS;Sul;BRA
+4322350;União da Serra;RS;Sul;BRA
+4322855;Vespasiano Corrêa;RS;Sul;BRA
+4323200;Victor Graeff;RS;Sul;BRA
+4323606;Vista Alegre do Prata;RS;Sul;BRA
+4304705;Carazinho;RS;Sul;BRA
+4304804;Carlos Barbosa;RS;Sul;BRA
+4304853;Carlos Gomes;RS;Sul;BRA
+4304903;Casca;RS;Sul;BRA
+4304952;Caseiros;RS;Sul;BRA
+4305009;Catuípe;RS;Sul;BRA
+4305207;Cerro Largo;RS;Sul;BRA
+4305371;Charrua;RS;Sul;BRA
+4305454;Cidreira;RS;Sul;BRA
+4305504;Ciríaco;RS;Sul;BRA
+4305603;Colorado;RS;Sul;BRA
+4305702;Condor;RS;Sul;BRA
+4305835;Coqueiro Baixo;RS;Sul;BRA
+4305900;Coronel Bicaco;RS;Sul;BRA
+4305934;Coronel Pilar;RS;Sul;BRA
+4306072;Cristal do Sul;RS;Sul;BRA
+4306304;David Canabarro;RS;Sul;BRA
+4306320;Derrubadas;RS;Sul;BRA
+4306452;Dois Lajeados;RS;Sul;BRA
+4306601;Dom Pedrito;RS;Sul;BRA
+4306551;Dom Pedro de Alcântara;RS;Sul;BRA
+4306700;Dona Francisca;RS;Sul;BRA
+4306908;Encruzilhada do Sul;RS;Sul;BRA
+4307203;Erval Grande;RS;Sul;BRA
+4307609;Estância Velha;RS;Sul;BRA
+4307807;Estrela;RS;Sul;BRA
+4307864;Fagundes Varela;RS;Sul;BRA
+4308250;Floriano Peixoto;RS;Sul;BRA
+4308458;Fortaleza dos Valos;RS;Sul;BRA
+4308508;Frederico Westphalen;RS;Sul;BRA
+4308656;Garruchos;RS;Sul;BRA
+4309050;Glorinha;RS;Sul;BRA
+4309308;Guaíba;RS;Sul;BRA
+4310405;Independência;RS;Sul;BRA
+4310413;Inhacorá;RS;Sul;BRA
+4310538;Itaara;RS;Sul;BRA
+4310553;Itacurubi;RS;Sul;BRA
+4310603;Itaqui;RS;Sul;BRA
+4310751;Ivorá;RS;Sul;BRA
+4311106;Jaguari;RS;Sul;BRA
+4311155;Jóia;RS;Sul;BRA
+4311502;Lavras do Sul;RS;Sul;BRA
+4311601;Liberato Salzano;RS;Sul;BRA
+4311718;Maçambará;RS;Sul;BRA
+4311700;Machadinho;RS;Sul;BRA
+4311981;Mariana Pimentel;RS;Sul;BRA
+4312005;Mariano Moro;RS;Sul;BRA
+4312054;Marques de Souza;RS;Sul;BRA
+4312179;Mato Queimado;RS;Sul;BRA
+4312203;Maximiliano de Almeida;RS;Sul;BRA
+4312252;Minas do Leão;RS;Sul;BRA
+4312302;Miraguaí;RS;Sul;BRA
+4312476;Morro Reuter;RS;Sul;BRA
+4312625;Muliterno;RS;Sul;BRA
+4312658;Não-Me-Toque;RS;Sul;BRA
+4312955;Nova Boa Vista;RS;Sul;BRA
+4313003;Nova Bréscia;RS;Sul;BRA
+4313359;Nova Roma do Sul;RS;Sul;BRA
+4313805;Palmitinho;RS;Sul;BRA
+4314035;Pareci Novo;RS;Sul;BRA
+4314076;Passo do Sobrado;RS;Sul;BRA
+4314159;Paverama;RS;Sul;BRA
+4314175;Pedras Altas;RS;Sul;BRA
+4314308;Pejuçara;RS;Sul;BRA
+4314407;Pelotas;RS;Sul;BRA
+4314506;Pinheiro Machado;RS;Sul;BRA
+4314555;Pirapó;RS;Sul;BRA
+4314779;Pontão;RS;Sul;BRA
+4314787;Ponte Preta;RS;Sul;BRA
+4315156;Progresso;RS;Sul;BRA
+4315313;Quatro Irmãos;RS;Sul;BRA
+4315404;Redentora;RS;Sul;BRA
+4315453;Relvado;RS;Sul;BRA
+4315602;Rio Grande;RS;Sul;BRA
+4316303;Roque Gonzales;RS;Sul;BRA
+4316436;Saldanha Marinho;RS;Sul;BRA
+4316477;Salvador das Missões;RS;Sul;BRA
+4316501;Salvador do Sul;RS;Sul;BRA
+4316709;Santa Bárbara do Sul;RS;Sul;BRA
+4316733;Santa Cecília do Sul;RS;Sul;BRA
+4316907;Santa Maria;RS;Sul;BRA
+4317202;Santa Rosa;RS;Sul;BRA
+4317251;Santa Tereza;RS;Sul;BRA
+4317004;Santana da Boa Vista;RS;Sul;BRA
+4317509;Santo Ângelo;RS;Sul;BRA
+4317707;Santo Antônio das Missões;RS;Sul;BRA
+4318432;São João do Polêsine;RS;Sul;BRA
+4318440;São Jorge;RS;Sul;BRA
+4318465;São José do Herval;RS;Sul;BRA
+4318481;São José do Hortêncio;RS;Sul;BRA
+4318614;São José do Sul;RS;Sul;BRA
+4319109;São Martinho;RS;Sul;BRA
+4319356;São Pedro da Serra;RS;Sul;BRA
+4319505;São Sebastião do Caí;RS;Sul;BRA
+4319604;São Sepé;RS;Sul;BRA
+4320230;Sede Nova;RS;Sul;BRA
+4320305;Selbach;RS;Sul;BRA
+4320321;Senador Salgado Filho;RS;Sul;BRA
+4320602;Severiano de Almeida;RS;Sul;BRA
+4320859;Tabaí;RS;Sul;BRA
+4320909;Tapejara;RS;Sul;BRA
+4321006;Tapera;RS;Sul;BRA
+4321469;Tio Hugo;RS;Sul;BRA
+4321626;Travesseiro;RS;Sul;BRA
+4321634;Três Arroios;RS;Sul;BRA
+4322152;Tunas;RS;Sul;BRA
+4322186;Tupanci do Sul;RS;Sul;BRA
+4322376;Unistalda;RS;Sul;BRA
+4322509;Vacaria;RS;Sul;BRA
+4322533;Vale do Sol;RS;Sul;BRA
+4322525;Vale Verde;RS;Sul;BRA
+4322608;Venâncio Aires;RS;Sul;BRA
+4322707;Vera Cruz;RS;Sul;BRA
+4323309;Vila Flores;RS;Sul;BRA
+4323358;Vila Lângaro;RS;Sul;BRA
+4323408;Vila Maria;RS;Sul;BRA
+4323457;Vila Nova do Sul;RS;Sul;BRA
+4323705;Vista Gaúcha;RS;Sul;BRA
+4323770;Westfália;RS;Sul;BRA
+4300034;Aceguá;RS;Sul;BRA
+4300059;Água Santa;RS;Sul;BRA
+4300109;Agudo;RS;Sul;BRA
+4300208;Ajuricaba;RS;Sul;BRA
+4300307;Alecrim;RS;Sul;BRA
+4300406;Alegrete;RS;Sul;BRA
+4300455;Alegria;RS;Sul;BRA
+4300471;Almirante Tamandaré do Sul;RS;Sul;BRA
+4300505;Alpestre;RS;Sul;BRA
+4300554;Alto Alegre;RS;Sul;BRA
+4300570;Alto Feliz;RS;Sul;BRA
+4300604;Alvorada;RS;Sul;BRA
+4300638;Amaral Ferrador;RS;Sul;BRA
+4300646;Ametista do Sul;RS;Sul;BRA
+4300661;André da Rocha;RS;Sul;BRA
+4300703;Anta Gorda;RS;Sul;BRA
+4300802;Antônio Prado;RS;Sul;BRA
+4300851;Arambaré;RS;Sul;BRA
+4300877;Araricá;RS;Sul;BRA
+4300901;Aratiba;RS;Sul;BRA
+4301008;Arroio do Meio;RS;Sul;BRA
+4301073;Arroio do Padre;RS;Sul;BRA
+4301057;Arroio do Sal;RS;Sul;BRA
+4301206;Arroio do Tigre;RS;Sul;BRA
+4301107;Arroio dos Ratos;RS;Sul;BRA
+4301305;Arroio Grande;RS;Sul;BRA
+4301404;Arvorezinha;RS;Sul;BRA
+4301503;Augusto Pestana;RS;Sul;BRA
+4301552;Áurea;RS;Sul;BRA
+4301602;Bagé;RS;Sul;BRA
+4301636;Balneário Pinhal;RS;Sul;BRA
+4301651;Barão;RS;Sul;BRA
+4301701;Barão de Cotegipe;RS;Sul;BRA
+4301750;Barão do Triunfo;RS;Sul;BRA
+4301859;Barra do Guarita;RS;Sul;BRA
+4301875;Barra do Quaraí;RS;Sul;BRA
+4301909;Barra do Ribeiro;RS;Sul;BRA
+4301925;Barra do Rio Azul;RS;Sul;BRA
+4301958;Barra Funda;RS;Sul;BRA
+4301800;Barracão;RS;Sul;BRA
+4302006;Barros Cassal;RS;Sul;BRA
+4302055;Benjamin Constant do Sul;RS;Sul;BRA
+4302105;Bento Gonçalves;RS;Sul;BRA
+4302154;Boa Vista das Missões;RS;Sul;BRA
+4302204;Boa Vista do Buricá;RS;Sul;BRA
+4302220;Boa Vista do Cadeado;RS;Sul;BRA
+4302238;Boa Vista do Incra;RS;Sul;BRA
+4302253;Boa Vista do Sul;RS;Sul;BRA
+4302303;Bom Jesus;RS;Sul;BRA
+4302352;Bom Princípio;RS;Sul;BRA
+4302378;Bom Progresso;RS;Sul;BRA
+4302402;Bom Retiro do Sul;RS;Sul;BRA
+4302451;Boqueirão do Leão;RS;Sul;BRA
+4302501;Bossoroca;RS;Sul;BRA
+4302584;Bozano;RS;Sul;BRA
+4302600;Braga;RS;Sul;BRA
+4302659;Brochier;RS;Sul;BRA
+4302709;Butiá;RS;Sul;BRA
+4302808;Caçapava do Sul;RS;Sul;BRA
+4302907;Cacequi;RS;Sul;BRA
+4303004;Cachoeira do Sul;RS;Sul;BRA
+4303103;Cachoeirinha;RS;Sul;BRA
+4303202;Cacique Doble;RS;Sul;BRA
+4303301;Caibaté;RS;Sul;BRA
+4303400;Caiçara;RS;Sul;BRA
+4303509;Camaquã;RS;Sul;BRA
+4303558;Camargo;RS;Sul;BRA
+4303608;Cambará do Sul;RS;Sul;BRA
+4303673;Campestre da Serra;RS;Sul;BRA
+4303707;Campina das Missões;RS;Sul;BRA
+4303806;Campinas do Sul;RS;Sul;BRA
+4303905;Campo Bom;RS;Sul;BRA
+4304002;Campo Novo;RS;Sul;BRA
+4304101;Campos Borges;RS;Sul;BRA
+4304200;Candelária;RS;Sul;BRA
+4304309;Cândido Godói;RS;Sul;BRA
+4304358;Candiota;RS;Sul;BRA
+4304408;Canela;RS;Sul;BRA
+4304507;Canguçu;RS;Sul;BRA
+4304606;Canoas;RS;Sul;BRA
+4304614;Canudos do Vale;RS;Sul;BRA
+4304622;Capão Bonito do Sul;RS;Sul;BRA
+4304630;Capão da Canoa;RS;Sul;BRA
+4304655;Capão do Cipó;RS;Sul;BRA
+4304663;Capão do Leão;RS;Sul;BRA
+4304689;Capela de Santana;RS;Sul;BRA
+4304697;Capitão;RS;Sul;BRA
+4305116;Centenário;RS;Sul;BRA
+4305124;Cerrito;RS;Sul;BRA
+4305132;Cerro Branco;RS;Sul;BRA
+4305157;Cerro Grande;RS;Sul;BRA
+4305173;Cerro Grande do Sul;RS;Sul;BRA
+4305439;Chuí;RS;Sul;BRA
+4305850;Coqueiros do Sul;RS;Sul;BRA
+4305959;Cotiporã;RS;Sul;BRA
+4306007;Crissiumal;RS;Sul;BRA
+4306106;Cruz Alta;RS;Sul;BRA
+4306130;Cruzaltense;RS;Sul;BRA
+4306205;Cruzeiro do Sul;RS;Sul;BRA
+4306353;Dezesseis de Novembro;RS;Sul;BRA
+4306379;Dilermando de Aguiar;RS;Sul;BRA
+4306429;Dois Irmãos das Missões;RS;Sul;BRA
+4306809;Encantado;RS;Sul;BRA
+4306924;Engenho Velho;RS;Sul;BRA
+4307005;Erechim;RS;Sul;BRA
+4307054;Ernestina;RS;Sul;BRA
+4307500;Espumoso;RS;Sul;BRA
+4307559;Estação;RS;Sul;BRA
+4307815;Estrela Velha;RS;Sul;BRA
+4308052;Faxinalzinho;RS;Sul;BRA
+4308102;Feliz;RS;Sul;BRA
+4308409;Formigueiro;RS;Sul;BRA
+4308607;Garibaldi;RS;Sul;BRA
+4308854;Gentil;RS;Sul;BRA
+4308904;Getúlio Vargas;RS;Sul;BRA
+4309100;Gramado;RS;Sul;BRA
+4309506;Guarani das Missões;RS;Sul;BRA
+4309605;Horizontina;RS;Sul;BRA
+4309951;Ibirapuitã;RS;Sul;BRA
+4310108;Igrejinha;RS;Sul;BRA
+4310306;Ilópolis;RS;Sul;BRA
+4310330;Imbé;RS;Sul;BRA
+4310462;Ipiranga do Sul;RS;Sul;BRA
+4310504;Iraí;RS;Sul;BRA
+4310801;Ivoti;RS;Sul;BRA
+4310876;Jacuizinho;RS;Sul;BRA
+4311007;Jaguarão;RS;Sul;BRA
+4311759;Manoel Viana;RS;Sul;BRA
+4311791;Maratá;RS;Sul;BRA
+4312153;Mato Leitão;RS;Sul;BRA
+4312377;Monte Alegre dos Campos;RS;Sul;BRA
+4312450;Morro Redondo;RS;Sul;BRA
+4312500;Mostardas;RS;Sul;BRA
+4312708;Nonoai;RS;Sul;BRA
+4313011;Nova Candelária;RS;Sul;BRA
+4313086;Nova Pádua;RS;Sul;BRA
+4313490;Novo Barreiro;RS;Sul;BRA
+4313508;Osório;RS;Sul;BRA
+4314001;Paraí;RS;Sul;BRA
+4314027;Paraíso do Sul;RS;Sul;BRA
+4314456;Pinhal;RS;Sul;BRA
+4314472;Pinhal Grande;RS;Sul;BRA
+4315057;Porto Mauá;RS;Sul;BRA
+4315107;Porto Xavier;RS;Sul;BRA
+4315172;Protásio Alves;RS;Sul;BRA
+4315206;Putinga;RS;Sul;BRA
+4315552;Rio dos Índios;RS;Sul;BRA
+4315800;Roca Sales;RS;Sul;BRA
+4315909;Rodeio Bonito;RS;Sul;BRA
+4316006;Rolante;RS;Sul;BRA
+4316204;Rondinha;RS;Sul;BRA
+4316972;Santa Margarida do Sul;RS;Sul;BRA
+4317608;Santo Antônio da Patrulha;RS;Sul;BRA
+4317558;Santo Antônio do Palma;RS;Sul;BRA
+4317756;Santo Antônio do Planalto;RS;Sul;BRA
+4318424;São João da Urtiga;RS;Sul;BRA
+4318606;São José do Ouro;RS;Sul;BRA
+4318804;São Lourenço do Sul;RS;Sul;BRA
+4319208;São Nicolau;RS;Sul;BRA
+4319307;São Paulo das Missões;RS;Sul;BRA
+4319737;São Valério do Sul;RS;Sul;BRA
+4319802;São Vicente do Sul;RS;Sul;BRA
+4320008;Sapucaia do Sul;RS;Sul;BRA
+4320578;Sete de Setembro;RS;Sul;BRA
+4321105;Tapes;RS;Sul;BRA
+4321329;Taquaruçu do Sul;RS;Sul;BRA
+4321352;Tavares;RS;Sul;BRA
+4321501;Torres;RS;Sul;BRA
+4321667;Três Cachoeiras;RS;Sul;BRA
+4321709;Três Coroas;RS;Sul;BRA
+4321857;Três Palmeiras;RS;Sul;BRA
+4322004;Triunfo;RS;Sul;BRA
+4322103;Tucunduva;RS;Sul;BRA
+4322202;Tupanciretã;RS;Sul;BRA
+4322400;Uruguaiana;RS;Sul;BRA
+4322541;Vale Real;RS;Sul;BRA
+4322806;Veranópolis;RS;Sul;BRA
+4322905;Viadutos;RS;Sul;BRA
+4323002;Viamão;RS;Sul;BRA
+4323804;Xangri-lá;RS;Sul;BRA
+4317103;Sant'ana do Livramento;RS;Sul;BRA
+4306759;Doutor Ricardo;RS;Sul;BRA
+4308003;Faxinal do Soturno;RS;Sul;BRA
+4308300;Fontoura Xavier;RS;Sul;BRA
+4309571;Herveiras;RS;Sul;BRA
+4309704;Humaitá;RS;Sul;BRA
+4311304;Lagoa Vermelha;RS;Sul;BRA
+4312401;Montenegro;RS;Sul;BRA
+4312427;Mormaço;RS;Sul;BRA
+4312617;Muitos Capões;RS;Sul;BRA
+4312674;Nicolau Vergueiro;RS;Sul;BRA
+4312757;Nova Alvorada;RS;Sul;BRA
+4313037;Nova Esperança do Sul;RS;Sul;BRA
+4313201;Nova Petrópolis;RS;Sul;BRA
+4313334;Nova Ramada;RS;Sul;BRA
+4313607;Paim Filho;RS;Sul;BRA
+4313706;Palmeira das Missões;RS;Sul;BRA
+4315701;Rio Pardo;RS;Sul;BRA
+4316451;Salto do Jacuí;RS;Sul;BRA
+4316600;Sananduva;RS;Sul;BRA
+4316758;Santa Clara do Sul;RS;Sul;BRA
+4318507;São José do Norte;RS;Sul;BRA
+4319125;São Martinho da Serra;RS;Sul;BRA
+4319711;São Valentim do Sul;RS;Sul;BRA
+4320503;Sertão;RS;Sul;BRA
+4320651;Silveira Martins;RS;Sul;BRA
+4320701;Sobradinho;RS;Sul;BRA
+4321402;Tenente Portela;RS;Sul;BRA
+4321600;Tramandaí;RS;Sul;BRA
+4321832;Três Forquilhas;RS;Sul;BRA
+4322301;Tuparendi;RS;Sul;BRA
+4322558;Vanini;RS;Sul;BRA
+4323101;Vicente Dutra;RS;Sul;BRA
+4304671;Capivari do Sul;RS;Sul;BRA
+4304713;Caraá;RS;Sul;BRA
+4305306;Chapada;RS;Sul;BRA
+4305587;Colinas;RS;Sul;BRA
+4306403;Dois Irmãos;RS;Sul;BRA
+4306957;Entre Rios do Sul;RS;Sul;BRA
+4307906;Farroupilha;RS;Sul;BRA
+4311643;Linha Nova;RS;Sul;BRA
+4311734;Mampituba;RS;Sul;BRA
+4311775;Maquiné;RS;Sul;BRA
+4312385;Monte Belo do Sul;RS;Sul;BRA
+4312807;Nova Araçá;RS;Sul;BRA
+4313375;Nova Santa Rita;RS;Sul;BRA
+4313391;Novo Cabrais;RS;Sul;BRA
+4313409;Novo Hamburgo;RS;Sul;BRA
+4313466;Novo Xingu;RS;Sul;BRA
+4315008;Porto Lucena;RS;Sul;BRA
+4315131;Pouso Novo;RS;Sul;BRA
+4315149;Presidente Lucena;RS;Sul;BRA
+4315958;Rolador;RS;Sul;BRA
+4319406;São Pedro do Sul;RS;Sul;BRA
+4319752;São Vendelino;RS;Sul;BRA
+4320206;Seberi;RS;Sul;BRA
+4320800;Soledade;RS;Sul;BRA
+4321204;Taquara;RS;Sul;BRA
+4323507;Vista Alegre;RS;Sul;BRA
+4323754;Vitória das Missões;RS;Sul;BRA
+4104907;Castro;PR;Sul;BRA
+4105102;Centenário do Sul;PR;Sul;BRA
+4105201;Cerro Azul;PR;Sul;BRA
+4105300;Céu Azul;PR;Sul;BRA
+4105409;Chopinzinho;PR;Sul;BRA
+4105607;Cidade Gaúcha;PR;Sul;BRA
+4105805;Colombo;PR;Sul;BRA
+4106308;Corbélia;PR;Sul;BRA
+4106407;Cornélio Procópio;PR;Sul;BRA
+4106555;Corumbataí do Sul;PR;Sul;BRA
+4106902;Curitiba;PR;Sul;BRA
+4107009;Curiúva;PR;Sul;BRA
+4107207;Dois Vizinhos;PR;Sul;BRA
+4107520;Esperança Nova;PR;Sul;BRA
+4107546;Espigão Alto do Iguaçu;PR;Sul;BRA
+4107553;Farol;PR;Sul;BRA
+4107652;Fazenda Rio Grande;PR;Sul;BRA
+4107702;Fênix;PR;Sul;BRA
+4107736;Fernandes Pinheiro;PR;Sul;BRA
+4107751;Figueira;PR;Sul;BRA
+4107801;Floraí;PR;Sul;BRA
+4107900;Floresta;PR;Sul;BRA
+4108452;Foz do Jordão;PR;Sul;BRA
+4108403;Francisco Beltrão;PR;Sul;BRA
+4108601;Goioerê;PR;Sul;BRA
+4108650;Goioxim;PR;Sul;BRA
+4108700;Grandes Rios;PR;Sul;BRA
+4109203;Guaraci;PR;Sul;BRA
+4109906;Icaraíma;PR;Sul;BRA
+4110003;Iguaraçu;PR;Sul;BRA
+4110052;Iguatu;PR;Sul;BRA
+4110508;Ipiranga;PR;Sul;BRA
+4110607;Iporã;PR;Sul;BRA
+4110656;Iracema do Oeste;PR;Sul;BRA
+4111209;Itapejara d'Oeste;PR;Sul;BRA
+4111605;Ivatuba;PR;Sul;BRA
+4111704;Jaboti;PR;Sul;BRA
+4111803;Jacarezinho;PR;Sul;BRA
+4112009;Jaguariaíva;PR;Sul;BRA
+4112702;Jataizinho;PR;Sul;BRA
+4112751;Jesuítas;PR;Sul;BRA
+4113106;Kaloré;PR;Sul;BRA
+4113403;Leópolis;PR;Sul;BRA
+4113429;Lidianópolis;PR;Sul;BRA
+4113809;Lupionópolis;PR;Sul;BRA
+4114609;Marechal Cândido Rondon;PR;Sul;BRA
+4115457;Marquinho;PR;Sul;BRA
+4115606;Matelândia;PR;Sul;BRA
+4115903;Mirador;PR;Sul;BRA
+4116307;Munhoz de Melo;PR;Sul;BRA
+4117008;Nova Fátima;PR;Sul;BRA
+4117305;Ortigueira;PR;Sul;BRA
+4117404;Ourizona;PR;Sul;BRA
+4117453;Ouro Verde do Oeste;PR;Sul;BRA
+4117602;Palmas;PR;Sul;BRA
+4117800;Palmital;PR;Sul;BRA
+4118105;Paranacity;PR;Sul;BRA
+4118303;Paranapoema;PR;Sul;BRA
+4118501;Pato Branco;PR;Sul;BRA
+4118600;Paula Freitas;PR;Sul;BRA
+4119004;Pérola d'Oeste;PR;Sul;BRA
+4119301;Pinhão;PR;Sul;BRA
+4119509;Piraquara;PR;Sul;BRA
+4119657;Pitangueiras;PR;Sul;BRA
+4119806;Planalto;PR;Sul;BRA
+4120655;Quarto Centenário;PR;Sul;BRA
+4120705;Quatiguá;PR;Sul;BRA
+4121109;Quinta do Sol;PR;Sul;BRA
+4121208;Quitandinha;PR;Sul;BRA
+4121356;Rancho Alegre D'Oest;PR;Sul;BRA
+4121406;Realeza;PR;Sul;BRA
+4121604;Renascença;PR;Sul;BRA
+4121703;Reserva;PR;Sul;BRA
+4121752;Reserva do Iguaçu;PR;Sul;BRA
+4122206;Rio Branco do Sul;PR;Sul;BRA
+4122651;Rosário do Ivaí;PR;Sul;BRA
+4123204;Santa Cecília do Pavão;PR;Sul;BRA
+4123600;Santa Inês;PR;Sul;BRA
+4123808;Santa Izabel do Oeste;PR;Sul;BRA
+4123857;Santa Maria do Oeste;PR;Sul;BRA
+4124020;Santa Tereza do Oeste;PR;Sul;BRA
+4124004;Santana do Itararé;PR;Sul;BRA
+4124301;Santo Antônio do Paraíso;PR;Sul;BRA
+4124400;Santo Antônio do Sudoeste;PR;Sul;BRA
+4124608;São Carlos do Ivaí;PR;Sul;BRA
+4124905;São João do Caiuá;PR;Sul;BRA
+4125308;São Jorge do Ivaí;PR;Sul;BRA
+4125209;São Jorge d'Oeste;PR;Sul;BRA
+4125407;São José da Boa Vista;PR;Sul;BRA
+4125456;São José das Palmeiras;PR;Sul;BRA
+4125555;São Manoel do Paraná;PR;Sul;BRA
+4125704;São Miguel do Iguaçu;PR;Sul;BRA
+4125753;São Pedro do Iguaçu;PR;Sul;BRA
+4126108;São Tomé;PR;Sul;BRA
+4126207;Sapopema;PR;Sul;BRA
+4126405;Sertaneja;PR;Sul;BRA
+4126652;Sulina;PR;Sul;BRA
+4126678;Tamarana;PR;Sul;BRA
+4126900;Tapira;PR;Sul;BRA
+4127007;Teixeira Soares;PR;Sul;BRA
+4127106;Telêmaco Borba;PR;Sul;BRA
+4127403;Terra Roxa;PR;Sul;BRA
+4127700;Toledo;PR;Sul;BRA
+4127965;Turvo;PR;Sul;BRA
+4128005;Ubiratã;PR;Sul;BRA
+4128104;Umuarama;PR;Sul;BRA
+4128302;Uniflor;PR;Sul;BRA
+4128401;Uraí;PR;Sul;BRA
+4128534;Ventania;PR;Sul;BRA
+4128658;Virmond;PR;Sul;BRA
+4128500;Wenceslau Braz;PR;Sul;BRA
+4104659;Carambeí;PR;Sul;BRA
+4106001;Congonhinhas;PR;Sul;BRA
+4106506;Coronel Vivida;PR;Sul;BRA
+4106803;Cruz Machado;PR;Sul;BRA
+4106704;Cruzeiro do Sul;PR;Sul;BRA
+4107108;Diamante do Norte;PR;Sul;BRA
+4107256;Douradina;PR;Sul;BRA
+4128633;Doutor Ulysses;PR;Sul;BRA
+4107405;Enéas Marques;PR;Sul;BRA
+4107504;Engenheiro Beltrão;PR;Sul;BRA
+4108205;Formosa do Oeste;PR;Sul;BRA
+4108304;Foz do Iguaçu;PR;Sul;BRA
+4108502;General Carneiro;PR;Sul;BRA
+4108551;Godoy Moreira;PR;Sul;BRA
+4108957;Guamiranga;PR;Sul;BRA
+4109104;Guaporema;PR;Sul;BRA
+4109302;Guaraniaçu;PR;Sul;BRA
+4109401;Guarapuava;PR;Sul;BRA
+4109500;Guaraqueçaba;PR;Sul;BRA
+4109609;Guaratuba;PR;Sul;BRA
+4109658;Honório Serpa;PR;Sul;BRA
+4109708;Ibaiti;PR;Sul;BRA
+4109757;Ibema;PR;Sul;BRA
+4109807;Ibiporã;PR;Sul;BRA
+4110201;Inácio Martins;PR;Sul;BRA
+4110300;Inajá;PR;Sul;BRA
+4110904;Itaguajé;PR;Sul;BRA
+4111001;Itambaracá;PR;Sul;BRA
+4111100;Itambé;PR;Sul;BRA
+4111258;Itaperuçu;PR;Sul;BRA
+4111308;Itaúna do Sul;PR;Sul;BRA
+4111902;Jaguapitã;PR;Sul;BRA
+4112207;Janiópolis;PR;Sul;BRA
+4112801;Joaquim Távora;PR;Sul;BRA
+4112900;Jundiaí do Sul;PR;Sul;BRA
+4113254;Laranjal;PR;Sul;BRA
+4113452;Lindoeste;PR;Sul;BRA
+4113601;Lobato;PR;Sul;BRA
+4113700;Londrina;PR;Sul;BRA
+4113908;Mallet;PR;Sul;BRA
+4114104;Mandaguaçu;PR;Sul;BRA
+4114302;Mandirituba;PR;Sul;BRA
+4114500;Manoel Ribas;PR;Sul;BRA
+4114807;Marialva;PR;Sul;BRA
+4114906;Marilândia do Sul;PR;Sul;BRA
+4115002;Marilena;PR;Sul;BRA
+4115101;Mariluz;PR;Sul;BRA
+4115358;Maripá;PR;Sul;BRA
+4115408;Marmeleiro;PR;Sul;BRA
+4115804;Medianeira;PR;Sul;BRA
+4115853;Mercedes;PR;Sul;BRA
+4116059;Missal;PR;Sul;BRA
+4116901;Nova Esperança;PR;Sul;BRA
+4116950;Nova Esperança do Sudoeste;PR;Sul;BRA
+4117222;Nova Santa Rosa;PR;Sul;BRA
+4117503;Paiçandu;PR;Sul;BRA
+4117909;Palotina;PR;Sul;BRA
+4118451;Pato Bragado;PR;Sul;BRA
+4118709;Paulo Frontin;PR;Sul;BRA
+4118907;Pérola;PR;Sul;BRA
+4119152;Pinhais;PR;Sul;BRA
+4119202;Pinhalão;PR;Sul;BRA
+4119707;Planaltina do Paraná;PR;Sul;BRA
+4120150;Porto Barreiro;PR;Sul;BRA
+4120200;Porto Rico;PR;Sul;BRA
+4120309;Porto Vitória;PR;Sul;BRA
+4120333;Prado Ferreira;PR;Sul;BRA
+4120408;Presidente Castelo Branco;PR;Sul;BRA
+4120804;Quatro Barras;PR;Sul;BRA
+4121257;Ramilândia;PR;Sul;BRA
+4121505;Rebouças;PR;Sul;BRA
+4121901;Ribeirão do Pinhal;PR;Sul;BRA
+4122008;Rio Azul;PR;Sul;BRA
+4122172;Rio Branco do Ivaí;PR;Sul;BRA
+4122503;Roncador;PR;Sul;BRA
+4122701;Sabáudia;PR;Sul;BRA
+4122800;Salgado Filho;PR;Sul;BRA
+4123303;Santa Cruz de Monte Castelo;PR;Sul;BRA
+4123709;Santa Isabel do Ivaí;PR;Sul;BRA
+4123824;Santa Lúcia;PR;Sul;BRA
+4123907;Santa Mariana;PR;Sul;BRA
+4123956;Santa Mônica;PR;Sul;BRA
+4124053;Santa Terezinha de Itaipu;PR;Sul;BRA
+4124202;Santo Antônio do Caiuá;PR;Sul;BRA
+4124509;Santo Inácio;PR;Sul;BRA
+4124707;São Jerônimo da Serra;PR;Sul;BRA
+4125357;São Jorge do Patrocínio;PR;Sul;BRA
+4125803;São Pedro do Ivaí;PR;Sul;BRA
+4125902;São Pedro do Paraná;PR;Sul;BRA
+4126009;São Sebastião da Amoreira;PR;Sul;BRA
+4126306;Sengés;PR;Sul;BRA
+4126603;Siqueira Campos;PR;Sul;BRA
+4126702;Tamboara;PR;Sul;BRA
+4127502;Tibagi;PR;Sul;BRA
+4127601;Tijucas do Sul;PR;Sul;BRA
+4127858;Três Barras do Paraná;PR;Sul;BRA
+4128203;União da Vitória;PR;Sul;BRA
+4100103;Abatiá;PR;Sul;BRA
+4100202;Adrianópolis;PR;Sul;BRA
+4100301;Agudos do Sul;PR;Sul;BRA
+4100400;Almirante Tamandaré;PR;Sul;BRA
+4100459;Altamira do Paraná;PR;Sul;BRA
+4128625;Alto Paraíso;PR;Sul;BRA
+4100608;Alto Paraná;PR;Sul;BRA
+4100707;Alto Piquiri;PR;Sul;BRA
+4100509;Altônia;PR;Sul;BRA
+4100806;Alvorada do Sul;PR;Sul;BRA
+4100905;Amaporã;PR;Sul;BRA
+4101002;Ampére;PR;Sul;BRA
+4101051;Anahy;PR;Sul;BRA
+4101101;Andirá;PR;Sul;BRA
+4101150;Ângulo;PR;Sul;BRA
+4101200;Antonina;PR;Sul;BRA
+4101309;Antônio Olinto;PR;Sul;BRA
+4101408;Apucarana;PR;Sul;BRA
+4101507;Arapongas;PR;Sul;BRA
+4101606;Arapoti;PR;Sul;BRA
+4101655;Arapuã;PR;Sul;BRA
+4101705;Araruna;PR;Sul;BRA
+4101804;Araucária;PR;Sul;BRA
+4101853;Ariranha do Ivaí;PR;Sul;BRA
+4101903;Assaí;PR;Sul;BRA
+4102000;Assis Chateaubriand;PR;Sul;BRA
+4102109;Astorga;PR;Sul;BRA
+4102208;Atalaia;PR;Sul;BRA
+4102307;Balsa Nova;PR;Sul;BRA
+4102406;Bandeirantes;PR;Sul;BRA
+4102505;Barbosa Ferraz;PR;Sul;BRA
+4102703;Barra do Jacaré;PR;Sul;BRA
+4102604;Barracão;PR;Sul;BRA
+4102752;Bela Vista da Caroba;PR;Sul;BRA
+4102802;Bela Vista do Paraíso;PR;Sul;BRA
+4102901;Bituruna;PR;Sul;BRA
+4103008;Boa Esperança;PR;Sul;BRA
+4103024;Boa Esperança do Iguaçu;PR;Sul;BRA
+4103040;Boa Ventura de São Roque;PR;Sul;BRA
+4103057;Boa Vista da Aparecida;PR;Sul;BRA
+4103107;Bocaiúva do Sul;PR;Sul;BRA
+4103156;Bom Jesus do Sul;PR;Sul;BRA
+4103206;Bom Sucesso;PR;Sul;BRA
+4103222;Bom Sucesso do Sul;PR;Sul;BRA
+4103305;Borrazópolis;PR;Sul;BRA
+4103354;Braganey;PR;Sul;BRA
+4103370;Brasilândia do Sul;PR;Sul;BRA
+4103404;Cafeara;PR;Sul;BRA
+4103453;Cafelândia;PR;Sul;BRA
+4103479;Cafezal do Sul;PR;Sul;BRA
+4103503;Califórnia;PR;Sul;BRA
+4103602;Cambará;PR;Sul;BRA
+4103701;Cambé;PR;Sul;BRA
+4103800;Cambira;PR;Sul;BRA
+4103909;Campina da Lagoa;PR;Sul;BRA
+4103958;Campina do Simão;PR;Sul;BRA
+4104006;Campina Grande do Sul;PR;Sul;BRA
+4104055;Campo Bonito;PR;Sul;BRA
+4104105;Campo do Tenente;PR;Sul;BRA
+4104204;Campo Largo;PR;Sul;BRA
+4104253;Campo Magro;PR;Sul;BRA
+4104303;Campo Mourão;PR;Sul;BRA
+4104402;Cândido de Abreu;PR;Sul;BRA
+4104428;Candói;PR;Sul;BRA
+4104451;Cantagalo;PR;Sul;BRA
+4104501;Capanema;PR;Sul;BRA
+4104709;Carlópolis;PR;Sul;BRA
+4105003;Catanduvas;PR;Sul;BRA
+4105508;Cianorte;PR;Sul;BRA
+4106100;Conselheiro Mairinck;PR;Sul;BRA
+4106209;Contenda;PR;Sul;BRA
+4106456;Coronel Domingos Soares;PR;Sul;BRA
+4106571;Cruzeiro do Iguaçu;PR;Sul;BRA
+4106605;Cruzeiro do Oeste;PR;Sul;BRA
+4107306;Doutor Camargo;PR;Sul;BRA
+4107603;Faxinal;PR;Sul;BRA
+4107850;Flor da Serra do Sul;PR;Sul;BRA
+4108007;Florestópolis;PR;Sul;BRA
+4108106;Flórida;PR;Sul;BRA
+4108320;Francisco Alves;PR;Sul;BRA
+4109005;Guapirama;PR;Sul;BRA
+4110078;Imbaú;PR;Sul;BRA
+4110102;Imbituva;PR;Sul;BRA
+4110706;Irati;PR;Sul;BRA
+4110953;Itaipulândia;PR;Sul;BRA
+4111506;Ivaiporã;PR;Sul;BRA
+4111555;Ivaté;PR;Sul;BRA
+4112306;Japira;PR;Sul;BRA
+4112504;Jardim Alegre;PR;Sul;BRA
+4113304;Laranjeiras do Sul;PR;Sul;BRA
+4113502;Loanda;PR;Sul;BRA
+4113734;Luiziana;PR;Sul;BRA
+4113759;Lunardelli;PR;Sul;BRA
+4114203;Mandaguari;PR;Sul;BRA
+4114401;Mangueirinha;PR;Sul;BRA
+4115309;Mariópolis;PR;Sul;BRA
+4115507;Marumbi;PR;Sul;BRA
+4115705;Matinhos;PR;Sul;BRA
+4115754;Mauá da Serra;PR;Sul;BRA
+4116000;Miraselva;PR;Sul;BRA
+4116109;Moreira Sales;PR;Sul;BRA
+4116208;Morretes;PR;Sul;BRA
+4116406;Nossa Senhora das Graças;PR;Sul;BRA
+4116505;Nova Aliança do Ivaí;PR;Sul;BRA
+4116604;Nova América da Colina;PR;Sul;BRA
+4116703;Nova Aurora;PR;Sul;BRA
+4116802;Nova Cantu;PR;Sul;BRA
+4117206;Nova Olímpia;PR;Sul;BRA
+4117255;Nova Prata do Iguaçu;PR;Sul;BRA
+4119251;Pinhal de São Bento;PR;Sul;BRA
+4119905;Ponta Grossa;PR;Sul;BRA
+4119954;Pontal do Paraná;PR;Sul;BRA
+4120002;Porecatu;PR;Sul;BRA
+4120606;Prudentópolis;PR;Sul;BRA
+4120903;Quedas do Iguaçu;PR;Sul;BRA
+4121000;Querência do Norte;PR;Sul;BRA
+4122156;Rio Bonito do Iguaçu;PR;Sul;BRA
+4122909;Salto do Itararé;PR;Sul;BRA
+4123402;Santa Fé;PR;Sul;BRA
+4125001;São João do Ivaí;PR;Sul;BRA
+4125100;São João do Triunfo;PR;Sul;BRA
+4126256;Sarandi;PR;Sul;BRA
+4126272;Saudade do Iguaçu;PR;Sul;BRA
+4126355;Serranópolis do Iguaçu;PR;Sul;BRA
+4126504;Sertanópolis;PR;Sul;BRA
+4126801;Tapejara;PR;Sul;BRA
+4127205;Terra Boa;PR;Sul;BRA
+4127304;Terra Rica;PR;Sul;BRA
+4127957;Tupãssi;PR;Sul;BRA
+4128559;Vera Cruz do Oeste;PR;Sul;BRA
+4128708;Vitorino;PR;Sul;BRA
+4128807;Xambrê;PR;Sul;BRA
+4106852;Cruzmaltina;PR;Sul;BRA
+4107124;Diamante do Sul;PR;Sul;BRA
+4110409;Indianópolis;PR;Sul;BRA
+4110805;Iretama;PR;Sul;BRA
+4111407;Ivaí;PR;Sul;BRA
+4112108;Jandaia do Sul;PR;Sul;BRA
+4112405;Japurá;PR;Sul;BRA
+4113007;Jussara;PR;Sul;BRA
+4115739;Mato Rico;PR;Sul;BRA
+4117057;Nova Laranjeiras;PR;Sul;BRA
+4117107;Nova Londrina;PR;Sul;BRA
+4117271;Nova Tebas;PR;Sul;BRA
+4117297;Novo Itacolomi;PR;Sul;BRA
+4118204;Paranaguá;PR;Sul;BRA
+4118857;Perobal;PR;Sul;BRA
+4119400;Piraí do Sul;PR;Sul;BRA
+4119608;Pitanga;PR;Sul;BRA
+4120101;Porto Amazonas;PR;Sul;BRA
+4120853;Quatro Pontes;PR;Sul;BRA
+4121802;Ribeirão Claro;PR;Sul;BRA
+4122305;Rio Negro;PR;Sul;BRA
+4122404;Rolândia;PR;Sul;BRA
+4122602;Rondon;PR;Sul;BRA
+4123105;Santa Amélia;PR;Sul;BRA
+4124103;Santo Antônio da Platina;PR;Sul;BRA
+4124806;São João;PR;Sul;BRA
+4125506;São José dos Pinhais;PR;Sul;BRA
+4128609;Verê;PR;Sul;BRA
+4104600;Capitão Leônidas Marques;PR;Sul;BRA
+4104808;Cascavel;PR;Sul;BRA
+4105706;Clevelândia;PR;Sul;BRA
+4105904;Colorado;PR;Sul;BRA
+4107157;Diamante D'Oeste;PR;Sul;BRA
+4107538;Entre Rios do Oeste;PR;Sul;BRA
+4108809;Guaíra;PR;Sul;BRA
+4108908;Guairaçá;PR;Sul;BRA
+4112603;Jardim Olinda;PR;Sul;BRA
+4112959;Juranda;PR;Sul;BRA
+4113205;Lapa;PR;Sul;BRA
+4114005;Mamborê;PR;Sul;BRA
+4114708;Maria Helena;PR;Sul;BRA
+4115200;Maringá;PR;Sul;BRA
+4117214;Nova Santa Bárbara;PR;Sul;BRA
+4117701;Palmeira;PR;Sul;BRA
+4118006;Paraíso do Norte;PR;Sul;BRA
+4118402;Paranavaí;PR;Sul;BRA
+4118808;Peabiru;PR;Sul;BRA
+4119103;Piên;PR;Sul;BRA
+4120507;Primeiro de Maio;PR;Sul;BRA
+4121307;Rancho Alegre;PR;Sul;BRA
+4122107;Rio Bom;PR;Sul;BRA
+4123006;Salto do Lontra;PR;Sul;BRA
+4123501;Santa Helena;PR;Sul;BRA
+4125605;São Mateus do Sul;PR;Sul;BRA
+4127809;Tomazina;PR;Sul;BRA
+4127882;Tunas do Paraná;PR;Sul;BRA
+4127908;Tuneiras do Oeste;PR;Sul;BRA
+4204004;Catanduvas;SC;Sul;BRA
+4204103;Caxambu do Sul;SC;Sul;BRA
+4204194;Chapadão do Lageado;SC;Sul;BRA
+4204301;Concórdia;SC;Sul;BRA
+4204350;Cordilheira Alta;SC;Sul;BRA
+4204400;Coronel Freitas;SC;Sul;BRA
+4204558;Correia Pinto;SC;Sul;BRA
+4204707;Cunha Porã;SC;Sul;BRA
+4204756;Cunhataí;SC;Sul;BRA
+4204806;Curitibanos;SC;Sul;BRA
+4205001;Dionísio Cerqueira;SC;Sul;BRA
+4205100;Dona Emma;SC;Sul;BRA
+4205357;Flor do Sertão;SC;Sul;BRA
+4205555;Frei Rogério;SC;Sul;BRA
+4205605;Galvão;SC;Sul;BRA
+4206009;Governador Celso Ramos;SC;Sul;BRA
+4206751;Ibiam;SC;Sul;BRA
+4206801;Ibicaré;SC;Sul;BRA
+4207304;Imbituba;SC;Sul;BRA
+4207577;Iomerê;SC;Sul;BRA
+4207650;Iporã do Oeste;SC;Sul;BRA
+4208005;Itá;SC;Sul;BRA
+4208203;Itajaí;SC;Sul;BRA
+4208302;Itapema;SC;Sul;BRA
+4208401;Itapiranga;SC;Sul;BRA
+4209003;Joaçaba;SC;Sul;BRA
+4209102;Joinville;SC;Sul;BRA
+4209177;Jupiá;SC;Sul;BRA
+4209201;Lacerdópolis;SC;Sul;BRA
+4209300;Lages;SC;Sul;BRA
+4209458;Lajeado Grande;SC;Sul;BRA
+4209854;Lindóia do Sul;SC;Sul;BRA
+4210035;Luzerna;SC;Sul;BRA
+4210050;Macieira;SC;Sul;BRA
+4210100;Mafra;SC;Sul;BRA
+4210209;Major Gercino;SC;Sul;BRA
+4210308;Major Vieira;SC;Sul;BRA
+4210407;Maracajá;SC;Sul;BRA
+4210506;Maravilha;SC;Sul;BRA
+4211009;Mondaí;SC;Sul;BRA
+4211256;Morro Grande;SC;Sul;BRA
+4211405;Nova Erechim;SC;Sul;BRA
+4211751;Otacílio Costa;SC;Sul;BRA
+4211850;Ouro Verde;SC;Sul;BRA
+4211876;Paial;SC;Sul;BRA
+4211892;Painel;SC;Sul;BRA
+4212056;Palmeira;SC;Sul;BRA
+4212239;Paraíso;SC;Sul;BRA
+4212254;Passo de Torres;SC;Sul;BRA
+4212304;Paulo Lopes;SC;Sul;BRA
+4212403;Pedras Grandes;SC;Sul;BRA
+4213609;Porto União;SC;Sul;BRA
+4214151;Princesa;SC;Sul;BRA
+4214201;Quilombo;SC;Sul;BRA
+4214508;Rio do Campo;SC;Sul;BRA
+4214805;Rio do Sul;SC;Sul;BRA
+4215208;Romelândia;SC;Sul;BRA
+4215687;Santa Terezinha do Progresso;SC;Sul;BRA
+4216354;São João do Itaperiú;SC;Sul;BRA
+4216503;São Joaquim;SC;Sul;BRA
+4217105;São Martinho;SC;Sul;BRA
+4217154;São Miguel da Boa Vista;SC;Sul;BRA
+4217253;São Pedro de Alcântara;SC;Sul;BRA
+4217402;Schroeder;SC;Sul;BRA
+4217550;Serra Alta;SC;Sul;BRA
+4217600;Siderópolis;SC;Sul;BRA
+4217808;Taió;SC;Sul;BRA
+4217907;Tangará;SC;Sul;BRA
+4218400;Treze de Maio;SC;Sul;BRA
+4218608;Trombudo Central;SC;Sul;BRA
+4219002;Urussanga;SC;Sul;BRA
+4219176;Vargem Bonita;SC;Sul;BRA
+4219408;Witmarsum;SC;Sul;BRA
+4204509;Corupá;SC;Sul;BRA
+4204905;Descanso;SC;Sul;BRA
+4206207;Gravatal;SC;Sul;BRA
+4206603;Guarujá do Sul;SC;Sul;BRA
+4206900;Ibirama;SC;Sul;BRA
+4207007;Içara;SC;Sul;BRA
+4207502;Indaial;SC;Sul;BRA
+4207684;Ipaçu;SC;Sul;BRA
+4207700;Ipumirim;SC;Sul;BRA
+4208450;Itapoá;SC;Sul;BRA
+4208500;Ituporanga;SC;Sul;BRA
+4208609;Jaborá;SC;Sul;BRA
+4208807;Jaguaruna;SC;Sul;BRA
+4209151;José Boiteux;SC;Sul;BRA
+4209508;Laurentino;SC;Sul;BRA
+4209805;Leoberto Leal;SC;Sul;BRA
+4210001;Luiz Alves;SC;Sul;BRA
+4210555;Marema;SC;Sul;BRA
+4210605;Massaranduba;SC;Sul;BRA
+4210704;Matos Costa;SC;Sul;BRA
+4210803;Meleiro;SC;Sul;BRA
+4210902;Modelo;SC;Sul;BRA
+4211058;Monte Carlo;SC;Sul;BRA
+4211306;Navegantes;SC;Sul;BRA
+4211702;Orleans;SC;Sul;BRA
+4211801;Ouro;SC;Sul;BRA
+4212205;Papanduva;SC;Sul;BRA
+4212270;Passos Maia;SC;Sul;BRA
+4212502;Penha;SC;Sul;BRA
+4212908;Pinhalzinho;SC;Sul;BRA
+4213104;Piratuba;SC;Sul;BRA
+4213302;Ponte Alta;SC;Sul;BRA
+4213351;Ponte Alta do Norte;SC;Sul;BRA
+4213500;Porto Belo;SC;Sul;BRA
+4213807;Praia Grande;SC;Sul;BRA
+4214300;Rancho Queimado;SC;Sul;BRA
+4214409;Rio das Antas;SC;Sul;BRA
+4214904;Rio Fortuna;SC;Sul;BRA
+4215307;Salete;SC;Sul;BRA
+4215455;Sangão;SC;Sul;BRA
+4215505;Santa Cecília;SC;Sul;BRA
+4215695;Santiago do Sul;SC;Sul;BRA
+4216057;São Cristovão do Sul;SC;Sul;BRA
+4216206;São Francisco do Sul;SC;Sul;BRA
+4216305;São João Batista;SC;Sul;BRA
+4217006;São Ludgero;SC;Sul;BRA
+4217204;São Miguel do Oeste;SC;Sul;BRA
+4217758;Sul Brasil;SC;Sul;BRA
+4217956;Tigrinhos;SC;Sul;BRA
+4218202;Timbó;SC;Sul;BRA
+4218251;Timbó Grande;SC;Sul;BRA
+4218707;Tubarão;SC;Sul;BRA
+4218806;Turvo;SC;Sul;BRA
+4218954;Urupema;SC;Sul;BRA
+4219101;Vargeão;SC;Sul;BRA
+4219150;Vargem;SC;Sul;BRA
+4219200;Vidal Ramos;SC;Sul;BRA
+4219358;Vitor Meireles;SC;Sul;BRA
+4219853;Zortéa;SC;Sul;BRA
+4200051;Abdon Batista;SC;Sul;BRA
+4200101;Abelardo Luz;SC;Sul;BRA
+4200200;Agrolândia;SC;Sul;BRA
+4200309;Agronômica;SC;Sul;BRA
+4200408;Água Doce;SC;Sul;BRA
+4200507;Águas de Chapecó;SC;Sul;BRA
+4200556;Águas Frias;SC;Sul;BRA
+4200606;Águas Mornas;SC;Sul;BRA
+4200705;Alfredo Wagner;SC;Sul;BRA
+4200754;Alto Bela Vista;SC;Sul;BRA
+4200804;Anchieta;SC;Sul;BRA
+4200903;Angelina;SC;Sul;BRA
+4201000;Anita Garibaldi;SC;Sul;BRA
+4201109;Anitápolis;SC;Sul;BRA
+4201208;Antônio Carlos;SC;Sul;BRA
+4201257;Apiúna;SC;Sul;BRA
+4201273;Arabutã;SC;Sul;BRA
+4201307;Araquari;SC;Sul;BRA
+4201406;Araranguá;SC;Sul;BRA
+4201505;Armazém;SC;Sul;BRA
+4201604;Arroio Trinta;SC;Sul;BRA
+4201653;Arvoredo;SC;Sul;BRA
+4201703;Ascurra;SC;Sul;BRA
+4201802;Atalanta;SC;Sul;BRA
+4201901;Aurora;SC;Sul;BRA
+4201950;Balneário Arroio do Silva;SC;Sul;BRA
+4202057;Balneário Barra do Sul;SC;Sul;BRA
+4202008;Balneário Camboriú;SC;Sul;BRA
+4202073;Balneário Gaivota;SC;Sul;BRA
+4202081;Bandeirante;SC;Sul;BRA
+4202099;Barra Bonita;SC;Sul;BRA
+4202107;Barra Velha;SC;Sul;BRA
+4202131;Bela Vista do Toldo;SC;Sul;BRA
+4202156;Belmonte;SC;Sul;BRA
+4202206;Benedito Novo;SC;Sul;BRA
+4202305;Biguaçu;SC;Sul;BRA
+4202404;Blumenau;SC;Sul;BRA
+4202438;Bocaina do Sul;SC;Sul;BRA
+4202503;Bom Jardim da Serra;SC;Sul;BRA
+4202537;Bom Jesus;SC;Sul;BRA
+4202578;Bom Jesus do Oeste;SC;Sul;BRA
+4202602;Bom Retiro;SC;Sul;BRA
+4202453;Bombinhas;SC;Sul;BRA
+4202701;Botuverá;SC;Sul;BRA
+4202800;Braço do Norte;SC;Sul;BRA
+4202859;Braço do Trombudo;SC;Sul;BRA
+4202875;Brunópolis;SC;Sul;BRA
+4202909;Brusque;SC;Sul;BRA
+4203006;Caçador;SC;Sul;BRA
+4203105;Caibi;SC;Sul;BRA
+4203154;Calmon;SC;Sul;BRA
+4203204;Camboriú;SC;Sul;BRA
+4203303;Campo Alegre;SC;Sul;BRA
+4203402;Campo Belo do Sul;SC;Sul;BRA
+4203501;Campo Erê;SC;Sul;BRA
+4203600;Campos Novos;SC;Sul;BRA
+4203709;Canelinha;SC;Sul;BRA
+4203808;Canoinhas;SC;Sul;BRA
+4203253;Capão Alto;SC;Sul;BRA
+4203907;Capinzal;SC;Sul;BRA
+4203956;Capivari de Baixo;SC;Sul;BRA
+4204178;Cerro Negro;SC;Sul;BRA
+4204202;Chapecó;SC;Sul;BRA
+4204459;Coronel Martins;SC;Sul;BRA
+4204608;Criciúma;SC;Sul;BRA
+4205159;Doutor Pedrinho;SC;Sul;BRA
+4205175;Entre Rios;SC;Sul;BRA
+4205191;Ermo;SC;Sul;BRA
+4205209;Erval Velho;SC;Sul;BRA
+4205308;Faxinal dos Guedes;SC;Sul;BRA
+4205506;Fraiburgo;SC;Sul;BRA
+4205704;Garopaba;SC;Sul;BRA
+4205902;Gaspar;SC;Sul;BRA
+4206108;Grão Pará;SC;Sul;BRA
+4206306;Guabiruba;SC;Sul;BRA
+4206504;Guaramirim;SC;Sul;BRA
+4207106;Ilhota;SC;Sul;BRA
+4207205;Imaruí;SC;Sul;BRA
+4207809;Irani;SC;Sul;BRA
+4207908;Irineópolis;SC;Sul;BRA
+4208708;Jacinto Machado;SC;Sul;BRA
+4208906;Jaraguá do Sul;SC;Sul;BRA
+4208955;Jardinópolis;SC;Sul;BRA
+4209409;Laguna;SC;Sul;BRA
+4209607;Lauro Muller;SC;Sul;BRA
+4209706;Lebon Régis;SC;Sul;BRA
+4210852;Mirim Doce;SC;Sul;BRA
+4211207;Morro da Fumaça;SC;Sul;BRA
+4211900;Palhoça;SC;Sul;BRA
+4212007;Palma Sola;SC;Sul;BRA
+4212106;Palmitos;SC;Sul;BRA
+4212601;Peritiba;SC;Sul;BRA
+4213153;Planalto Alegre;SC;Sul;BRA
+4214003;Presidente Getúlio;SC;Sul;BRA
+4214607;Rio do Oeste;SC;Sul;BRA
+4214706;Rio dos Cedros;SC;Sul;BRA
+4215059;Rio Rufino;SC;Sul;BRA
+4215109;Rodeio;SC;Sul;BRA
+4215356;Saltinho;SC;Sul;BRA
+4215406;Salto Veloso;SC;Sul;BRA
+4215554;Santa Helena;SC;Sul;BRA
+4215604;Santa Rosa de Lima;SC;Sul;BRA
+4215679;Santa Terezinha;SC;Sul;BRA
+4215703;Santo Amaro da Imperatriz;SC;Sul;BRA
+4215752;São Bernardino;SC;Sul;BRA
+4215901;São Bonifácio;SC;Sul;BRA
+4216255;São João do Oeste;SC;Sul;BRA
+4216404;São João do Sul;SC;Sul;BRA
+4216602;São José;SC;Sul;BRA
+4216701;São José do Cedro;SC;Sul;BRA
+4216800;São José do Cerrito;SC;Sul;BRA
+4217709;Sombrio;SC;Sul;BRA
+4218004;Tijucas;SC;Sul;BRA
+4218350;Treviso;SC;Sul;BRA
+4218756;Tunápolis;SC;Sul;BRA
+4218905;Urubici;SC;Sul;BRA
+4219507;Xanxerê;SC;Sul;BRA
+4219606;Xavantina;SC;Sul;BRA
+4219705;Xaxim;SC;Sul;BRA
+4204251;Cocal do Sul;SC;Sul;BRA
+4205803;Garuva;SC;Sul;BRA
+4206652;Guatambú;SC;Sul;BRA
+4206702;Herval d'Oeste;SC;Sul;BRA
+4207403;Imbuia;SC;Sul;BRA
+4209904;Lontras;SC;Sul;BRA
+4211454;Nova Itaberaba;SC;Sul;BRA
+4211504;Nova Trento;SC;Sul;BRA
+4211652;Novo Horizonte;SC;Sul;BRA
+4213005;Pinheiro Preto;SC;Sul;BRA
+4213203;Pomerode;SC;Sul;BRA
+4213401;Ponte Serrada;SC;Sul;BRA
+4214102;Presidente Nereu;SC;Sul;BRA
+4215653;Santa Rosa do Sul;SC;Sul;BRA
+4217303;Saudades;SC;Sul;BRA
+4217501;Seara;SC;Sul;BRA
+4218301;Três Barras;SC;Sul;BRA
+4218855;União do Oeste;SC;Sul;BRA
+4219309;Videira;SC;Sul;BRA
+4204152;Celso Ramos;SC;Sul;BRA
+4205407;Florianópolis;SC;Sul;BRA
+4205431;Formosa do Sul;SC;Sul;BRA
+4205456;Forquilhinha;SC;Sul;BRA
+4206405;Guaraciaba;SC;Sul;BRA
+4207601;Ipira;SC;Sul;BRA
+4207759;Iraceminha;SC;Sul;BRA
+4207858;Irati;SC;Sul;BRA
+4208104;Itaiópolis;SC;Sul;BRA
+4211108;Monte Castelo;SC;Sul;BRA
+4211603;Nova Veneza;SC;Sul;BRA
+4212700;Petrolândia;SC;Sul;BRA
+4213708;Pouso Redondo;SC;Sul;BRA
+4215000;Rio Negrinho;SC;Sul;BRA
+4215075;Riqueza;SC;Sul;BRA
+4215802;São Bento do Sul;SC;Sul;BRA
+4216008;São Carlos;SC;Sul;BRA
+4216107;São Domingos;SC;Sul;BRA
+4218103;Timbé do Sul;SC;Sul;BRA
+4218509;Treze Tílias;SC;Sul;BRA
+5103106;Cocalinho;MT;Centro-Oeste;BRA
+5103205;Colíder;MT;Centro-Oeste;BRA
+5103403;Cuiabá;MT;Centro-Oeste;BRA
+5103908;General Carneiro;MT;Centro-Oeste;BRA
+5104203;Guiratinga;MT;Centro-Oeste;BRA
+5104906;Jangada;MT;Centro-Oeste;BRA
+5105002;Jauru;MT;Centro-Oeste;BRA
+5105101;Juara;MT;Centro-Oeste;BRA
+5105200;Juscimeira;MT;Centro-Oeste;BRA
+5105259;Lucas do Rio Verde;MT;Centro-Oeste;BRA
+5105309;Luciara;MT;Centro-Oeste;BRA
+5105580;Marcelândia;MT;Centro-Oeste;BRA
+5105903;Nobres;MT;Centro-Oeste;BRA
+5106216;Nova Canaã do Norte;MT;Centro-Oeste;BRA
+5108956;Nova Monte Verde;MT;Centro-Oeste;BRA
+5106224;Nova Mutum;MT;Centro-Oeste;BRA
+5106232;Nova Olímpia;MT;Centro-Oeste;BRA
+5106273;Novo Horizonte do Norte;MT;Centro-Oeste;BRA
+5106315;Novo Santo Antônio;MT;Centro-Oeste;BRA
+5106307;Paranatinga;MT;Centro-Oeste;BRA
+5106422;Peixoto de Azevedo;MT;Centro-Oeste;BRA
+5106455;Planalto da Serra;MT;Centro-Oeste;BRA
+5106778;Porto Alegre do Norte;MT;Centro-Oeste;BRA
+5107156;Reserva do Cabaçal;MT;Centro-Oeste;BRA
+5107602;Rondonópolis;MT;Centro-Oeste;BRA
+5107701;Rosário Oeste;MT;Centro-Oeste;BRA
+5107248;Santa Carmem;MT;Centro-Oeste;BRA
+5107743;Santa Cruz do Xingu;MT;Centro-Oeste;BRA
+5107800;Santo Antônio do Leverger;MT;Centro-Oeste;BRA
+5107297;São José do Povo;MT;Centro-Oeste;BRA
+5107107;São José dos Quatro Marcos;MT;Centro-Oeste;BRA
+5107404;São Pedro da Cipa;MT;Centro-Oeste;BRA
+5107883;Serra Nova Dourada;MT;Centro-Oeste;BRA
+5107909;Sinop;MT;Centro-Oeste;BRA
+5107941;Tabaporã;MT;Centro-Oeste;BRA
+5107958;Tangará da Serra;MT;Centro-Oeste;BRA
+5108402;Várzea Grande;MT;Centro-Oeste;BRA
+5103056;Cláudia;MT;Centro-Oeste;BRA
+5103304;Comodoro;MT;Centro-Oeste;BRA
+5103353;Confresa;MT;Centro-Oeste;BRA
+5103502;Diamantino;MT;Centro-Oeste;BRA
+5103601;Dom Aquino;MT;Centro-Oeste;BRA
+5103700;Feliz Natal;MT;Centro-Oeste;BRA
+5103858;Gaúcha do Norte;MT;Centro-Oeste;BRA
+5104559;Itaúba;MT;Centro-Oeste;BRA
+5104609;Itiquira;MT;Centro-Oeste;BRA
+5104807;Jaciara;MT;Centro-Oeste;BRA
+5105150;Juína;MT;Centro-Oeste;BRA
+5106182;Nova Lacerda;MT;Centro-Oeste;BRA
+5106240;Nova Ubiratã;MT;Centro-Oeste;BRA
+5106281;Novo São Joaquim;MT;Centro-Oeste;BRA
+5106299;Paranaíta;MT;Centro-Oeste;BRA
+5106372;Pedra Preta;MT;Centro-Oeste;BRA
+5106505;Poconé;MT;Centro-Oeste;BRA
+5106653;Pontal do Araguaia;MT;Centro-Oeste;BRA
+5106703;Ponte Branca;MT;Centro-Oeste;BRA
+5106752;Pontes e Lacerda;MT;Centro-Oeste;BRA
+5106851;Porto Estrela;MT;Centro-Oeste;BRA
+5107040;Primavera do Leste;MT;Centro-Oeste;BRA
+5107065;Querência;MT;Centro-Oeste;BRA
+5107180;Ribeirão Cascalheira;MT;Centro-Oeste;BRA
+5107206;Rio Branco;MT;Centro-Oeste;BRA
+5107776;Santa Terezinha;MT;Centro-Oeste;BRA
+5107354;São José do Xingu;MT;Centro-Oeste;BRA
+5107875;Sapezal;MT;Centro-Oeste;BRA
+5107925;Sorriso;MT;Centro-Oeste;BRA
+5108006;Tapurah;MT;Centro-Oeste;BRA
+5108303;União do Sul;MT;Centro-Oeste;BRA
+5108501;Vera;MT;Centro-Oeste;BRA
+5102793;Carlinda;MT;Centro-Oeste;BRA
+5103254;Colniza;MT;Centro-Oeste;BRA
+5103452;Denise;MT;Centro-Oeste;BRA
+5104104;Guarantã do Norte;MT;Centro-Oeste;BRA
+5104500;Indiavaí;MT;Centro-Oeste;BRA
+5106208;Nova Brasilândia;MT;Centro-Oeste;BRA
+5106190;Nova Santa Helena;MT;Centro-Oeste;BRA
+5106257;Nova Xavantina;MT;Centro-Oeste;BRA
+5107198;Ribeirãozinho;MT;Centro-Oeste;BRA
+5107578;Rondolândia;MT;Centro-Oeste;BRA
+5107859;São Félix do Araguaia;MT;Centro-Oeste;BRA
+5107305;São José do Rio Claro;MT;Centro-Oeste;BRA
+5108055;Terra Nova do Norte;MT;Centro-Oeste;BRA
+5108105;Tesouro;MT;Centro-Oeste;BRA
+5108204;Torixoréu;MT;Centro-Oeste;BRA
+5108600;Vila Rica;MT;Centro-Oeste;BRA
+5100102;Acorizal;MT;Centro-Oeste;BRA
+5100201;Água Boa;MT;Centro-Oeste;BRA
+5100250;Alta Floresta;MT;Centro-Oeste;BRA
+5100300;Alto Araguaia;MT;Centro-Oeste;BRA
+5100359;Alto Boa Vista;MT;Centro-Oeste;BRA
+5100409;Alto Garças;MT;Centro-Oeste;BRA
+5100508;Alto Paraguai;MT;Centro-Oeste;BRA
+5100607;Alto Taquari;MT;Centro-Oeste;BRA
+5100805;Apiacás;MT;Centro-Oeste;BRA
+5101001;Araguaiana;MT;Centro-Oeste;BRA
+5101209;Araguainha;MT;Centro-Oeste;BRA
+5101258;Araputanga;MT;Centro-Oeste;BRA
+5101308;Arenápolis;MT;Centro-Oeste;BRA
+5101407;Aripuanã;MT;Centro-Oeste;BRA
+5101605;Barão de Melgaço;MT;Centro-Oeste;BRA
+5101704;Barra do Bugres;MT;Centro-Oeste;BRA
+5101803;Barra do Garças;MT;Centro-Oeste;BRA
+5101852;Bom Jesus do Araguaia;MT;Centro-Oeste;BRA
+5101902;Brasnorte;MT;Centro-Oeste;BRA
+5102504;Cáceres;MT;Centro-Oeste;BRA
+5102603;Campinápolis;MT;Centro-Oeste;BRA
+5102637;Campo Novo do Parecis;MT;Centro-Oeste;BRA
+5102678;Campo Verde;MT;Centro-Oeste;BRA
+5102686;Campos de Júlio;MT;Centro-Oeste;BRA
+5102694;Canabrava do Norte;MT;Centro-Oeste;BRA
+5102702;Canarana;MT;Centro-Oeste;BRA
+5103007;Chapada dos Guimarães;MT;Centro-Oeste;BRA
+5103379;Cotriguaçu;MT;Centro-Oeste;BRA
+5103437;Curvelândia;MT;Centro-Oeste;BRA
+5105176;Juruena;MT;Centro-Oeste;BRA
+5105606;Matupá;MT;Centro-Oeste;BRA
+5106000;Nortelândia;MT;Centro-Oeste;BRA
+5106109;Nossa Senhora do Livramento;MT;Centro-Oeste;BRA
+5108857;Nova Marilândia;MT;Centro-Oeste;BRA
+5106265;Novo Mundo;MT;Centro-Oeste;BRA
+5106802;Porto dos Gaúchos;MT;Centro-Oeste;BRA
+5107263;Santo Afonso;MT;Centro-Oeste;BRA
+5108352;Vale de São Domingos;MT;Centro-Oeste;BRA
+5102850;Castanheira;MT;Centro-Oeste;BRA
+5108808;Nova Guarita;MT;Centro-Oeste;BRA
+5108907;Nova Maringá;MT;Centro-Oeste;BRA
+5106174;Nova Nazaré;MT;Centro-Oeste;BRA
+5106828;Porto Esperidião;MT;Centro-Oeste;BRA
+5107750;Salto do Céu;MT;Centro-Oeste;BRA
+5107768;Santa Rita do Trivelato;MT;Centro-Oeste;BRA
+5003306;Coxim;MS;Centro-Oeste;BRA
+5003488;Dois Irmãos do Buriti;MS;Centro-Oeste;BRA
+5003751;Eldorado;MS;Centro-Oeste;BRA
+5004007;Glória de Dourados;MS;Centro-Oeste;BRA
+5004502;Itaporã;MS;Centro-Oeste;BRA
+5004601;Itaquiraí;MS;Centro-Oeste;BRA
+5004908;Jaraguari;MS;Centro-Oeste;BRA
+5005004;Jardim;MS;Centro-Oeste;BRA
+5005202;Ladário;MS;Centro-Oeste;BRA
+5005400;Maracaju;MS;Centro-Oeste;BRA
+5005608;Miranda;MS;Centro-Oeste;BRA
+5005707;Naviraí;MS;Centro-Oeste;BRA
+5005806;Nioaque;MS;Centro-Oeste;BRA
+5006259;Novo Horizonte do Sul;MS;Centro-Oeste;BRA
+5007307;Rio Negro;MS;Centro-Oeste;BRA
+5007695;São Gabriel do Oeste;MS;Centro-Oeste;BRA
+5007802;Selvíria;MS;Centro-Oeste;BRA
+5007901;Sidrolândia;MS;Centro-Oeste;BRA
+5008305;Três Lagoas;MS;Centro-Oeste;BRA
+5008404;Vicentina;MS;Centro-Oeste;BRA
+5002803;Caracol;MS;Centro-Oeste;BRA
+5003157;Coronel Sapucaia;MS;Centro-Oeste;BRA
+5003207;Corumbá;MS;Centro-Oeste;BRA
+5003454;Deodápolis;MS;Centro-Oeste;BRA
+5004106;Guia Lopes da Laguna;MS;Centro-Oeste;BRA
+5005103;Jateí;MS;Centro-Oeste;BRA
+5005152;Juti;MS;Centro-Oeste;BRA
+5005681;Mundo Novo;MS;Centro-Oeste;BRA
+5007109;Ribas do Rio Pardo;MS;Centro-Oeste;BRA
+5007208;Rio Brilhante;MS;Centro-Oeste;BRA
+5007554;Santa Rita do Pardo;MS;Centro-Oeste;BRA
+5007703;Sete Quedas;MS;Centro-Oeste;BRA
+5007950;Tacuru;MS;Centro-Oeste;BRA
+5008008;Terenos;MS;Centro-Oeste;BRA
+5002951;Chapadão do Sul;MS;Centro-Oeste;BRA
+5003108;Corguinho;MS;Centro-Oeste;BRA
+5003256;Costa Rica;MS;Centro-Oeste;BRA
+5003702;Dourados;MS;Centro-Oeste;BRA
+5003801;Fátima do Sul;MS;Centro-Oeste;BRA
+5004304;Iguatemi;MS;Centro-Oeste;BRA
+5004700;Ivinhema;MS;Centro-Oeste;BRA
+5005251;Laguna Carapã;MS;Centro-Oeste;BRA
+5006002;Nova Alvorada do Sul;MS;Centro-Oeste;BRA
+5006309;Paranaíba;MS;Centro-Oeste;BRA
+5006903;Porto Murtinho;MS;Centro-Oeste;BRA
+5007406;Rio Verde de Mato Grosso;MS;Centro-Oeste;BRA
+5007935;Sonora;MS;Centro-Oeste;BRA
+5000203;Água Clara;MS;Centro-Oeste;BRA
+5000252;Alcinópolis;MS;Centro-Oeste;BRA
+5000609;Amambai;MS;Centro-Oeste;BRA
+5000708;Anastácio;MS;Centro-Oeste;BRA
+5000807;Anaurilândia;MS;Centro-Oeste;BRA
+5000856;Angélica;MS;Centro-Oeste;BRA
+5000906;Antônio João;MS;Centro-Oeste;BRA
+5001003;Aparecida do Taboado;MS;Centro-Oeste;BRA
+5001102;Aquidauana;MS;Centro-Oeste;BRA
+5001243;Aral Moreira;MS;Centro-Oeste;BRA
+5001508;Bandeirantes;MS;Centro-Oeste;BRA
+5001904;Bataguassu;MS;Centro-Oeste;BRA
+5002001;Batayporã;MS;Centro-Oeste;BRA
+5002100;Bela Vista;MS;Centro-Oeste;BRA
+5002159;Bodoquena;MS;Centro-Oeste;BRA
+5002209;Bonito;MS;Centro-Oeste;BRA
+5002308;Brasilândia;MS;Centro-Oeste;BRA
+5002407;Caarapó;MS;Centro-Oeste;BRA
+5002605;Camapuã;MS;Centro-Oeste;BRA
+5002704;Campo Grande;MS;Centro-Oeste;BRA
+5003504;Douradina;MS;Centro-Oeste;BRA
+5004403;Inocência;MS;Centro-Oeste;BRA
+5004809;Japorã;MS;Centro-Oeste;BRA
+5006200;Nova Andradina;MS;Centro-Oeste;BRA
+5006358;Paranhos;MS;Centro-Oeste;BRA
+5006408;Pedro Gomes;MS;Centro-Oeste;BRA
+5002902;Cassilândia;MS;Centro-Oeste;BRA
+5006606;Ponta Porã;MS;Centro-Oeste;BRA
+5007505;Rochedo;MS;Centro-Oeste;BRA
+5007976;Taquarussu;MS;Centro-Oeste;BRA
+5300108;Brasília;DF;Centro-Oeste;BRA
+5205208;Caturaí;GO;Centro-Oeste;BRA
+5205455;Cezarina;GO;Centro-Oeste;BRA
+5206305;Cristianópolis;GO;Centro-Oeste;BRA
+5206602;Cumari;GO;Centro-Oeste;BRA
+5206909;Davinópolis;GO;Centro-Oeste;BRA
+5207105;Diorama;GO;Centro-Oeste;BRA
+5207535;Faina;GO;Centro-Oeste;BRA
+5208004;Formosa;GO;Centro-Oeste;BRA
+5208103;Formoso;GO;Centro-Oeste;BRA
+5208608;Goianésia;GO;Centro-Oeste;BRA
+5209150;Gouvelândia;GO;Centro-Oeste;BRA
+5209804;Hidrolina;GO;Centro-Oeste;BRA
+5210109;Ipameri;GO;Centro-Oeste;BRA
+5210307;Israelândia;GO;Centro-Oeste;BRA
+5210406;Itaberaí;GO;Centro-Oeste;BRA
+5210562;Itaguari;GO;Centro-Oeste;BRA
+5210604;Itaguaru;GO;Centro-Oeste;BRA
+5210901;Itapaci;GO;Centro-Oeste;BRA
+5211008;Itapirapuã;GO;Centro-Oeste;BRA
+5211206;Itapuranga;GO;Centro-Oeste;BRA
+5211602;Ivolândia;GO;Centro-Oeste;BRA
+5211701;Jandaia;GO;Centro-Oeste;BRA
+5211909;Jataí;GO;Centro-Oeste;BRA
+5212105;Joviânia;GO;Centro-Oeste;BRA
+5212501;Luziânia;GO;Centro-Oeste;BRA
+5212709;Mambaí;GO;Centro-Oeste;BRA
+5213707;Montes Claros de Goiás;GO;Centro-Oeste;BRA
+5213756;Montividiu;GO;Centro-Oeste;BRA
+5213806;Morrinhos;GO;Centro-Oeste;BRA
+5213905;Mossâmedes;GO;Centro-Oeste;BRA
+5214051;Mundo Novo;GO;Centro-Oeste;BRA
+5214507;Nerópolis;GO;Centro-Oeste;BRA
+5215504;Ouvidor;GO;Centro-Oeste;BRA
+5216403;Paraúna;GO;Centro-Oeste;BRA
+5216809;Petrolina de Goiás;GO;Centro-Oeste;BRA
+5217104;Piracanjuba;GO;Centro-Oeste;BRA
+5217401;Pires do Rio;GO;Centro-Oeste;BRA
+5218003;Porangatu;GO;Centro-Oeste;BRA
+5218102;Portelândia;GO;Centro-Oeste;BRA
+5218391;Professor Jamil;GO;Centro-Oeste;BRA
+5218508;Quirinópolis;GO;Centro-Oeste;BRA
+5218904;Rubiataba;GO;Centro-Oeste;BRA
+5219209;Santa Cruz de Goiás;GO;Centro-Oeste;BRA
+5219357;Santa Isabel;GO;Centro-Oeste;BRA
+5220009;São João d'Aliança;GO;Centro-Oeste;BRA
+5220157;São Luiz do Norte;GO;Centro-Oeste;BRA
+5220264;São Miguel do Passa Quatro;GO;Centro-Oeste;BRA
+5220405;São Simão;GO;Centro-Oeste;BRA
+5220603;Silvânia;GO;Centro-Oeste;BRA
+5220702;Sítio d'Abadia;GO;Centro-Oeste;BRA
+5221577;Uirapuru;GO;Centro-Oeste;BRA
+5221601;Uruaçu;GO;Centro-Oeste;BRA
+5221908;Varjão;GO;Centro-Oeste;BRA
+5222005;Vianópolis;GO;Centro-Oeste;BRA
+5205059;Castelândia;GO;Centro-Oeste;BRA
+5205109;Catalão;GO;Centro-Oeste;BRA
+5205307;Cavalcante;GO;Centro-Oeste;BRA
+5205406;Ceres;GO;Centro-Oeste;BRA
+5206206;Cristalina;GO;Centro-Oeste;BRA
+5206800;Damolândia;GO;Centro-Oeste;BRA
+5208301;Divinópolis de Goiás;GO;Centro-Oeste;BRA
+5207253;Doverlândia;GO;Centro-Oeste;BRA
+5207352;Edealina;GO;Centro-Oeste;BRA
+5209101;Goiatuba;GO;Centro-Oeste;BRA
+5209200;Guapó;GO;Centro-Oeste;BRA
+5209291;Guaraíta;GO;Centro-Oeste;BRA
+5209408;Guarani de Goiás;GO;Centro-Oeste;BRA
+5209457;Guarinos;GO;Centro-Oeste;BRA
+5209606;Heitoraí;GO;Centro-Oeste;BRA
+5209903;Iaciara;GO;Centro-Oeste;BRA
+5209937;Inaciolândia;GO;Centro-Oeste;BRA
+5209952;Indiara;GO;Centro-Oeste;BRA
+5210208;Iporá;GO;Centro-Oeste;BRA
+5210802;Itajá;GO;Centro-Oeste;BRA
+5211404;Itauçu;GO;Centro-Oeste;BRA
+5211503;Itumbiara;GO;Centro-Oeste;BRA
+5212006;Jaupaci;GO;Centro-Oeste;BRA
+5212204;Jussara;GO;Centro-Oeste;BRA
+5212600;Mairipotaba;GO;Centro-Oeste;BRA
+5212808;Mara Rosa;GO;Centro-Oeste;BRA
+5213004;Maurilândia;GO;Centro-Oeste;BRA
+5213053;Mimoso de Goiás;GO;Centro-Oeste;BRA
+5213087;Minaçu;GO;Centro-Oeste;BRA
+5213103;Mineiros;GO;Centro-Oeste;BRA
+5213400;Moiporá;GO;Centro-Oeste;BRA
+5213509;Monte Alegre de Goiás;GO;Centro-Oeste;BRA
+5214002;Mozarlândia;GO;Centro-Oeste;BRA
+5214101;Mutunópolis;GO;Centro-Oeste;BRA
+5214705;Nova América;GO;Centro-Oeste;BRA
+5214804;Nova Aurora;GO;Centro-Oeste;BRA
+5214838;Nova Crixás;GO;Centro-Oeste;BRA
+5214861;Nova Glória;GO;Centro-Oeste;BRA
+5214879;Nova Iguaçu de Goiás;GO;Centro-Oeste;BRA
+5215306;Orizona;GO;Centro-Oeste;BRA
+5216452;Perolândia;GO;Centro-Oeste;BRA
+5216908;Pilar de Goiás;GO;Centro-Oeste;BRA
+5217302;Pirenópolis;GO;Centro-Oeste;BRA
+5217609;Planaltina;GO;Centro-Oeste;BRA
+5218789;Rio Quente;GO;Centro-Oeste;BRA
+5219001;Sanclerlândia;GO;Centro-Oeste;BRA
+5219308;Santa Helena de Goiás;GO;Centro-Oeste;BRA
+5219704;Santa Terezinha de Goiás;GO;Centro-Oeste;BRA
+5219712;Santo Antônio da Barra;GO;Centro-Oeste;BRA
+5220207;São Miguel do Araguaia;GO;Centro-Oeste;BRA
+5221007;Taquaral de Goiás;GO;Centro-Oeste;BRA
+5221502;Turvânia;GO;Centro-Oeste;BRA
+5221551;Turvelândia;GO;Centro-Oeste;BRA
+5221809;Urutaí;GO;Centro-Oeste;BRA
+5221858;Valparaíso de Goiás;GO;Centro-Oeste;BRA
+5205497;Cidade Ocidental;GO;Centro-Oeste;BRA
+5205703;Córrego do Ouro;GO;Centro-Oeste;BRA
+5205802;Corumbá de Goiás;GO;Centro-Oeste;BRA
+5206503;Cromínia;GO;Centro-Oeste;BRA
+5207501;Estrela do Norte;GO;Centro-Oeste;BRA
+5207808;Firminópolis;GO;Centro-Oeste;BRA
+5207907;Flores de Goiás;GO;Centro-Oeste;BRA
+5208905;Goiás;GO;Centro-Oeste;BRA
+5209705;Hidrolândia;GO;Centro-Oeste;BRA
+5210000;Inhumas;GO;Centro-Oeste;BRA
+5211305;Itarumã;GO;Centro-Oeste;BRA
+5212055;Jesúpolis;GO;Centro-Oeste;BRA
+5212303;Leopoldo de Bulhões;GO;Centro-Oeste;BRA
+5212907;Marzagão;GO;Centro-Oeste;BRA
+5212956;Matrinchã;GO;Centro-Oeste;BRA
+5213772;Montividiu do Norte;GO;Centro-Oeste;BRA
+5213855;Morro Agudo de Goiás;GO;Centro-Oeste;BRA
+5214408;Nazário;GO;Centro-Oeste;BRA
+5214903;Nova Roma;GO;Centro-Oeste;BRA
+5215009;Nova Veneza;GO;Centro-Oeste;BRA
+5215231;Novo Gama;GO;Centro-Oeste;BRA
+5215256;Novo Planalto;GO;Centro-Oeste;BRA
+5215603;Padre Bernardo;GO;Centro-Oeste;BRA
+5215652;Palestina de Goiás;GO;Centro-Oeste;BRA
+5215702;Palmeiras de Goiás;GO;Centro-Oeste;BRA
+5215900;Palminópolis;GO;Centro-Oeste;BRA
+5216007;Panamá;GO;Centro-Oeste;BRA
+5217203;Piranhas;GO;Centro-Oeste;BRA
+5217708;Pontalina;GO;Centro-Oeste;BRA
+5218300;Posse;GO;Centro-Oeste;BRA
+5218706;Rianápolis;GO;Centro-Oeste;BRA
+5218805;Rio Verde;GO;Centro-Oeste;BRA
+5219100;Santa Bárbara de Goiás;GO;Centro-Oeste;BRA
+5219258;Santa Fé de Goiás;GO;Centro-Oeste;BRA
+5219456;Santa Rita do Novo Destino;GO;Centro-Oeste;BRA
+5219506;Santa Rosa de Goiás;GO;Centro-Oeste;BRA
+5219605;Santa Tereza de Goiás;GO;Centro-Oeste;BRA
+5219753;Santo Antônio do Descoberto;GO;Centro-Oeste;BRA
+5220108;São Luís de Montes Belos;GO;Centro-Oeste;BRA
+5220280;São Patrício;GO;Centro-Oeste;BRA
+5220454;Senador Canedo;GO;Centro-Oeste;BRA
+5220504;Serranópolis;GO;Centro-Oeste;BRA
+5221452;Trombas;GO;Centro-Oeste;BRA
+5222054;Vicentinópolis;GO;Centro-Oeste;BRA
+5200050;Abadia de Goiás;GO;Centro-Oeste;BRA
+5200100;Abadiânia;GO;Centro-Oeste;BRA
+5200134;Acreúna;GO;Centro-Oeste;BRA
+5200159;Adelândia;GO;Centro-Oeste;BRA
+5200175;Água Fria de Goiás;GO;Centro-Oeste;BRA
+5200209;Água Limpa;GO;Centro-Oeste;BRA
+5200258;Águas Lindas de Goiás;GO;Centro-Oeste;BRA
+5200308;Alexânia;GO;Centro-Oeste;BRA
+5200506;Aloândia;GO;Centro-Oeste;BRA
+5200555;Alto Horizonte;GO;Centro-Oeste;BRA
+5200605;Alto Paraíso de Goiás;GO;Centro-Oeste;BRA
+5200803;Alvorada do Norte;GO;Centro-Oeste;BRA
+5200829;Amaralina;GO;Centro-Oeste;BRA
+5200852;Americano do Brasil;GO;Centro-Oeste;BRA
+5200902;Amorinópolis;GO;Centro-Oeste;BRA
+5201108;Anápolis;GO;Centro-Oeste;BRA
+5201207;Anhanguera;GO;Centro-Oeste;BRA
+5201306;Anicuns;GO;Centro-Oeste;BRA
+5201405;Aparecida de Goiânia;GO;Centro-Oeste;BRA
+5201454;Aparecida do Rio Doce;GO;Centro-Oeste;BRA
+5201504;Aporé;GO;Centro-Oeste;BRA
+5201603;Araçu;GO;Centro-Oeste;BRA
+5201702;Aragarças;GO;Centro-Oeste;BRA
+5201801;Aragoiânia;GO;Centro-Oeste;BRA
+5202155;Araguapaz;GO;Centro-Oeste;BRA
+5202353;Arenópolis;GO;Centro-Oeste;BRA
+5202502;Aruanã;GO;Centro-Oeste;BRA
+5202601;Aurilândia;GO;Centro-Oeste;BRA
+5202809;Avelinópolis;GO;Centro-Oeste;BRA
+5203104;Baliza;GO;Centro-Oeste;BRA
+5203203;Barro Alto;GO;Centro-Oeste;BRA
+5203302;Bela Vista de Goiás;GO;Centro-Oeste;BRA
+5203401;Bom Jardim de Goiás;GO;Centro-Oeste;BRA
+5203500;Bom Jesus de Goiás;GO;Centro-Oeste;BRA
+5203559;Bonfinópolis;GO;Centro-Oeste;BRA
+5203575;Bonópolis;GO;Centro-Oeste;BRA
+5203609;Brazabrantes;GO;Centro-Oeste;BRA
+5203807;Britânia;GO;Centro-Oeste;BRA
+5203906;Buriti Alegre;GO;Centro-Oeste;BRA
+5203939;Buriti de Goiás;GO;Centro-Oeste;BRA
+5203962;Buritinópolis;GO;Centro-Oeste;BRA
+5204003;Cabeceiras;GO;Centro-Oeste;BRA
+5204102;Cachoeira Alta;GO;Centro-Oeste;BRA
+5204201;Cachoeira de Goiás;GO;Centro-Oeste;BRA
+5204250;Cachoeira Dourada;GO;Centro-Oeste;BRA
+5204300;Caçu;GO;Centro-Oeste;BRA
+5204409;Caiapônia;GO;Centro-Oeste;BRA
+5204508;Caldas Novas;GO;Centro-Oeste;BRA
+5204557;Caldazinha;GO;Centro-Oeste;BRA
+5204607;Campestre de Goiás;GO;Centro-Oeste;BRA
+5204656;Campinaçu;GO;Centro-Oeste;BRA
+5204706;Campinorte;GO;Centro-Oeste;BRA
+5204805;Campo Alegre de Goiás;GO;Centro-Oeste;BRA
+5204904;Campos Belos;GO;Centro-Oeste;BRA
+5204953;Campos Verdes;GO;Centro-Oeste;BRA
+5205471;Chapadão do Céu;GO;Centro-Oeste;BRA
+5206404;Crixás;GO;Centro-Oeste;BRA
+5207402;Edéia;GO;Centro-Oeste;BRA
+5208509;Goiandira;GO;Centro-Oeste;BRA
+5211800;Jaraguá;GO;Centro-Oeste;BRA
+5214606;Niquelândia;GO;Centro-Oeste;BRA
+5215207;Novo Brasil;GO;Centro-Oeste;BRA
+5215801;Palmelo;GO;Centro-Oeste;BRA
+5216304;Paranaiguara;GO;Centro-Oeste;BRA
+5218607;Rialma;GO;Centro-Oeste;BRA
+5219407;Santa Rita do Araguaia;GO;Centro-Oeste;BRA
+5221304;Três Ranchos;GO;Centro-Oeste;BRA
+5205000;Carmo do Rio Verde;GO;Centro-Oeste;BRA
+5205513;Cocalzinho de Goiás;GO;Centro-Oeste;BRA
+5205521;Colinas do Sul;GO;Centro-Oeste;BRA
+5205901;Corumbaíba;GO;Centro-Oeste;BRA
+5206701;Damianópolis;GO;Centro-Oeste;BRA
+5207600;Fazenda Nova;GO;Centro-Oeste;BRA
+5208400;Goianápolis;GO;Centro-Oeste;BRA
+5208707;Goiânia;GO;Centro-Oeste;BRA
+5208806;Goianira;GO;Centro-Oeste;BRA
+5215405;Ouro Verde de Goiás;GO;Centro-Oeste;BRA
+5218052;Porteirão;GO;Centro-Oeste;BRA
+5219738;Santo Antônio de Goiás;GO;Centro-Oeste;BRA
+5219902;São Francisco de Goiás;GO;Centro-Oeste;BRA
+5220058;São João da Paraúna;GO;Centro-Oeste;BRA
+5220686;Simolândia;GO;Centro-Oeste;BRA
+5221080;Teresina de Goiás;GO;Centro-Oeste;BRA
+5221197;Terezópolis de Goiás;GO;Centro-Oeste;BRA
+5221403;Trindade;GO;Centro-Oeste;BRA
+5221700;Uruana;GO;Centro-Oeste;BRA
+5222203;Vila Boa;GO;Centro-Oeste;BRA
+5222302;Vila Propício;GO;Centro-Oeste;BRA
+1703867;Cariri do Tocantins;TO;Norte;BRA
+1703883;Carmolândia;TO;Norte;BRA
+1703891;Carrasco Bonito;TO;Norte;BRA
+1707652;Figueirópolis;TO;Norte;BRA
+1708254;Fortaleza do Tabocão;TO;Norte;BRA
+1710508;Itacajá;TO;Norte;BRA
+1711506;Jaú do Tocantins;TO;Norte;BRA
+1711803;Juarina;TO;Norte;BRA
+1711902;Lagoa da Confusão;TO;Norte;BRA
+1712009;Lajeado;TO;Norte;BRA
+1712454;Luzinópolis;TO;Norte;BRA
+1712801;Maurilândia do Tocantins;TO;Norte;BRA
+1713205;Miracema do Tocantins;TO;Norte;BRA
+1713700;Monte Santo do Tocantins;TO;Norte;BRA
+1714203;Natividade;TO;Norte;BRA
+1715002;Nova Rosalândia;TO;Norte;BRA
+1715150;Novo Alegre;TO;Norte;BRA
+1721000;Palmas;TO;Norte;BRA
+1716307;Pau D'Arco;TO;Norte;BRA
+1717008;Pindorama do Tocantins;TO;Norte;BRA
+1717206;Piraquê;TO;Norte;BRA
+1717909;Ponte Alta do Tocantins;TO;Norte;BRA
+1718402;Presidente Kennedy;TO;Norte;BRA
+1718550;Riachinho;TO;Norte;BRA
+1718659;Rio da Conceição;TO;Norte;BRA
+1720804;Sítio Novo do Tocantins;TO;Norte;BRA
+1720903;Taguatinga;TO;Norte;BRA
+1720978;Talismã;TO;Norte;BRA
+1721307;Tupiratins;TO;Norte;BRA
+1705102;Chapada da Natividade;TO;Norte;BRA
+1716703;Colméia;TO;Norte;BRA
+1705557;Combinado;TO;Norte;BRA
+1705607;Conceição do Tocantins;TO;Norte;BRA
+1706258;Crixás do Tocantins;TO;Norte;BRA
+1707009;Dianópolis;TO;Norte;BRA
+1707108;Divinópolis do Tocantins;TO;Norte;BRA
+1707306;Dueré;TO;Norte;BRA
+1710904;Itapiratins;TO;Norte;BRA
+1711951;Lagoa do Tocantins;TO;Norte;BRA
+1712157;Lavandeira;TO;Norte;BRA
+1712405;Lizarda;TO;Norte;BRA
+1712504;Marianópolis do Tocantins;TO;Norte;BRA
+1712702;Mateiros;TO;Norte;BRA
+1713304;Miranorte;TO;Norte;BRA
+1713601;Monte do Carmo;TO;Norte;BRA
+1713957;Muricilândia;TO;Norte;BRA
+1715507;Oliveira de Fátima;TO;Norte;BRA
+1715705;Palmeirante;TO;Norte;BRA
+1716208;Paranã;TO;Norte;BRA
+1716505;Pedro Afonso;TO;Norte;BRA
+1717800;Ponte Alta do Bom Jesus;TO;Norte;BRA
+1718303;Praia Norte;TO;Norte;BRA
+1718808;Sampaio;TO;Norte;BRA
+1718840;Sandolândia;TO;Norte;BRA
+1718865;Santa Fé do Araguaia;TO;Norte;BRA
+1718881;Santa Maria do Tocantins;TO;Norte;BRA
+1720002;Santa Terezinha do Tocantins;TO;Norte;BRA
+1720101;São Bento do Tocantins;TO;Norte;BRA
+1720150;São Félix do Tocantins;TO;Norte;BRA
+1720259;São Salvador do Tocantins;TO;Norte;BRA
+1721109;Tocantínia;TO;Norte;BRA
+1721257;Tupirama;TO;Norte;BRA
+1703909;Caseara;TO;Norte;BRA
+1704105;Centenário;TO;Norte;BRA
+1706506;Darcinópolis;TO;Norte;BRA
+1707207;Dois Irmãos do Tocantins;TO;Norte;BRA
+1707405;Esperantina;TO;Norte;BRA
+1707553;Fátima;TO;Norte;BRA
+1708205;Formoso do Araguaia;TO;Norte;BRA
+1709005;Goiatins;TO;Norte;BRA
+1709302;Guaraí;TO;Norte;BRA
+1710706;Itaguatins;TO;Norte;BRA
+1714880;Nova Olinda;TO;Norte;BRA
+1713809;Palmeiras do Tocantins;TO;Norte;BRA
+1715754;Palmeirópolis;TO;Norte;BRA
+1716109;Paraíso do Tocantins;TO;Norte;BRA
+1716604;Peixe;TO;Norte;BRA
+1716653;Pequizeiro;TO;Norte;BRA
+1717503;Pium;TO;Norte;BRA
+1718501;Recursolândia;TO;Norte;BRA
+1718899;Santa Rita do Tocantins;TO;Norte;BRA
+1720309;São Sebastião do Tocantins;TO;Norte;BRA
+1720499;São Valério;TO;Norte;BRA
+1720655;Silvanópolis;TO;Norte;BRA
+1720853;Sucupira;TO;Norte;BRA
+1721208;Tocantinópolis;TO;Norte;BRA
+1722081;Wanderlândia;TO;Norte;BRA
+1722107;Xambioá;TO;Norte;BRA
+1704600;Chapada de Areia;TO;Norte;BRA
+1705508;Colinas do Tocantins;TO;Norte;BRA
+1706100;Cristalândia;TO;Norte;BRA
+1707702;Filadélfia;TO;Norte;BRA
+1708304;Goianorte;TO;Norte;BRA
+1709500;Gurupi;TO;Norte;BRA
+1714302;Nazaré;TO;Norte;BRA
+1715101;Novo Acordo;TO;Norte;BRA
+1718006;Porto Alegre do Tocantins;TO;Norte;BRA
+1718758;Rio Sono;TO;Norte;BRA
+1718907;Santa Rosa do Tocantins;TO;Norte;BRA
+1720200;São Miguel do Tocantins;TO;Norte;BRA
+1720937;Taipas do Tocantins;TO;Norte;BRA
+1700251;Abreulândia;TO;Norte;BRA
+1700301;Aguiarnópolis;TO;Norte;BRA
+1700350;Aliança do Tocantins;TO;Norte;BRA
+1700400;Almas;TO;Norte;BRA
+1700707;Alvorada;TO;Norte;BRA
+1701002;Ananás;TO;Norte;BRA
+1701051;Angico;TO;Norte;BRA
+1701101;Aparecida do Rio Negro;TO;Norte;BRA
+1701309;Aragominas;TO;Norte;BRA
+1701903;Araguacema;TO;Norte;BRA
+1702000;Araguaçu;TO;Norte;BRA
+1702109;Araguaína;TO;Norte;BRA
+1702158;Araguanã;TO;Norte;BRA
+1702208;Araguatins;TO;Norte;BRA
+1702307;Arapoema;TO;Norte;BRA
+1702406;Arraias;TO;Norte;BRA
+1702554;Augustinópolis;TO;Norte;BRA
+1702703;Aurora do Tocantins;TO;Norte;BRA
+1702901;Axixá do Tocantins;TO;Norte;BRA
+1703008;Babaçulândia;TO;Norte;BRA
+1703057;Bandeirantes do Tocantins;TO;Norte;BRA
+1703073;Barra do Ouro;TO;Norte;BRA
+1703107;Barrolândia;TO;Norte;BRA
+1703206;Bernardo Sayão;TO;Norte;BRA
+1703305;Bom Jesus do Tocantins;TO;Norte;BRA
+1703602;Brasilândia do Tocantins;TO;Norte;BRA
+1703701;Brejinho de Nazaré;TO;Norte;BRA
+1703800;Buriti do Tocantins;TO;Norte;BRA
+1703826;Cachoeirinha;TO;Norte;BRA
+1703842;Campos Lindos;TO;Norte;BRA
+1709807;Ipueiras;TO;Norte;BRA
+1711100;Itaporã do Tocantins;TO;Norte;BRA
+1715259;Novo Jardim;TO;Norte;BRA
+1718204;Porto Nacional;TO;Norte;BRA
+1718451;Pugmil;TO;Norte;BRA
+1718709;Rio dos Bois;TO;Norte;BRA
+1719004;Santa Tereza do Tocantins;TO;Norte;BRA
+1502756;Concórdia do Pará;PA;Norte;BRA
+1503408;Inhangapi;PA;Norte;BRA
+1503705;Itupiranga;PA;Norte;BRA
+1503804;Jacundá;PA;Norte;BRA
+1503903;Juruti;PA;Norte;BRA
+1504109;Magalhães Barata;PA;Norte;BRA
+1504307;Maracanã;PA;Norte;BRA
+1504406;Marapanim;PA;Norte;BRA
+1505007;Nova Timboteua;PA;Norte;BRA
+1505106;Óbidos;PA;Norte;BRA
+1505205;Oeiras do Pará;PA;Norte;BRA
+1505403;Ourém;PA;Norte;BRA
+1505635;Piçarra;PA;Norte;BRA
+1506138;Redenção;PA;Norte;BRA
+1506609;Santa Maria do Pará;PA;Norte;BRA
+1507151;São Domingos do Araguaia;PA;Norte;BRA
+1507755;Sapucaia;PA;Norte;BRA
+1507904;Soure;PA;Norte;BRA
+1507961;Terra Alta;PA;Norte;BRA
+1507979;Terra Santa;PA;Norte;BRA
+1508084;Tucumã;PA;Norte;BRA
+1508308;Viseu;PA;Norte;BRA
+1508357;Vitória do Xingu;PA;Norte;BRA
+1502301;Capitão Poço;PA;Norte;BRA
+1502707;Conceição do Araguaia;PA;Norte;BRA
+1502905;Curuçá;PA;Norte;BRA
+1502954;Eldorado do Carajás;PA;Norte;BRA
+1503002;Faro;PA;Norte;BRA
+1503457;Ipixuna do Pará;PA;Norte;BRA
+1503606;Itaituba;PA;Norte;BRA
+1503754;Jacareacanga;PA;Norte;BRA
+1504059;Mãe do Rio;PA;Norte;BRA
+1504455;Medicilândia;PA;Norte;BRA
+1504505;Melgaço;PA;Norte;BRA
+1504604;Mocajuba;PA;Norte;BRA
+1504703;Moju;PA;Norte;BRA
+1504802;Monte Alegre;PA;Norte;BRA
+1505031;Novo Progresso;PA;Norte;BRA
+1505064;Novo Repartimento;PA;Norte;BRA
+1505437;Ourilândia do Norte;PA;Norte;BRA
+1505494;Palestina do Pará;PA;Norte;BRA
+1505502;Paragominas;PA;Norte;BRA
+1506104;Primavera;PA;Norte;BRA
+1506112;Quatipuru;PA;Norte;BRA
+1506161;Rio Maria;PA;Norte;BRA
+1506187;Rondon do Pará;PA;Norte;BRA
+1506195;Rurópolis;PA;Norte;BRA
+1506559;Santa Luzia do Pará;PA;Norte;BRA
+1506708;Santana do Araguaia;PA;Norte;BRA
+1506807;Santarém;PA;Norte;BRA
+1507003;Santo Antônio do Tauá;PA;Norte;BRA
+1507409;São Francisco do Pará;PA;Norte;BRA
+1507458;São Geraldo do Araguaia;PA;Norte;BRA
+1507466;São João da Ponta;PA;Norte;BRA
+1507474;São João de Pirabas;PA;Norte;BRA
+1507508;São João do Araguaia;PA;Norte;BRA
+1507953;Tailândia;PA;Norte;BRA
+1508159;Uruará;PA;Norte;BRA
+1508209;Vigia;PA;Norte;BRA
+1502509;Chaves;PA;Norte;BRA
+1502764;Cumaru do Norte;PA;Norte;BRA
+1502772;Curionópolis;PA;Norte;BRA
+1503044;Floresta do Araguaia;PA;Norte;BRA
+1503077;Garrafão do Norte;PA;Norte;BRA
+1503101;Gurupá;PA;Norte;BRA
+1503507;Irituia;PA;Norte;BRA
+1504000;Limoeiro do Ajuru;PA;Norte;BRA
+1504422;Marituba;PA;Norte;BRA
+1504901;Muaná;PA;Norte;BRA
+1505304;Oriximiná;PA;Norte;BRA
+1505809;Portel;PA;Norte;BRA
+1506005;Prainha;PA;Norte;BRA
+1506203;Salinópolis;PA;Norte;BRA
+1506302;Salvaterra;PA;Norte;BRA
+1506583;Santa Maria das Barreiras;PA;Norte;BRA
+1506906;Santarém Novo;PA;Norte;BRA
+1507102;São Caetano de Odivelas;PA;Norte;BRA
+1507300;São Félix do Xingu;PA;Norte;BRA
+1508050;Trairão;PA;Norte;BRA
+1508100;Tucuruí;PA;Norte;BRA
+1508126;Ulianópolis;PA;Norte;BRA
+1508407;Xinguara;PA;Norte;BRA
+1502400;Castanhal;PA;Norte;BRA
+1502608;Colares;PA;Norte;BRA
+1502855;Curuá;PA;Norte;BRA
+1503093;Goianésia do Pará;PA;Norte;BRA
+1504208;Marabá;PA;Norte;BRA
+1504950;Nova Esperança do Piriá;PA;Norte;BRA
+1505650;Placas;PA;Norte;BRA
+1506401;Santa Cruz do Arari;PA;Norte;BRA
+1507201;São Domingos do Capim;PA;Norte;BRA
+1500107;Abaetetuba;PA;Norte;BRA
+1500131;Abel Figueiredo;PA;Norte;BRA
+1500206;Acará;PA;Norte;BRA
+1500305;Afuá;PA;Norte;BRA
+1500347;Água Azul do Norte;PA;Norte;BRA
+1500404;Alenquer;PA;Norte;BRA
+1500602;Altamira;PA;Norte;BRA
+1500701;Anajás;PA;Norte;BRA
+1500800;Ananindeua;PA;Norte;BRA
+1500859;Anapu;PA;Norte;BRA
+1500958;Aurora do Pará;PA;Norte;BRA
+1501006;Aveiro;PA;Norte;BRA
+1501105;Bagre;PA;Norte;BRA
+1501204;Baião;PA;Norte;BRA
+1501253;Bannach;PA;Norte;BRA
+1501303;Barcarena;PA;Norte;BRA
+1501402;Belém;PA;Norte;BRA
+1501451;Belterra;PA;Norte;BRA
+1501501;Benevides;PA;Norte;BRA
+1501576;Bom Jesus do Tocantins;PA;Norte;BRA
+1501600;Bonito;PA;Norte;BRA
+1501709;Bragança;PA;Norte;BRA
+1501725;Brasil Novo;PA;Norte;BRA
+1501758;Brejo Grande do Araguaia;PA;Norte;BRA
+1501782;Breu Branco;PA;Norte;BRA
+1501808;Breves;PA;Norte;BRA
+1501907;Bujaru;PA;Norte;BRA
+1502004;Cachoeira do Arari;PA;Norte;BRA
+1501956;Cachoeira do Piriá;PA;Norte;BRA
+1502103;Cametá;PA;Norte;BRA
+1502152;Canaã dos Carajás;PA;Norte;BRA
+1502202;Capanema;PA;Norte;BRA
+1502806;Curralinho;PA;Norte;BRA
+1504976;Nova Ipixuna;PA;Norte;BRA
+1505536;Parauapebas;PA;Norte;BRA
+1505700;Ponta de Pedras;PA;Norte;BRA
+1505908;Porto de Moz;PA;Norte;BRA
+1507607;São Miguel do Guamá;PA;Norte;BRA
+1507706;São Sebastião da Boa Vista;PA;Norte;BRA
+1200179;Capixaba;AC;Norte;BRA
+1400209;Caracaraí;RR;Norte;BRA
+1301001;Carauari;AM;Norte;BRA
+1400233;Caroebe;RR;Norte;BRA
+1301209;Coari;AM;Norte;BRA
+1301308;Codajás;AM;Norte;BRA
+1200203;Cruzeiro do Sul;AC;Norte;BRA
+1200302;Feijó;AC;Norte;BRA
+1101005;Governador Jorge Teixeira;RO;Norte;BRA
+1301654;Guajará;AM;Norte;BRA
+1301852;Iranduba;AM;Norte;BRA
+1301902;Itacoatiara;AM;Norte;BRA
+1302009;Itapiranga;AM;Norte;BRA
+1100114;Jaru;RO;Norte;BRA
+1302207;Juruá;AM;Norte;BRA
+1600279;Laranjal do Jari;AP;Norte;BRA
+1100130;Machadinho D'Oeste;RO;Norte;BRA
+1302702;Manicoré;AM;Norte;BRA
+1101203;Ministro Andreazza;RO;Norte;BRA
+1400407;Normandia;RR;Norte;BRA
+1600501;Oiapoque;AP;Norte;BRA
+1100155;Ouro Preto do Oeste;RO;Norte;BRA
+1400456;Pacaraima;RR;Norte;BRA
+1101450;Parecis;RO;Norte;BRA
+1303403;Parintins;AM;Norte;BRA
+1100189;Pimenta Bueno;RO;Norte;BRA
+1303536;Presidente Figueiredo;AM;Norte;BRA
+1100254;Presidente Médici;RO;Norte;BRA
+1303601;Santa Isabel do Rio Negro;AM;Norte;BRA
+1100296;Santa Luzia D'Oeste;RO;Norte;BRA
+1600600;Santana;AP;Norte;BRA
+1101484;São Felipe D'Oeste;RO;Norte;BRA
+1303809;São Gabriel da Cachoeira;AM;Norte;BRA
+1100320;São Miguel do Guaporé;RO;Norte;BRA
+1304005;Silves;AM;Norte;BRA
+1200609;Tarauacá;AC;Norte;BRA
+1304203;Tefé;AM;Norte;BRA
+1101559;Teixeirópolis;RO;Norte;BRA
+1101708;Urupá;RO;Norte;BRA
+1301100;Careiro;AM;Norte;BRA
+1100072;Corumbiara;RO;Norte;BRA
+1100080;Costa Marques;RO;Norte;BRA
+1100098;Espigão D'Oeste;RO;Norte;BRA
+1600238;Ferreira Gomes;AP;Norte;BRA
+1301704;Humaitá;AM;Norte;BRA
+1101104;Itapuã do Oeste;RO;Norte;BRA
+1100122;Ji-Paraná;RO;Norte;BRA
+1200328;Jordão;AC;Norte;BRA
+1302405;Lábrea;AM;Norte;BRA
+1600303;Macapá;AP;Norte;BRA
+1302603;Manaus;AM;Norte;BRA
+1200336;Mâncio Lima;AC;Norte;BRA
+1200344;Manoel Urbano;AC;Norte;BRA
+1101401;Monte Negro;RO;Norte;BRA
+1303304;Novo Aripuanã;AM;Norte;BRA
+1100502;Novo Horizonte do Oeste;RO;Norte;BRA
+1303502;Pauini;AM;Norte;BRA
+1600154;Pedra Branca do Amapari;AP;Norte;BRA
+1200385;Plácido de Castro;AC;Norte;BRA
+1100205;Porto Velho;RO;Norte;BRA
+1200393;Porto Walter;AC;Norte;BRA
+1600550;Pracuúba;AP;Norte;BRA
+1200401;Rio Branco;AC;Norte;BRA
+1400472;Rorainópolis;RR;Norte;BRA
+1303700;Santo Antônio do Içá;AM;Norte;BRA
+1101492;São Francisco do Guaporé;RO;Norte;BRA
+1600055;Serra do Navio;AP;Norte;BRA
+1304062;Tabatinga;AM;Norte;BRA
+1600709;Tartarugalzinho;AP;Norte;BRA
+1304237;Tonantins;AM;Norte;BRA
+1304260;Uarini;AM;Norte;BRA
+1400704;Uiramutã;RR;Norte;BRA
+1600808;Vitória do Jari;AP;Norte;BRA
+1100924;Chupinguaia;RO;Norte;BRA
+1301506;Envira;AM;Norte;BRA
+1200252;Epitaciolândia;AC;Norte;BRA
+1301605;Fonte Boa;AM;Norte;BRA
+1100106;Guajará-Mirim;RO;Norte;BRA
+1301803;Ipixuna;AM;Norte;BRA
+1400282;Iracema;RR;Norte;BRA
+1302108;Japurá;AM;Norte;BRA
+1302306;Jutaí;AM;Norte;BRA
+1302553;Manaquiri;AM;Norte;BRA
+1302801;Maraã;AM;Norte;BRA
+1200351;Marechal Thaumaturgo;AC;Norte;BRA
+1600402;Mazagão;AP;Norte;BRA
+1101302;Mirante da Serra;RO;Norte;BRA
+1400308;Mucajaí;RR;Norte;BRA
+1100148;Nova Brasilândia D'Oeste;RO;Norte;BRA
+1100338;Nova Mamoré;RO;Norte;BRA
+1303106;Nova Olinda do Norte;AM;Norte;BRA
+1303205;Novo Airão;AM;Norte;BRA
+1101468;Pimenteiras do Oeste;RO;Norte;BRA
+1600535;Porto Grande;AP;Norte;BRA
+1101476;Primavera de Rondônia;RO;Norte;BRA
+1100262;Rio Crespo;RO;Norte;BRA
+1303569;Rio Preto da Eva;AM;Norte;BRA
+1200427;Rodrigues Alves;AC;Norte;BRA
+1200435;Santa Rosa do Purus;AC;Norte;BRA
+1400506;São João da Baliza;RR;Norte;BRA
+1400605;São Luiz;RR;Norte;BRA
+1303908;São Paulo de Olivença;AM;Norte;BRA
+1303957;São Sebastião do Uatumã;AM;Norte;BRA
+1200450;Senador Guiomard;AC;Norte;BRA
+1101609;Theobroma;RO;Norte;BRA
+1304302;Urucará;AM;Norte;BRA
+1304401;Urucurituba;AM;Norte;BRA
+1101757;Vale do Anari;RO;Norte;BRA
+1101807;Vale do Paraíso;RO;Norte;BRA
+1100304;Vilhena;RO;Norte;BRA
+1200708;Xapuri;AC;Norte;BRA
+1100908;Castanheiras;RO;Norte;BRA
+1100056;Cerejeiras;RO;Norte;BRA
+1303007;Nhamundá;AM;Norte;BRA
+1304104;Tapauá;AM;Norte;BRA
+1200013;Acrelândia;AC;Norte;BRA
+1100015;Alta Floresta D'Oeste;RO;Norte;BRA
+1400050;Alto Alegre;RR;Norte;BRA
+1100379;Alto Alegre dos Parecis;RO;Norte;BRA
+1100403;Alto Paraíso;RO;Norte;BRA
+1300029;Alvarães;AM;Norte;BRA
+1100346;Alvorada D'Oeste;RO;Norte;BRA
+1400027;Amajari;RR;Norte;BRA
+1600105;Amapá;AP;Norte;BRA
+1300060;Amaturá;AM;Norte;BRA
+1300086;Anamã;AM;Norte;BRA
+1300102;Anori;AM;Norte;BRA
+1300144;Apuí;AM;Norte;BRA
+1100023;Ariquemes;RO;Norte;BRA
+1200054;Assis Brasil;AC;Norte;BRA
+1300201;Atalaia do Norte;AM;Norte;BRA
+1300300;Autazes;AM;Norte;BRA
+1300409;Barcelos;AM;Norte;BRA
+1300508;Barreirinha;AM;Norte;BRA
+1300607;Benjamin Constant;AM;Norte;BRA
+1300631;Beruri;AM;Norte;BRA
+1400100;Boa Vista;RR;Norte;BRA
+1300680;Boa Vista do Ramos;AM;Norte;BRA
+1300706;Boca do Acre;AM;Norte;BRA
+1400159;Bonfim;RR;Norte;BRA
+1300805;Borba;AM;Norte;BRA
+1200104;Brasiléia;AC;Norte;BRA
+1200138;Bujari;AC;Norte;BRA
+1100452;Buritis;RO;Norte;BRA
+1300839;Caapiranga;AM;Norte;BRA
+1100031;Cabixi;RO;Norte;BRA
+1100601;Cacaulândia;RO;Norte;BRA
+1100049;Cacoal;RO;Norte;BRA
+1600204;Calçoene;AP;Norte;BRA
+1100700;Campo Novo de Rondônia;RO;Norte;BRA
+1100809;Candeias do Jamari;RO;Norte;BRA
+1400175;Cantá;RR;Norte;BRA
+1300904;Canutama;AM;Norte;BRA
+1100064;Colorado do Oeste;RO;Norte;BRA
+1100940;Cujubim;RO;Norte;BRA
+1301407;Eirunepé;AM;Norte;BRA
+1302504;Manacapuru;AM;Norte;BRA
+1302900;Maués;AM;Norte;BRA
+1101435;Nova União;RO;Norte;BRA
+1200807;Porto Acre;AC;Norte;BRA
+1100288;Rolim de Moura;RO;Norte;BRA
+1101500;Seringueiras;RO;Norte;BRA

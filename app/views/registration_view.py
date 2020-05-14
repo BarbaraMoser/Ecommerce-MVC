@@ -3,6 +3,7 @@ from typing import Type
 from flask import Blueprint, render_template, request, redirect
 
 from app.controllers.business_person_controller import BusinessPersonController
+from app.controllers.files_integration_controller import FilesIntegrationController
 from app.controllers.individual_person_controller import IndividualPersonController
 from app.controllers.login_controller import LoginController
 from app.models.person.person import Person
@@ -31,3 +32,13 @@ def salvar_cadastro():
         return redirect('/access_allowed')
     except:
         return redirect('/access_denied')
+
+
+@app_cadastro.route('/find_city/<id>', methods=['GET'])
+def buscar_cidade():
+    file_integration_controller = FilesIntegrationController()
+    try:
+        city = file_integration_controller.txt_integration(str(id))
+        return city
+    except:
+        return 'City not found.'
