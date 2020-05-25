@@ -69,6 +69,7 @@ label {
 	align: middle;
 	font-size: 20px;
 	padding: 10px 20px;
+    display:inline-block;
 }
 
 .cadastro{
@@ -87,6 +88,7 @@ label {
   width: 90%;
   max-width: 900px;
   margin-left: 10%;
+  margin-right: 10%:
   position: relative;
   -webkit-box-shadow: 0 30px 60px 0 rgba(0,0,0,0.3);
   box-shadow: 0 30px 60px 0 rgba(0,0,0,0.3);
@@ -94,11 +96,15 @@ label {
 }
 
 .input-md{
-	width: 80%;
+	width: auto;
 	font-size: 16px;
 	border-radius: 8px;
 	border: 1px solid transparent;
 	padding: 5px;
+}
+
+.row{
+   position: relative;
 }
 
 .panel {
@@ -123,7 +129,15 @@ label {
   width: 30%;
  }
 
-input[type=button], input[type=submit], input[type=reset]  {
+.buscaCep {
+  color: #ffffff;
+  font-weight: bold;
+  text-decoration: none;
+  font-weight: 500;
+  width: 30%;
+ }
+
+input[type=submit], input[type=reset]  {
   background-color: #343A40;
   border: none;
   color: white;
@@ -143,6 +157,7 @@ input[type=button], input[type=submit], input[type=reset]  {
   -ms-transition: all 0.3s ease-in-out;
   -o-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
+  float: left;
 }
 
 input[type=button]:hover, input[type=submit]:hover, input[type=reset]:hover  {

@@ -10,6 +10,8 @@ flask = "*"
 mysqlclient = "*"
 django-request = "*"
 pandas = "*"
+requests = "*"
+request = "*"
 
 [requires]
 python_version = "3.8"
