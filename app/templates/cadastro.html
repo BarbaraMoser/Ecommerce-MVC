@@ -10,11 +10,18 @@
 			<div id="signupbox" style=" margin-top:50px" class="mainbox col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2">
 				<div class="panel panel-info">
 					<div class="panel-body" >
-						<form  class="form-horizontal" action="/salvar_cadastro" method="POST">
-							<input type='hidden' name='csrfmiddlewaretoken' value='XFe2rTYl9WOpV8U6X5CfbIuOZOELJ97S' />
+						<input type='hidden' name='csrfmiddlewaretoken' value='XFe2rTYl9WOpV8U6X5CfbIuOZOELJ97S' />
 							<div class="cadastro">
 								<h4> REGISTRATION </h4>
 							</div>
+						<form class="form-horizontal" action="/buscar_cep" method="POST">
+							<div id="div_busca_cep" class="form-group required">
+								<input class="input-md" id="cep" name="cep" maxlength="30" style="margin-bottom: 10px; margin-left: -850px;" placeholder="Your pincode and city" type="text" />
+<!--								<input type="submit" class="buscaCep" value="Buscar CEP">-->
+								<input type="button" action="../app/controllers/api_integration_controller.py" value="Buscar CEP">
+							</div>
+						</form>
+						<form  class="form-horizontal" action="/salvar_cadastro" method="POST">
 							<div id="div_id_pessoa" class="select_type">
 								<label class="control-label col-md-4  requiredField"> Type of Registration<span class="asteriskField">*</span> </label>
 								<select id="tipo_pessoa" name="tipo_pessoa" onchange="verificarPessoa()">
@@ -24,43 +31,35 @@
 								</select>
 							</div>
 							<div id="div_id_name" class="form-group required">
-<!--								<label for="id_name" class="control-label col-md-4  requiredField"> Full name<span class="asteriskField">*</span> </label>-->
 								<input class="input-md" id="id_name" name="	name" placeholder="Full name" style="margin-bottom: 10px" type="text" />
-<!--								<label for="id_email" class="control-label col-md-4  requiredField"> E-mail<span class="asteriskField">*</span> </label>-->
 								<input class="input-md" id="id_email" name="email" placeholder="Email address" style="margin-bottom: 10px" type="email" />
 							</div>
 							<div id="div_id_birth" class="form-group required">
-<!--								<label for="id_birth" class="control-label col-md-4  requiredField"> Date of Birth<span class="asteriskField">*</span> </label>-->
 								<input class="input-md" id="id_birth" name="date_of_birth" placeholder="Birthday (yyyy/mm/dd)" style="margin-bottom: 10px" type="text" />
-<!--								<label for="id_rg" class="control-label col-md-4  requiredField"> RG<span class="asteriskField">*</span> </label>-->
 								<input class="input-md" id="id_rg" name="rg" placeholder="RG" style="margin-bottom: 10px" type="text" />
 							</div>
 							<div id="div_id_cpf" class="form-group required">
-<!--								<label for="id_cpf" class="control-label col-md-4  requiredField"> CPF<span class="asteriskField">*</span> </label>-->
 								<input class="input-md" id="id_cpf" name="cpf" placeholder="CPF" style="margin-bottom: 10px" type="text" />
-<!--								<label for="id_cnpj" class="control-label col-md-4  requiredField"> CNPJ<span class="asteriskField">*</span> </label>-->
 								<input class="input-md" id="id_cnpj" name="cnpj" placeholder="CNPJ" style="margin-bottom: 10px" type="text" />
 							</div>
 							<div id="div_state_regis" class="form-group required">
-<!--								<label for="id_state_regis" class="control-label col-md-4  requiredField"> State Registration<span class="asteriskField">*</span> </label>-->
 								<input class="input-md" id="id_state_regis" name="state_registration" placeholder="State registration" style="margin-bottom: 10px" type="text" />
-<!--								<label for="id_number" class="control-label col-md-4  requiredField"> Contact number<span class="asteriskField">*</span> </label>-->
 								<input class="input-md" id="id_number" name="number" placeholder="Phone" style="margin-bottom: 10px" type="text" />
 							</div>
 							<div id="div_id_username" class="form-group required">
-<!--								<label for="id_username" class="control-label col-md-4  requiredField"> Username<span class="asteriskField">*</span> </label>-->
 								<input class="input-md" id="id_username" maxlength="30" name="username" placeholder="Choose an username" style="margin-bottom: 10px" type="text" />
-<!--								<label for="id_password1" class="control-label col-md-4  requiredField">Password<span class="asteriskField">*</span> </label>-->
 								<input class="input-md" id="id_password1" name="password" placeholder="Create a password" style="margin-bottom: 10px" type="password" />
+							</div>
+							<div id="div_id_street" class="form-group required">
+								<input class="input-md" id="id_street" name="street" placeholder="Street" style="margin-bottom: 10px" type="text" />
+								<input class="input-md" id="id_neighborhood" name="neighborhood" placeholder="Neighborhood" style="margin-bottom: 10px" type="text" />
+							</div>
+							<div id="div_id_city" class="form-group required">
+								<input class="input-md" id="id_city" maxlength="30" name="city" placeholder="City" style="margin-bottom: 10px" type="text" />
+								<input class="input-md" id="id_state" name="state" placeholder="State" style="margin-bottom: 10px" type="text" />
 							</div>
 							<div>
 								<input type="submit" class="saveButton" style=" margin-left: 550px;" value="Salvar Cadastro">
-							</div>
-						</form>
-						<form class="form-horizontal" action="/buscar_cep" method="POST">
-							<div id="div_busca_cep" class="form-group required">
-								<input class="input-md" id="cep" name="cep" maxlength="30" style="margin-bottom: 10px; margin-left: -850px;" placeholder="Your pincode and city" type="text" />
-								<input type="submit" class="buscaCep" value="Buscar CEP">
 							</div>
 						</form>
 						<script type="text/javascript">
@@ -82,6 +81,12 @@
 									document.getElementById('id_cnpj').disabled = false;
 									document.getElementById('id_state_regis').disabled = false;
 								}
+							}
+							function buscar endereco()
+							{
+
+
+
 							}
 						</script>
 					</div>
